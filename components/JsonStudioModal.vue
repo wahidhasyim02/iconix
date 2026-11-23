@@ -307,7 +307,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, watch } from 'vue';
+import { ref, watch, computed, onMounted } from 'vue';
 import { Check, Copy, Download, FileUp, Plus, RotateCcw, X } from 'lucide-vue-next';
 import type { IconEntry, IconSettings, IconStyleVariant } from '~/types/icon';
 import { validateIconsJson } from '~/utils/svgEngine';
@@ -333,6 +333,13 @@ const emit = defineEmits<{
   'notify': [message: string, tone?: 'success' | 'info' | 'error'];
 }>();
 
+const siteOrigin = ref(typeof window !== 'undefined' ? window.location.origin : '');
+onMounted(() => {
+  if (typeof window !== 'undefined' && window.location.origin) {
+    siteOrigin.value = window.location.origin;
+  }
+});
+
 const tab = ref<'guide' | 'import' | 'add' | 'embed'>(props.initialTab);
 watch(
   () => props.initialTab,
@@ -350,9 +357,9 @@ const SCHEMA_EXAMPLE = `[
   }
 ]`;
 
-const EMBED_TAG_EXAMPLE = `<!-- 1. Include this loader script once in your HTML -->
+const EMBED_TAG_EXAMPLE = computed(() => `<!-- 1. Include this loader script once in your HTML -->
 <script type="module">
-  const res = await fetch('https://iconix.conime.id/icons.json');
+  const res = await fetch('${siteOrigin.value}/icons.json');
   const data = await res.json();
   const list = Array.isArray(data) ? data : (data.icons || []);
   const map = new Map(list.map(i => [i.name, i.svg]));
@@ -450,7 +457,7 @@ const EMBED_TAG_EXAMPLE = `<!-- 1. Include this loader script once in your HTML 
 <ix-icon name="circle-plus" variant="line-duotone" size="24"></ix-icon>
 <ix-icon name="circle-plus" variant="solid" size="24"></ix-icon>
 <ix-icon name="circle-plus" variant="duotone" size="24"></ix-icon>
-<ix-icon name="circle-plus" variant="duotone-linear" size="24"></ix-icon>`;
+<ix-icon name="circle-plus" variant="duotone-linear" size="24"></ix-icon>`);
 
 const SAMPLE_NEW_SVG =
   '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"><rect data-duotone="base" x="3" y="4" width="18" height="16" rx="4"/><path data-duotone="accent" data-cutout="true" d="M8.5 12L11 14.5L15.5 9.5"/></svg>';
@@ -481,7 +488,7 @@ const handleCopySchema = async () => {
 
 const handleCopyEmbed = async () => {
   try {
-    await navigator.clipboard.writeText(EMBED_TAG_EXAMPLE);
+    await navigator.clipboard.writeText(EMBED_TAG_EXAMPLE.value);
     copiedEmbed.value = true;
     window.setTimeout(() => (copiedEmbed.value = false), 1500);
     emit('notify', 'Copied <ix-icon> Web Component snippet');

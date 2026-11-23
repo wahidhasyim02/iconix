@@ -24,6 +24,7 @@ export default defineNuxtPlugin(async () => {
             'stroke-width',
             'color',
             'primary',
+            'tone',
             'secondary',
             'secondary-color',
             'opacity',
@@ -73,9 +74,9 @@ export default defineNuxtPlugin(async () => {
             const size = parseInt(this.getAttribute('size') || '24', 10) || 24;
             const strokeWidth =
               parseFloat(this.getAttribute('stroke') || this.getAttribute('stroke-width') || '2') || 2;
-            const primaryColor = this.getAttribute('color') || 'currentColor';
+            const primaryColor = this.getAttribute('color') || this.getAttribute('primary') || 'currentColor';
             const secondaryColor =
-              this.getAttribute('secondary') || this.getAttribute('secondary-color') || primaryColor;
+              this.getAttribute('tone') || this.getAttribute('secondary') || this.getAttribute('secondary-color') || primaryColor;
             const duotoneOpacity = parseFloat(this.getAttribute('opacity') || '0.25') || 0.25;
 
             const styled = buildStyledSvg(raw, variant, {

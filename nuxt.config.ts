@@ -38,7 +38,7 @@ export default defineNuxtConfig({
             'Studio icon SVG modern: Linear, Solid, Dualtone, dan Dualtone Linear dengan live stroke, opacity, dan export instan.',
         },
         { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: 'https://iconix.conime.id' },
+        { property: 'og:url', content: process.env.NUXT_PUBLIC_SITE_URL || '' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'Iconix — SVG Icon Studio' },
         {

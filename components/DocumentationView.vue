@@ -573,7 +573,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref } from 'vue';
+import { computed, ref, onMounted } from 'vue';
 import {
   Code2,
   Sliders,
@@ -629,14 +629,21 @@ const sandboxStroke = ref(2);
 const sandboxColor = ref('currentColor');
 const sandboxDark = ref(true);
 
+const siteOrigin = ref(typeof window !== 'undefined' ? window.location.origin : '');
+onMounted(() => {
+  if (typeof window !== 'undefined' && window.location.origin) {
+    siteOrigin.value = window.location.origin;
+  }
+});
+
 const generatedTagSnippet = computed(() => {
   return `<ix-icon name="${sandboxIcon.value}" variant="${sandboxVariant.value}" size="${sandboxSize.value}" stroke="${sandboxStroke.value}"></ix-icon>`;
 });
 
 // Snippets
-const LOADER_SCRIPT_SNIPPET = `<!-- 1. Include this loader script once in your HTML -->
+const LOADER_SCRIPT_SNIPPET = computed(() => `<!-- 1. Include this loader script once in your HTML -->
 <script type="module">
-  const res = await fetch('https://iconix.conime.id/icons.json');
+  const res = await fetch('${siteOrigin.value}/icons.json');
   const data = await res.json();
   const list = Array.isArray(data) ? data : (data.icons || []);
   const map = new Map(list.map(i => [i.name, i.svg]));
@@ -647,6 +654,8 @@ const LOADER_SCRIPT_SNIPPET = `<!-- 1. Include this loader script once in your H
       const size = this.getAttribute('size') || '24';
       const stroke = this.getAttribute('stroke') || '2';
       const variant = (this.getAttribute('variant') || 'linear').trim();
+      const color = this.getAttribute('color') || 'currentColor';
+      const tone = this.getAttribute('tone') || this.getAttribute('secondary') || color;
       const raw = map.get(name);
       if (!raw) return;
 
@@ -682,13 +691,13 @@ const LOADER_SCRIPT_SNIPPET = `<!-- 1. Include this loader script once in your H
           const defs = document.createElementNS('http://www.w3.org/2000/svg', 'defs');
           defs.appendChild(mask);
           svg.prepend(defs);
-          closed.setAttribute('fill', 'currentColor');
-          closed.setAttribute('stroke', 'currentColor');
+          closed.setAttribute('fill', color);
+          closed.setAttribute('stroke', color);
           closed.setAttribute('stroke-width', stroke);
           closed.setAttribute('mask', 'url(#' + mId + ')');
         } else if (closed) {
-          closed.setAttribute('fill', 'currentColor');
-          closed.setAttribute('stroke', 'currentColor');
+          closed.setAttribute('fill', color);
+          closed.setAttribute('stroke', color);
           closed.setAttribute('stroke-width', stroke);
         }
       } else {
@@ -699,26 +708,26 @@ const LOADER_SCRIPT_SNIPPET = `<!-- 1. Include this loader script once in your H
           if (variant === 'line-duotone') {
             if (isBase) {
               el.setAttribute('fill', 'none');
-              el.setAttribute('stroke', 'currentColor');
+              el.setAttribute('stroke', tone);
               el.setAttribute('stroke-opacity', '0.35');
               el.setAttribute('stroke-width', stroke);
             } else {
               el.setAttribute('fill', 'none');
-              el.setAttribute('stroke', 'currentColor');
+              el.setAttribute('stroke', color);
               el.setAttribute('stroke-width', stroke);
             }
           } else if (variant === 'duotone' && isBase && isClosed) {
-            el.setAttribute('fill', 'currentColor');
+            el.setAttribute('fill', tone);
             el.setAttribute('fill-opacity', '0.25');
             el.removeAttribute('stroke');
           } else if (variant === 'duotone-linear' && isBase && isClosed) {
-            el.setAttribute('fill', 'currentColor');
+            el.setAttribute('fill', tone);
             el.setAttribute('fill-opacity', '0.25');
-            el.setAttribute('stroke', 'currentColor');
+            el.setAttribute('stroke', color);
             el.setAttribute('stroke-width', stroke);
           } else {
             el.setAttribute('fill', 'none');
-            el.setAttribute('stroke', 'currentColor');
+            el.setAttribute('stroke', color);
             el.setAttribute('stroke-width', stroke);
           }
         });
@@ -732,7 +741,7 @@ const LOADER_SCRIPT_SNIPPET = `<!-- 1. Include this loader script once in your H
   customElements.define('ix-icon', IxIcon);
   customElements.define('iconix-icon', class extends IxIcon {});
   customElements.define('gv-icon', class extends IxIcon {});
-<\/script>`;
+<\\/script>`);
 
 const CALL_TAGS_SNIPPET = `<!-- 2. Call anywhere with your desired variant -->
 <ix-icon name="circle-plus" variant="linear" size="24"></ix-icon>
@@ -741,14 +750,14 @@ const CALL_TAGS_SNIPPET = `<!-- 2. Call anywhere with your desired variant -->
 <ix-icon name="circle-plus" variant="duotone" size="24"></ix-icon>
 <ix-icon name="circle-plus" variant="duotone-linear" size="24"></ix-icon>`;
 
-const NUXT_UI_PLUGIN_SNIPPET = `// plugins/iconix.client.ts
+const NUXT_UI_PLUGIN_SNIPPET = computed(() => `// plugins/iconix.client.ts
 import { defineNuxtPlugin } from '#app';
 import { addCollection } from '@iconify/vue';
 
 export default defineNuxtPlugin(async () => {
   try {
     // Load the Iconix collection from the live CDN endpoint
-    const res = await fetch('https://iconix.conime.id/iconix.json');
+    const res = await fetch('${siteOrigin.value}/iconix.json');
     if (res.ok) {
       const collection = await res.json();
       addCollection(collection);
@@ -756,7 +765,7 @@ export default defineNuxtPlugin(async () => {
   } catch (err) {
     console.error('Failed to load Iconix collection:', err);
   }
-});`;
+});`);
 
 const NUXT_UI_USAGE_SNIPPET = `<!-- Use inside any Nuxt UI template -->
 <template>
@@ -793,11 +802,11 @@ export default defineNuxtConfig({
   }
 });`;
 
-const VUE_PLUGIN_SNIPPET = `// plugins/ix-icon.client.ts
+const VUE_PLUGIN_SNIPPET = computed(() => `// plugins/ix-icon.client.ts
 export default defineNuxtPlugin(async () => {
   if (typeof window === 'undefined' || customElements.get('ix-icon')) return;
 
-  const res = await fetch('https://iconix.conime.id/icons.json');
+  const res = await fetch('${siteOrigin.value}/icons.json');
   const { icons } = await res.json();
   const map = new Map(icons.map((i: any) => [i.name, i.svg]));
 
@@ -809,7 +818,7 @@ export default defineNuxtPlugin(async () => {
   customElements.define('ix-icon', IxIcon);
   customElements.define('iconix-icon', class extends IxIcon {});
   customElements.define('gv-icon', class extends IxIcon {});
-});`;
+});`);
 
 const REACT_WRAPPER_SNIPPET = `// components/IconixIcon.tsx
 'use client';
@@ -820,15 +829,17 @@ interface IconixIconProps {
   variant?: 'linear' | 'line-duotone' | 'solid' | 'duotone' | 'duotone-linear';
   size?: number | string;
   stroke?: number | string;
+  color?: string;
+  tone?: string;
   className?: string;
 }
 
-export function IconixIcon({ name, variant = 'linear', size = 24, stroke = 2, className }: IconixIconProps) {
+export function IconixIcon({ name, variant = 'linear', size = 24, stroke = 2, color, tone, className }: IconixIconProps) {
   // @ts-ignore
-  return <ix-icon name={name} variant={variant} size={size} stroke={stroke} class={className} />;
+  return <ix-icon name={name} variant={variant} size={size} stroke={stroke} color={color} tone={tone} class={className} />;
 }`;
 
-const VANILLA_HTML_SNIPPET = `<!DOCTYPE html>
+const VANILLA_HTML_SNIPPET = computed(() => `<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -840,16 +851,18 @@ const VANILLA_HTML_SNIPPET = `<!DOCTYPE html>
     <span>System Active</span>
   </div>
 
-  <script type="module" src="https://iconix.conime.id/demo.html"><\/script>
+  <script type="module" src="${siteOrigin.value}/demo.html"><\\/script>
 </body>
-</html>`;
+</html>`);
 
 const ATTRIBUTES_TABLE = [
   { name: 'name', type: 'string', default: 'Required', description: 'The semantic icon identifier matching icons.json (e.g. circle-plus, apple).' },
   { name: 'variant', type: 'string', default: '"linear"', description: 'Styling mode: linear, line-duotone (two-tone outline), solid (fill), duotone, or duotone-linear.' },
   { name: 'size', type: 'number | string', default: '"24"', description: 'Pixel dimension applied to both SVG width and height.' },
   { name: 'stroke', type: 'number | string', default: '"2"', description: 'Stroke thickness applied to paths, lines, and outlines.' },
-  { name: 'class', type: 'string', default: '—', description: 'Standard CSS class name. Colors inherit automatically via currentColor.' },
+  { name: 'color', type: 'string', default: '"currentColor"', description: 'Primary stroke & accent color (hex, rgb, or currentColor).' },
+  { name: 'tone', type: 'string', default: 'color', description: 'Secondary duotone base color (hex, rgb, or currentColor). Enables 2 different colors (e.g. white + teal).' },
+  { name: 'class', type: 'string', default: '—', description: 'Standard CSS / Tailwind class name for automatic color inheritance.' },
   { name: 'opacity', type: 'number | string', default: '"0.25"', description: 'Secondary layer opacity for duotone and line-duotone variants (0.0 to 1.0).' },
 ];
 
