@@ -41,8 +41,8 @@ function resolveCategory(iconName) {
   }
   if (iconName.startsWith('arrow') || iconName.startsWith('a-arrow-') || iconName.startsWith('refresh-')) return 'Arrows';
   if (iconName.startsWith('chevron') || iconName.startsWith('list-chevron')) return 'Navigation';
-  if (iconName.startsWith('align')) return 'Alignment';
-  if (iconName.startsWith('alarm') || iconName.startsWith('clock')) return 'Time & Alarms';
+  if (iconName.startsWith('align') || iconName.startsWith('between-')) return 'Alignment';
+  if (iconName.startsWith('alarm') || iconName.startsWith('clock') || iconName.startsWith('calendar')) return 'Time & Alarms';
   if (
     iconName.startsWith('bell') ||
     iconName === 'ambulance' ||
@@ -80,6 +80,7 @@ function resolveCategory(iconName) {
   if (
     iconName.startsWith('monitor') ||
     iconName.startsWith('laptop') ||
+    iconName.startsWith('bot') ||
     iconName.startsWith('tv') ||
     iconName.startsWith('tablet') ||
     iconName.startsWith('smartphone') ||
@@ -89,6 +90,7 @@ function resolveCategory(iconName) {
     iconName.startsWith('airplay') ||
     iconName.startsWith('video') ||
     iconName.startsWith('camera') ||
+    iconName === 'lens' ||
     iconName.startsWith('plug') ||
     iconName.startsWith('wifi') ||
     iconName.startsWith('power')
@@ -108,7 +110,7 @@ function resolveCategory(iconName) {
     iconName.startsWith('mirror') ||
     iconName.startsWith('plane') ||
     iconName.startsWith('airlines') ||
-    ['amphora', 'anchor', 'anvil', 'angle', 'aperture', 'blocks'].includes(iconName)
+    ['amphora', 'anchor', 'anvil', 'angle', 'aperture', 'blocks', 'bus', 'car'].includes(iconName)
   ) {
     return 'Objects & Geometry';
   }
@@ -132,6 +134,8 @@ function resolveCategory(iconName) {
   }
   if (
     iconName.startsWith('search') ||
+    iconName.startsWith('bookmark') ||
+    iconName.startsWith('funnel') ||
     iconName.startsWith('user') ||
     iconName.startsWith('house') ||
     iconName.startsWith('flag') ||

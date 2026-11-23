@@ -1,0 +1,30 @@
+{
+  "name": "calendar-off",
+  "category": "Time & Alarms",
+  "tags": [
+    "iconix",
+    "calendar-off",
+    "calendar",
+    "off",
+    "date",
+    "schedule",
+    "event",
+    "month",
+    "year",
+    "day",
+    "planner",
+    "agenda",
+    "kalender",
+    "jadwal",
+    "slash",
+    "disabled",
+    "turn-off",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 21H6C4.34315 21 3 19.6569 3 18V3M9 3H18C19.6569 3 21 4.34315 21 6V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 9H3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20 9H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16 5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.2929 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

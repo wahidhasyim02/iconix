@@ -1,0 +1,24 @@
+{
+  "name": "funnel-minus",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "funnel-minus",
+    "funnel",
+    "minus",
+    "remove",
+    "filter",
+    "sort",
+    "refine",
+    "filter-list",
+    "saring",
+    "penyaring",
+    "delete",
+    "exclude",
+    "reduce",
+    "less",
+    "kurang",
+    "hapus"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 9.5L16.2 13.1C15.4446 13.6666 15 14.5557 15 15.5V21.6126C15 22.2951 14.3313 22.7771 13.6838 22.5613L11.0513 21.6838C9.82629 21.2754 9 20.129 9 18.8377V15.5439C9 14.575 8.5321 13.6658 7.74371 13.1027L3.25629 9.89735C2.4679 9.33421 2 8.425 2 7.45615V6C2 4.34315 3.34315 3 5 3H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16 5H22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

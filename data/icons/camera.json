@@ -1,0 +1,19 @@
+{
+  "name": "camera",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "camera",
+    "photo",
+    "photography",
+    "lens",
+    "shutter",
+    "picture",
+    "capture",
+    "snapshot",
+    "webcam",
+    "video",
+    "optic"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 4H9.91969C9.19715 4 8.53078 4.38972 8.17654 5.01948L7.07346 6.98052C6.71922 7.61028 6.05285 8 5.33031 8H5C3.34315 8 2 9.34315 2 11V18C2 19.6569 3.34315 21 5 21H19C20.6569 21 22 19.6569 22 18V11C22 9.34315 20.6569 8 19 8H18.6697C17.9471 8 17.2808 7.61028 16.9265 6.98052L15.8235 5.01948C15.4692 4.38972 14.8029 4 14.0803 4H12Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<circle cx=\"12\" cy=\"14\" r=\"4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

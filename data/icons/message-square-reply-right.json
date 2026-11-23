@@ -1,0 +1,29 @@
+{
+  "name": "message-square-reply-right",
+  "category": "Communication & Social",
+  "tags": [
+    "iconix",
+    "message-square-reply-right",
+    "message",
+    "square",
+    "reply",
+    "right",
+    "chat",
+    "bubble",
+    "comment",
+    "dialog",
+    "text",
+    "sms",
+    "conversation",
+    "talk",
+    "pesan",
+    "obrolan",
+    "komentar",
+    "diskusi",
+    "outgoing",
+    "send",
+    "kanan",
+    "keluar"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22 22V6C22 3.79086 20.2091 2 18 2H6C3.79086 2 2 3.79086 2 6V15C2 17.2091 3.79086 19 6 19H12H16.6667C17.5321 19 18.3743 19.2807 19.0667 19.8L22 22Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10.3369 6.77616L7.52099 9.59205L10.3369 12.4079M7.52099 9.59205H11.7762C13.3313 9.59205 14.5921 10.8528 14.5921 12.4079\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

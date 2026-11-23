@@ -10,6 +10,9 @@ const files = fs.readdirSync(dataIconsDir).filter((f) => f.endsWith('.json'));
 
 const TAG_DICTIONARY = {
   // Devices & Tech
+  calendar: ['calendar', 'date', 'schedule', 'event', 'month', 'year', 'day', 'planner', 'agenda', 'kalender', 'jadwal'],
+  lens: ['lens', 'camera', 'optic', 'glass', 'zoom', 'focus', 'photo'],
+  bot: ['bot', 'robot', 'ai', 'artificial-intelligence', 'assistant', 'chat', 'automation', 'agent', 'machine'],
   tv: ['television', 'screen', 'display', 'monitor', 'media', 'broadcast', 'entertainment', 'video'],
   monitor: ['screen', 'display', 'desktop', 'computer', 'pc', 'hardware', 'workstation'],
   laptop: ['notebook', 'computer', 'pc', 'macbook', 'portable', 'device', 'screen', 'hardware', 'work'],
@@ -55,6 +58,12 @@ const TAG_DICTIONARY = {
   'line-height': ['line-height', 'leading', 'spacing', 'typography', 'text', 'font', 'jarak-baris', 'spasi-baris', 'teks'],
   'air-vent': ['air-vent', 'ac', 'hvac', 'cooling', 'ventilation', 'fan', 'airflow', 'climate', 'temperature'],
   truck: ['truck', 'delivery', 'cargo', 'shipping', 'logistics', 'freight', 'transport', 'vehicle', 'haul'],
+  car: ['car', 'automobile', 'vehicle', 'drive', 'transport', 'sedan', 'auto', 'road', 'mobil', 'kendaraan'],
+  bus: ['bus', 'transit', 'public-transport', 'commute', 'vehicle', 'transportation', 'bis', 'angkutan'],
+  funnel: ['funnel', 'filter', 'sort', 'refine', 'filter-list', 'saring', 'penyaring'],
+  between: ['between', 'align', 'spacing', 'distribution', 'layout', 'margin', 'gap'],
+  'message-square': ['message', 'square', 'chat', 'bubble', 'comment', 'dialog', 'text', 'sms', 'conversation', 'talk', 'pesan', 'obrolan'],
+  'messages-square': ['messages', 'square', 'chat', 'bubble', 'comment', 'dialog', 'text', 'sms', 'conversation', 'talk', 'threads', 'pesan', 'obrolan'],
 
   // Design & Editing
   pen: ['pen', 'write', 'edit', 'draw', 'sketch', 'design', 'create', 'tool', 'author', 'compose'],

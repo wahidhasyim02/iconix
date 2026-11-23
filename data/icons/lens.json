@@ -1,0 +1,15 @@
+{
+  "name": "lens",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "lens",
+    "camera",
+    "optic",
+    "glass",
+    "zoom",
+    "focus",
+    "photo"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 12C19 8.13401 15.866 5 12 5M7.5 6.63789C7.8857 6.31386 8.30687 6.03068 8.75684 5.79501\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

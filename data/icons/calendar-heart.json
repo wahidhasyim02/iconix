@@ -1,0 +1,21 @@
+{
+  "name": "calendar-heart",
+  "category": "Time & Alarms",
+  "tags": [
+    "iconix",
+    "calendar-heart",
+    "calendar",
+    "heart",
+    "date",
+    "schedule",
+    "event",
+    "month",
+    "year",
+    "day",
+    "planner",
+    "agenda",
+    "kalender",
+    "jadwal"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 18V6C3 4.34315 4.34315 3 6 3H18C19.6569 3 21 4.34315 21 6V18C21 19.6569 19.6569 21 18 21H6C4.34315 21 3 19.6569 3 18Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21 9H3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16 5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14.6313 12.8354C14.1873 12.2484 13.181 12.1552 12.6032 12.6111C12.5263 12.6717 12.4523 12.7402 12.379 12.8184C12.1756 13.0357 11.8185 13.0397 11.613 12.8245C11.5202 12.7274 11.4273 12.6454 11.3302 12.5748C10.7813 12.1751 9.81287 12.3534 9.41434 12.9031C8.68035 13.9156 9.21382 15.2555 9.95288 16.2643C10.3252 16.7725 10.7412 17.1904 11.278 17.6248C11.6963 17.9633 12.2962 17.9533 12.7144 17.6146C13.2678 17.1663 13.7055 16.7554 14.081 16.2619C14.8384 15.2664 15.3859 13.8331 14.6313 12.8354Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}
