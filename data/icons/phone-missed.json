@@ -1,0 +1,23 @@
+{
+  "name": "phone-missed",
+  "category": "Communication & Social",
+  "tags": [
+    "iconix",
+    "phone-missed",
+    "phone",
+    "missed",
+    "telephone",
+    "call",
+    "contact",
+    "dial",
+    "telepon",
+    "panggilan",
+    "hubungi",
+    "kontak",
+    "ring",
+    "unanswered",
+    "tak-terjawab",
+    "terlewat"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19.4223 20.6904L21.0599 19.0528C21.9897 18.123 21.7845 16.5641 20.6456 15.9066L18.1518 14.4668C17.5667 14.1289 16.8505 14.1094 16.2478 14.4148L16.0564 14.5118C15.5947 14.7458 15.0568 14.7991 14.5731 14.6147C12.0804 13.6646 10.3817 12.018 9.33815 9.50841C9.08817 8.90724 9.26229 8.22299 9.72267 7.76261C10.2781 7.20716 10.3912 6.34788 9.99848 5.66759L8.86176 3.69872C8.20423 2.55985 6.64538 2.35462 5.71549 3.28451L3.79689 5.20311C3.485 5.515 3.27852 5.92137 3.24934 6.36149C2.74399 13.9839 10.4361 21.1024 18.0943 21.2497C18.5946 21.2594 19.0685 21.0442 19.4223 20.6904Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16.8787 7.12132L21.1213 2.87868M16.8787 2.87868L21.1213 7.12132\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "wifi-cog",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "wifi-cog",
+    "wifi",
+    "cog",
+    "wireless",
+    "network",
+    "internet",
+    "connection",
+    "hotspot",
+    "sinyal",
+    "jaringan",
+    "nirkabel",
+    "koneksi",
+    "gear",
+    "settings",
+    "configuration",
+    "preferences",
+    "options",
+    "setup",
+    "pengaturan",
+    "setelan"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0205 4C15.8226 4 19.3048 5.37023 22 7.64382M11.9795 4C8.17737 4 4.69523 5.37023 2 7.64382M12.0205 9.46573C13.4497 9.46573 14.8067 9.77552 16.0277 10.3316M11.9949 9.46573C9.61854 9.46573 7.44221 10.3221 5.75769 11.7431M8.85484 16.0701C9.46074 15.559 10.1939 15.194 11 15.0294\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M18.25 17C18.25 18.2426 17.2427 19.25 16 19.25M18.25 17C18.25 15.7574 17.2427 14.75 16 14.75M18.25 17H19M16 19.25C15.3787 19.25 14.8162 18.9982 14.4091 18.591M16 19.25V20M16 14.75C14.7574 14.75 13.75 15.7574 13.75 17M16 14.75L16.0001 14M14.4091 18.591C14.0019 18.1838 13.75 17.6213 13.75 17M14.4091 18.591L14.4091 18.591M14.4091 18.591L13.8787 19.1213M13.75 17H13M14.409 15.409L13.8787 14.8787M18.1213 14.8787L17.591 15.409M18.1213 19.1213L17.591 18.591\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

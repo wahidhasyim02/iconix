@@ -1,0 +1,21 @@
+{
+  "name": "medal-ribbons",
+  "category": "Shapes & Badges",
+  "tags": [
+    "iconix",
+    "medal-ribbons",
+    "medal",
+    "ribbons",
+    "award",
+    "trophy",
+    "winner",
+    "champion",
+    "achievement",
+    "badge",
+    "ribbon",
+    "medali",
+    "juara",
+    "penghargaan"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"11.8992\" cy=\"9.63458\" r=\"7.63458\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4.98283 13.9546L2.56869 17.1438C2.09897 17.7643 2.48689 18.6599 3.26083 18.7418L5.73146 19.0031C6.01284 19.0329 6.26844 19.1804 6.43491 19.4092L7.89652 21.4182C8.35438 22.0475 9.32398 21.9357 9.62651 21.2186L11.1813 17.5333\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.7702 13.9546L22.1844 17.1438C22.6541 17.7643 22.2662 18.6599 21.4922 18.7418L19.0216 19.0031C18.7402 19.0329 18.4846 19.1804 18.3181 19.4092L16.8565 21.4182C16.3987 22.0475 15.4291 21.9357 15.1265 21.2186L13.5717 17.5333\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

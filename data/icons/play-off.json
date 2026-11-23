@@ -1,0 +1,28 @@
+{
+  "name": "play-off",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "play-off",
+    "play",
+    "off",
+    "start",
+    "resume",
+    "media",
+    "player",
+    "video",
+    "audio",
+    "putar",
+    "mulai",
+    "slash",
+    "disabled",
+    "turn-off",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 5.12249C3.68406 5.68802 3.5 6.34778 3.5 7.07274V16.9271C3.5 20.0647 6.94759 21.9807 9.6121 20.324L15.525 16.6475M18.8943 14C19.9148 12.2255 19.4622 9.80018 17.5366 8.60291L9.61206 3.6758C9.09091 3.35178 8.53982 3.16443 7.99042 3.09616\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.29296 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

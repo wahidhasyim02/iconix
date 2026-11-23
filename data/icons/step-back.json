@@ -1,0 +1,14 @@
+{
+  "name": "step-back",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "step-back",
+    "step",
+    "back",
+    "frame",
+    "advance",
+    "langkah"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 7.58771V16.4123C17 19.222 13.9691 20.9378 11.6266 19.4542L4.65974 15.0419C2.44674 13.6403 2.44676 10.3595 4.65978 8.95797L11.6266 4.54574C13.9691 3.06219 17 4.77803 17 7.58771Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21 4V20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

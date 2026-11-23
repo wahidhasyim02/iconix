@@ -181,6 +181,16 @@ const TAG_DICTIONARY = {
   charging: ['charging', 'charge', 'battery', 'power', 'electric', 'isi-daya', 'baterai', 'listrik'],
   text: ['text', 'typography', 'font', 'align', 'paragraph', 'teks', 'tulisan', 'huruf', 'format'],
   log: ['log', 'sign', 'account', 'auth', 'access', 'masuk', 'keluar'],
+  wifi: ['wifi', 'wireless', 'network', 'internet', 'connection', 'hotspot', 'sinyal', 'jaringan', 'nirkabel', 'koneksi'],
+  power: ['power', 'turn-off', 'on-off', 'shutdown', 'daya', 'listrik', 'daya-listrik', 'tombol-daya', 'energi'],
+  medal: ['medal', 'award', 'trophy', 'winner', 'champion', 'achievement', 'badge', 'ribbon', 'medali', 'juara', 'penghargaan'],
+  blocks: ['blocks', 'cube', 'modular', 'shapes', 'toy', 'balok', 'kotak', 'komponen', 'kubus', 'balok-susun'],
+  refresh: ['refresh', 'reload', 'sync', 'repeat', 'putar', 'muat-ulang', 'segarkan', 'putar-balik', 'ulang'],
+  play: ['play', 'start', 'resume', 'media', 'player', 'video', 'audio', 'putar', 'mulai'],
+  pause: ['pause', 'hold', 'break', 'player', 'media', 'jeda', 'berhenti-sebentar'],
+  fast: ['fast', 'forward', 'fast-forward', 'speed', 'cepat', 'maju-cepat'],
+  skip: ['skip', 'jump', 'next', 'previous', 'lompat', 'lewati'],
+  step: ['step', 'frame', 'advance', 'langkah'],
 };
 
 // Suffix modifier tags
@@ -280,6 +290,16 @@ const SUFFIX_DICTIONARY = {
   axis: ['axis', 'center', 'align', 'sumbu', 'pusat'],
   'from-axis': ['from-axis', 'expand', 'diverge', 'luar', 'keluar'],
   'to-axis': ['to-axis', 'collapse', 'converge', 'dalam', 'masuk'],
+  right: ['right', 'outgoing', 'send', 'kanan', 'keluar'],
+  forwarded: ['forwarded', 'forward', 'teruskan'],
+  incoming: ['incoming', 'inbound', 'masuk', 'panggilan-masuk'],
+  outgoing: ['outgoing', 'outbound', 'keluar', 'panggilan-keluar'],
+  missed: ['missed', 'unanswered', 'tak-terjawab', 'terlewat'],
+  high: ['high', 'strong', 'penuh', 'tinggi', 'kuat'],
+  low: ['low', 'weak', 'rendah', 'lemah'],
+  zero: ['zero', 'none', 'empty', 'kosong', 'nol'],
+  ccw: ['ccw', 'counter-clockwise', 'berlawanan-arah-jarum-jam'],
+  cw: ['cw', 'clockwise', 'searah-jarum-jam'],
 };
 
 let enrichedCount = 0;

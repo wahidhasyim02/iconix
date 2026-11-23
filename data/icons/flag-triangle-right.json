@@ -15,7 +15,11 @@
     "golf",
     "triangle",
     "country",
-    "bendera"
+    "bendera",
+    "outgoing",
+    "send",
+    "kanan",
+    "keluar"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18.8301 9.07942L5.89055 3.58993C5.2311 3.31016 4.5 3.79417 4.5 4.51051V15.4895C4.5 16.2058 5.2311 16.6898 5.89055 16.4101L18.8301 10.9206C19.6427 10.5758 19.6427 9.42416 18.8301 9.07942Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4.5 2L4.5 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -26,11 +26,20 @@ function resolveCategory(iconName) {
     iconName === 'reply' ||
     iconName.startsWith('share') ||
     iconName.startsWith('mail') ||
-    iconName === 'phone'
+    iconName.startsWith('phone')
   ) {
     return 'Communication & Social';
   }
-  if (iconName.startsWith('arrow') || iconName.startsWith('a-arrow-')) return 'Arrows';
+  if (
+    iconName.startsWith('play') ||
+    iconName === 'pause' ||
+    iconName === 'fast-forward' ||
+    iconName.startsWith('skip-') ||
+    iconName.startsWith('step-')
+  ) {
+    return 'Media & Audio';
+  }
+  if (iconName.startsWith('arrow') || iconName.startsWith('a-arrow-') || iconName.startsWith('refresh-')) return 'Arrows';
   if (iconName.startsWith('chevron') || iconName.startsWith('list-chevron')) return 'Navigation';
   if (iconName.startsWith('align')) return 'Alignment';
   if (iconName.startsWith('alarm') || iconName.startsWith('clock')) return 'Time & Alarms';
@@ -47,7 +56,9 @@ function resolveCategory(iconName) {
     ['plus', 'minus', 'x', 'check'].includes(iconName) ||
     iconName.startsWith('circle') ||
     iconName.startsWith('check') ||
-    iconName.startsWith('triangle')
+    iconName.startsWith('triangle') ||
+    iconName.startsWith('medal') ||
+    iconName.startsWith('square-power')
   ) {
     return 'Shapes & Badges';
   }
@@ -78,7 +89,9 @@ function resolveCategory(iconName) {
     iconName.startsWith('airplay') ||
     iconName.startsWith('video') ||
     iconName.startsWith('camera') ||
-    iconName.startsWith('plug')
+    iconName.startsWith('plug') ||
+    iconName.startsWith('wifi') ||
+    iconName.startsWith('power')
   ) {
     return 'Devices & Tech';
   }
@@ -95,7 +108,7 @@ function resolveCategory(iconName) {
     iconName.startsWith('mirror') ||
     iconName.startsWith('plane') ||
     iconName.startsWith('airlines') ||
-    ['amphora', 'anchor', 'anvil', 'angle', 'aperture'].includes(iconName)
+    ['amphora', 'anchor', 'anvil', 'angle', 'aperture', 'blocks'].includes(iconName)
   ) {
     return 'Objects & Geometry';
   }

@@ -1,0 +1,14 @@
+{
+  "name": "fast-forward",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "fast-forward",
+    "fast",
+    "forward",
+    "speed",
+    "cepat",
+    "maju-cepat"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 7.58771V16.4123C2 19.222 4.05671 20.9378 5.64626 19.4542L10.3737 15.0419C11.8754 13.6403 11.8754 10.3595 10.3737 8.95797L5.64623 4.54574C4.05668 3.06219 2 4.77803 2 7.58771Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12.5 7.58771V16.4123C12.5 19.222 14.5567 20.9378 16.1463 19.4542L20.8737 15.0419C22.3754 13.6403 22.3754 10.3595 20.8737 8.95797L16.1462 4.54574C14.5567 3.06219 12.5 4.77803 12.5 7.58771Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

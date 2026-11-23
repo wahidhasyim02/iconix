@@ -1,0 +1,28 @@
+{
+  "name": "mail-question-mark",
+  "category": "Communication & Social",
+  "tags": [
+    "iconix",
+    "mail-question-mark",
+    "mail",
+    "question",
+    "mark",
+    "email",
+    "envelope",
+    "letter",
+    "inbox",
+    "message",
+    "surat",
+    "pesan",
+    "surel",
+    "kirim",
+    "kontak",
+    "help",
+    "faq",
+    "ask",
+    "query",
+    "bantuan",
+    "tanya"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 20H5C3.34315 20 2 18.6569 2 17V7C2 5.34315 3.34315 4 5 4H19C20.6569 4 22 5.34315 22 7V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5 8L11.9282 12L18.8564 8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17 16.0571V15.7815C17 15.5116 17.0613 15.2453 17.1793 15.0026C17.4774 14.3893 18.0995 14 18.7815 14H18.9497C20.0821 14 21 14.9179 21 16.0503V16.1536C21 16.9285 20.5424 17.6303 19.8333 17.9429L19.2941 18.1806C18.9128 18.3487 18.6667 18.7261 18.6667 19.1429M18.6667 21.84V22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

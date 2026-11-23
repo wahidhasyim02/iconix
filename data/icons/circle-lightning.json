@@ -1,0 +1,15 @@
+{
+  "name": "circle-lightning",
+  "category": "Shapes & Badges",
+  "tags": [
+    "iconix",
+    "circle-lightning",
+    "circle",
+    "lightning",
+    "storm",
+    "petir",
+    "kilat",
+    "badai"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.20268 16.3535L13.6305 12.6212L9.20269 11.8498L14.1567 8.24687\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

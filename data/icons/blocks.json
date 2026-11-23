@@ -1,0 +1,18 @@
+{
+  "name": "blocks",
+  "category": "Objects & Geometry",
+  "tags": [
+    "iconix",
+    "blocks",
+    "cube",
+    "modular",
+    "shapes",
+    "toy",
+    "balok",
+    "kotak",
+    "komponen",
+    "kubus",
+    "balok-susun"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.5 22H16.1667C17.7315 22 19 20.7315 19 19.1667V13.5H10.5M10.5 22V13.5M10.5 22H4.83333C3.26853 22 2 20.7315 2 19.1667V13.5M10.5 13.5H2M10.5 13.5V5H4.83333C3.26853 5 2 6.26853 2 7.83333V13.5M10.5 13.5L18.2445 13.5M10.5 13.5L10.5 21.2445M10.5 13.5L2.7556 13.5M10.5 13.5L10.5 5.75556\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14 10H22V4.66667C22 3.19391 20.8061 2 19.3333 2H14V10ZM14 10L21.2889 9.99999M14 10L14 2.7111\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

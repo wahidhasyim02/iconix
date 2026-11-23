@@ -1,0 +1,11 @@
+{
+  "name": "messages-circle",
+  "category": "Communication & Social",
+  "tags": [
+    "iconix",
+    "messages-circle",
+    "messages",
+    "circle"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.975 18.9258C11.1217 20.7713 13.1674 22 15.5 22C16.3379 22 17.1388 21.8415 17.8743 21.5527L22 22L21.025 18.9258C21.6431 17.9311 22 16.7572 22 15.5C22 13.1842 20.789 11.1513 18.9657 10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 8.5C2 4.91015 4.91015 2 8.5 2C12.0899 2 15 4.91015 15 8.5C15 12.0899 12.0899 15 8.5 15C7.6621 15 6.86122 14.8415 6.12574 14.5527L2 15L2.975 11.9258C2.35694 10.9311 2 9.75723 2 8.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

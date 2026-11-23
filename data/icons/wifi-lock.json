@@ -1,0 +1,25 @@
+{
+  "name": "wifi-lock",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "wifi-lock",
+    "wifi",
+    "lock",
+    "wireless",
+    "network",
+    "internet",
+    "connection",
+    "hotspot",
+    "sinyal",
+    "jaringan",
+    "nirkabel",
+    "koneksi",
+    "security",
+    "secure",
+    "protect",
+    "kunci",
+    "gembok"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0205 4C15.8226 4 19.3048 5.37023 22 7.64382M11.9795 4C8.17737 4 4.69523 5.37023 2 7.64382M5.75769 11.7431C6.95745 10.731 8.4067 10.0054 10 9.67153M8.85484 16.0701C9.04685 15.9082 9.25164 15.7609 9.46748 15.63\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 14.5V12.5C19 11.3954 18.1046 10.5 17 10.5C15.8954 10.5 15 11.3954 15 12.5V14.5M14 14.5H20C20.5523 14.5 21 14.9477 21 15.5V18.5C21 19.0523 20.5523 19.5 20 19.5H14C13.4477 19.5 13 19.0523 13 18.5V15.5C13 14.9477 13.4477 14.5 14 14.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

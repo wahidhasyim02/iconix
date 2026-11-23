@@ -1,0 +1,23 @@
+{
+  "name": "wifi-low",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "wifi-low",
+    "wifi",
+    "low",
+    "wireless",
+    "network",
+    "internet",
+    "connection",
+    "hotspot",
+    "sinyal",
+    "jaringan",
+    "nirkabel",
+    "koneksi",
+    "weak",
+    "rendah",
+    "lemah"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.9863 14.9315C13.1744 14.9315 14.2626 15.3597 15.1049 16.0702M11.9735 14.9315C10.7853 14.9315 9.69712 15.3597 8.85486 16.0702\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12.0205 20.3972H12.0204\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

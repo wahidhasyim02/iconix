@@ -24,7 +24,11 @@
     "desain",
     "panel",
     "widget",
-    "modul"
+    "modul",
+    "outgoing",
+    "send",
+    "kanan",
+    "keluar"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.8569 14.5641L21.0711 17.7782L17.8569 20.9923M21.0711 17.7782H3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

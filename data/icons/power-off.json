@@ -1,0 +1,27 @@
+{
+  "name": "power-off",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "power-off",
+    "power",
+    "off",
+    "turn-off",
+    "on-off",
+    "shutdown",
+    "daya",
+    "listrik",
+    "daya-listrik",
+    "tombol-daya",
+    "energi",
+    "slash",
+    "disabled",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.2473 4C19.3618 5.55928 21.5 8.77994 21.5 12.5C21.5 13.736 21.264 14.9169 20.8345 16M5 6.0773C3.4476 7.76834 2.5 10.0235 2.5 12.5C2.5 17.7467 6.75329 22 12 22C14.4765 22 16.7317 21.0524 18.4227 19.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 2V6\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.29296 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

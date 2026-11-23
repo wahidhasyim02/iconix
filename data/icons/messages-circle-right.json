@@ -1,0 +1,16 @@
+{
+  "name": "messages-circle-right",
+  "category": "Communication & Social",
+  "tags": [
+    "iconix",
+    "messages-circle-right",
+    "messages",
+    "circle",
+    "right",
+    "outgoing",
+    "send",
+    "kanan",
+    "keluar"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.025 18.9258C12.8783 20.7713 10.8326 22 8.5 22C7.6621 22 6.86122 21.8415 6.12574 21.5527L2 22L2.975 18.9258C2.35694 17.9311 2 16.7572 2 15.5C2 13.1842 3.21102 11.1513 5.03431 10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 8.5C22 4.91015 19.0899 2 15.5 2C11.9101 2 9 4.91015 9 8.5C9 12.0899 11.9101 15 15.5 15C16.3379 15 17.1388 14.8415 17.8743 14.5527L22 15L21.025 11.9258C21.6431 10.9311 22 9.75723 22 8.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

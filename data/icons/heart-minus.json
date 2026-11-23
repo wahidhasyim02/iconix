@@ -1,0 +1,26 @@
+{
+  "name": "heart-minus",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "heart-minus",
+    "heart",
+    "minus",
+    "remove",
+    "love",
+    "like",
+    "favorite",
+    "health",
+    "romance",
+    "suka",
+    "favorit",
+    "hati",
+    "delete",
+    "exclude",
+    "reduce",
+    "less",
+    "kurang",
+    "hapus"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 12C21.8241 10.8952 22.1428 9.49919 22.1554 8.1209C22.1775 5.70583 21.3951 4.33322 18.6789 3.03184C17.8952 2.65636 16.9936 2.57899 16.164 2.83754C14.7913 3.2653 13.8358 3.85094 12.86 4.98806C12.4092 5.51328 11.5778 5.52228 11.1196 5.00354C10.5893 4.40321 10.0736 3.95762 9.50839 3.60707C7.76392 2.52503 4.80816 3.08907 3.49814 4.66952C0.848361 7.8663 2.74585 12.3801 5.3168 15.6406C6.79996 17.5216 8.50083 19.0191 10.8468 20.6957C11.5324 21.1857 12.4566 21.173 13.135 20.673C13.9228 20.0924 14.646 19.5422 15.3151 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16 16H22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}
