@@ -11,7 +11,15 @@
     "arrow-big-up",
     "upload",
     "outbound",
-    "send"
+    "send",
+    "pointer",
+    "navigation",
+    "move",
+    "point",
+    "long",
+    "panah",
+    "arah",
+    "petunjuk"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.5 11.25H20.6602L12 3L3.33984 11.25H8.5V19C8.5 19.5523 8.94772 20 9.5 20H14.5C15.0523 20 15.5 19.5523 15.5 19V11.25Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -10,6 +10,7 @@ const files = fs.readdirSync(dataIconsDir).filter((f) => f.endsWith('.json'));
 
 const TAG_DICTIONARY = {
   // Devices & Tech
+  arrow: ['arrow', 'pointer', 'direction', 'navigation', 'move', 'point', 'long', 'panah', 'arah', 'petunjuk'],
   calendar: ['calendar', 'date', 'schedule', 'event', 'month', 'year', 'day', 'planner', 'agenda', 'kalender', 'jadwal'],
   lens: ['lens', 'camera', 'optic', 'glass', 'zoom', 'focus', 'photo'],
   bot: ['bot', 'robot', 'ai', 'artificial-intelligence', 'assistant', 'chat', 'automation', 'agent', 'machine'],

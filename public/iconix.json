@@ -1,6 +1,6 @@
 {
   "prefix": "iconix",
-  "lastModified": 1795438125,
+  "lastModified": 1795439977,
   "width": 24,
   "height": 24,
   "icons": {
@@ -202,20 +202,32 @@
     "arrow-down-left": {
       "body": "<path d=\"M17 18H7V8M7 18L18 7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
     },
+    "arrow-down-long": {
+      "body": "<path d=\"M12.0219 19.5563V4M8.48632 16.0208L12.0219 19.5563L15.5574 16.0208\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
+    },
     "arrow-down-right": {
       "body": "<path d=\"M8 18H18V8M18 18L7 7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
     },
     "arrow-left": {
       "body": "<path d=\"M11.5147 4.90708L4.44365 11.9781L11.5147 19.0492M4.44365 11.9781H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
     },
+    "arrow-left-long": {
+      "body": "<path d=\"M4.44365 12.0219H20M7.97918 8.48632L4.44365 12.0219L7.97918 15.5574\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
+    },
     "arrow-right": {
       "body": "<path d=\"M12.4853 4.90708L19.5563 11.9781L12.4853 19.0492M19.5563 11.9781H4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
+    },
+    "arrow-right-long": {
+      "body": "<path d=\"M19.5563 11.9781H4M16.0208 15.5137L19.5563 11.9781L16.0208 8.44262\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
     },
     "arrow-up": {
       "body": "<path d=\"M4.90708 11.5147L11.9781 4.44365L19.0492 11.5147M11.9781 4.44365V20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
     },
     "arrow-up-left": {
       "body": "<path d=\"M17 6H7V16M7 6L18 17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
+    },
+    "arrow-up-long": {
+      "body": "<path d=\"M11.9781 4.44365V20M15.5137 7.97918L11.9781 4.44365L8.44262 7.97918\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
     },
     "arrow-up-right": {
       "body": "<path d=\"M8 6H18V16M18 6L7 17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
@@ -1951,7 +1963,7 @@
   },
   "info": {
     "name": "Iconix",
-    "total": 648,
+    "total": 652,
     "license": {
       "title": "MIT"
     }

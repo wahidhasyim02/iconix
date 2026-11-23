@@ -1129,7 +1129,15 @@
         "arrow-big-down",
         "download",
         "inbound",
-        "receive"
+        "receive",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.5 12.75H20.6602L12 21L3.33984 12.75H8.5V5C8.5 4.44772 8.94772 4 9.5 4H14.5C15.0523 4 15.5 4.44772 15.5 5V12.75Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1144,7 +1152,15 @@
         "down",
         "dash",
         "direction",
-        "arrow-big-down-dash"
+        "arrow-big-down-dash",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.5 12.75H20.6602L12 21L3.33984 12.75H8.5V9C8.5 8.44772 8.94772 8 9.5 8H14.5C15.0523 8 15.5 8.44772 15.5 9V12.75Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8.5 4H15.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1158,7 +1174,15 @@
         "big",
         "left",
         "direction",
-        "arrow-big-left"
+        "arrow-big-left",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.25 8.56015V3.39999L3 12.0602L11.25 20.7203V15.5602H19C19.5523 15.5602 20 15.1124 20 14.5602V9.56015C20 9.00787 19.5523 8.56015 19 8.56015H11.25Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1173,7 +1197,15 @@
         "left",
         "dash",
         "direction",
-        "arrow-big-left-dash"
+        "arrow-big-left-dash",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.25 15.5602V20.7203L3 12.0602L11.25 3.39999V8.56015H15C15.5523 8.56015 16 9.00787 16 9.56015V14.5602C16 15.1124 15.5523 15.5602 15 15.5602H11.25Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20 8.56015V15.5602\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1191,7 +1223,15 @@
         "outgoing",
         "send",
         "kanan",
-        "keluar"
+        "keluar",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.75 8.56015V3.39999L21 12.0602L12.75 20.7203V15.5602H5C4.44772 15.5602 4 15.1124 4 14.5602V9.56015C4 9.00787 4.44772 8.56015 5 8.56015H12.75Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1206,7 +1246,15 @@
         "right",
         "dash",
         "direction",
-        "arrow-big-right-dash"
+        "arrow-big-right-dash",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.75 15.5602V20.7203L21 12.0602L12.75 3.39999V8.56015H9C8.44772 8.56015 8 9.00787 8 9.56015V14.5602C8 15.1124 8.44772 15.5602 9 15.5602H12.75Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4 8.56015V15.5602\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1223,7 +1271,15 @@
         "arrow-big-up",
         "upload",
         "outbound",
-        "send"
+        "send",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.5 11.25H20.6602L12 3L3.33984 11.25H8.5V19C8.5 19.5523 8.94772 20 9.5 20H14.5C15.0523 20 15.5 19.5523 15.5 19V11.25Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1238,7 +1294,15 @@
         "up",
         "dash",
         "direction",
-        "arrow-big-up-dash"
+        "arrow-big-up-dash",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.5 11.25H20.6602L12 3L3.33984 11.25H8.5V15C8.5 15.5523 8.94772 16 9.5 16H14.5C15.0523 16 15.5 15.5523 15.5 15V11.25Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8.5 20H15.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1256,7 +1320,15 @@
         "inbound",
         "receive",
         "decrease",
-        "countdown"
+        "countdown",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.90708 12.4853L11.9781 19.5563L19.0492 12.4853M11.9781 19.5563V4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1270,9 +1342,37 @@
         "down",
         "left",
         "direction",
-        "arrow-down-left"
+        "arrow-down-left",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 18H7V8M7 18L18 7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "arrow-down-long",
+      "category": "Arrows",
+      "tags": [
+        "iconix",
+        "arrow-down-long",
+        "arrow",
+        "down",
+        "long",
+        "pointer",
+        "direction",
+        "navigation",
+        "move",
+        "point",
+        "panah",
+        "arah",
+        "petunjuk"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.0219 19.5563V4M8.48632 16.0208L12.0219 19.5563L15.5574 16.0208\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "arrow-down-right",
@@ -1288,7 +1388,15 @@
         "outgoing",
         "send",
         "kanan",
-        "keluar"
+        "keluar",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 18H18V8M18 18L7 7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1305,9 +1413,37 @@
         "rewind",
         "back",
         "undo",
-        "past"
+        "past",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.5147 4.90708L4.44365 11.9781L11.5147 19.0492M4.44365 11.9781H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "arrow-left-long",
+      "category": "Arrows",
+      "tags": [
+        "iconix",
+        "arrow-left-long",
+        "arrow",
+        "left",
+        "long",
+        "pointer",
+        "direction",
+        "navigation",
+        "move",
+        "point",
+        "panah",
+        "arah",
+        "petunjuk"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.44365 12.0219H20M7.97918 8.48632L4.44365 12.0219L7.97918 15.5574\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "arrow-right",
@@ -1325,9 +1461,37 @@
         "outgoing",
         "send",
         "kanan",
-        "keluar"
+        "keluar",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.4853 4.90708L19.5563 11.9781L12.4853 19.0492M19.5563 11.9781H4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "arrow-right-long",
+      "category": "Arrows",
+      "tags": [
+        "iconix",
+        "arrow-right-long",
+        "arrow",
+        "right",
+        "long",
+        "pointer",
+        "direction",
+        "navigation",
+        "move",
+        "point",
+        "panah",
+        "arah",
+        "petunjuk"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19.5563 11.9781H4M16.0208 15.5137L19.5563 11.9781L16.0208 8.44262\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "arrow-up",
@@ -1343,7 +1507,15 @@
         "outbound",
         "send",
         "increase",
-        "fast-forward"
+        "fast-forward",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.90708 11.5147L11.9781 4.44365L19.0492 11.5147M11.9781 4.44365V20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -1357,9 +1529,37 @@
         "up",
         "left",
         "direction",
-        "arrow-up-left"
+        "arrow-up-left",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 6H7V16M7 6L18 17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "arrow-up-long",
+      "category": "Arrows",
+      "tags": [
+        "iconix",
+        "arrow-up-long",
+        "arrow",
+        "up",
+        "long",
+        "pointer",
+        "direction",
+        "navigation",
+        "move",
+        "point",
+        "panah",
+        "arah",
+        "petunjuk"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.9781 4.44365V20M15.5137 7.97918L11.9781 4.44365L8.44262 7.97918\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "arrow-up-right",
@@ -1375,7 +1575,15 @@
         "outgoing",
         "send",
         "kanan",
-        "keluar"
+        "keluar",
+        "pointer",
+        "navigation",
+        "move",
+        "point",
+        "long",
+        "panah",
+        "arah",
+        "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 6H18V16M18 6L7 17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
