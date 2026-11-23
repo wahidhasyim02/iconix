@@ -257,7 +257,7 @@
             <!-- Framework Tabs -->
             <div class="flex items-center gap-2 border-b border-slate-200 dark:border-[#1D222B] pb-3 overflow-x-auto">
               <button
-                v-for="fw in ['nuxt', 'vue', 'react', 'vanilla']"
+                v-for="fw in ['nuxt', 'vue', 'react', 'hugo', 'vanilla']"
                 :key="fw"
                 type="button"
                 @click="frameworkTab = fw"
@@ -266,7 +266,7 @@
                   ? 'bg-teal-600 dark:bg-[#2DD4BF] text-white dark:text-[#071312]'
                   : 'text-slate-600 dark:text-[#94A3B8] hover:bg-slate-200/60 dark:hover:bg-[#13171E]'"
               >
-                {{ fw === 'nuxt' ? 'Nuxt UI & @nuxt/icon' : fw === 'vue' ? 'Vue 3 / <ix-icon>' : fw === 'react' ? 'React / Next.js' : 'Vanilla HTML / CMS' }}
+                {{ fw === 'nuxt' ? 'Nuxt UI & @nuxt/icon' : fw === 'vue' ? 'Vue 3 / <ix-icon>' : fw === 'react' ? 'React / Next.js' : fw === 'hugo' ? 'Hugo (SSG)' : 'Vanilla HTML / CMS' }}
               </button>
             </div>
 
@@ -339,6 +339,55 @@
                   </p>
                 </div>
                 <CodeBlock :code="REACT_WRAPPER_SNIPPET" lang="tsx" @copied="$emit('notify', 'Copied React TSX wrapper recipe')" />
+              </div>
+            </div>
+
+            <!-- Hugo (SSG) Guide -->
+            <div v-else-if="frameworkTab === 'hugo'" class="space-y-6">
+              <div class="p-5 rounded-xl bg-white dark:bg-[#0D1016] border border-slate-200 dark:border-[#1D222B] space-y-4">
+                <div class="space-y-1">
+                  <div class="flex items-center justify-between">
+                    <h3 class="font-display text-base font-bold text-slate-900 dark:text-[#F1F5F9]">Option 1: Hugo Shortcode for Markdown Content</h3>
+                    <span class="text-[11px] font-mono text-teal-600 dark:text-[#2DD4BF] bg-teal-50 dark:bg-[#0F2926] px-2 py-0.5 rounded font-semibold">Recommended for Posts &amp; Docs</span>
+                  </div>
+                  <p class="text-xs text-slate-600 dark:text-[#94A3B8]">
+                    Create a shortcode file at <code class="font-mono text-teal-600">layouts/shortcodes/icon.html</code>. Combine this with the Iconix Web Component loader in your <code class="font-mono text-teal-600">baseof.html</code>:
+                  </p>
+                </div>
+                <CodeBlock :code="HUGO_SHORTCODE_SNIPPET" lang="html" @copied="$emit('notify', 'Copied Hugo shortcode recipe')" />
+              </div>
+
+              <div class="p-5 rounded-xl bg-white dark:bg-[#0D1016] border border-slate-200 dark:border-[#1D222B] space-y-4">
+                <div class="space-y-1">
+                  <h3 class="font-display text-base font-bold text-slate-900 dark:text-[#F1F5F9]">Usage inside Hugo Markdown Files</h3>
+                  <p class="text-xs text-slate-600 dark:text-[#94A3B8]">
+                    Call any icon inside your posts and pages using clean Hugo shortcode syntax:
+                  </p>
+                </div>
+                <CodeBlock :code="HUGO_MARKDOWN_SNIPPET" lang="markdown" @copied="$emit('notify', 'Copied Hugo markdown snippet')" />
+              </div>
+
+              <div class="p-5 rounded-xl bg-white dark:bg-[#0D1016] border border-slate-200 dark:border-[#1D222B] space-y-4">
+                <div class="space-y-1">
+                  <div class="flex items-center justify-between">
+                    <h3 class="font-display text-base font-bold text-slate-900 dark:text-[#F1F5F9]">Option 2: Native Hugo Partial (100% Zero-JS / Static Inline SVG)</h3>
+                    <span class="text-[11px] font-mono text-slate-500 dark:text-[#94A3B8] bg-slate-100 dark:bg-[#181D26] px-2 py-0.5 rounded">Pure SSR</span>
+                  </div>
+                  <p class="text-xs text-slate-600 dark:text-[#94A3B8]">
+                    If you prefer zero client-side JavaScript, download the Iconix SVGs into your Hugo project's <code class="font-mono text-teal-600">assets/icons/</code> directory and create <code class="font-mono text-teal-600">layouts/partials/icon.html</code>:
+                  </p>
+                </div>
+                <CodeBlock :code="HUGO_PARTIAL_SNIPPET" lang="html" @copied="$emit('notify', 'Copied Hugo partial recipe')" />
+              </div>
+
+              <div class="p-5 rounded-xl bg-white dark:bg-[#0D1016] border border-slate-200 dark:border-[#1D222B] space-y-4">
+                <div class="space-y-1">
+                  <h3 class="font-display text-base font-bold text-slate-900 dark:text-[#F1F5F9]">Usage in Hugo Layout Templates</h3>
+                  <p class="text-xs text-slate-600 dark:text-[#94A3B8]">
+                    Call the partial anywhere in your Hugo layout templates with automatic Tailwind or custom CSS classes:
+                  </p>
+                </div>
+                <CodeBlock :code="HUGO_PARTIAL_USAGE_SNIPPET" lang="html" @copied="$emit('notify', 'Copied Hugo partial usage snippet')" />
               </div>
             </div>
 
@@ -608,7 +657,7 @@ defineEmits<{
 }>();
 
 const activeTab = ref<'web-component' | 'frameworks' | 'attributes' | 'api' | 'figma'>('web-component');
-const frameworkTab = ref<'nuxt' | 'vue' | 'react' | 'vanilla'>('nuxt');
+const frameworkTab = ref<'nuxt' | 'vue' | 'react' | 'hugo' | 'vanilla'>('nuxt');
 
 const DOC_TABS = [
   { id: 'web-component', label: 'Web Component (<ix-icon>)', icon: Code2 },
@@ -838,6 +887,43 @@ export function IconixIcon({ name, variant = 'linear', size = 24, stroke = 2, co
   // @ts-ignore
   return <ix-icon name={name} variant={variant} size={size} stroke={stroke} color={color} tone={tone} class={className} />;
 }`;
+
+const HUGO_SHORTCODE_SNIPPET = `<!-- layouts/shortcodes/icon.html -->
+<ix-icon
+  name="{{ .Get "name" | default (.Get 0) }}"
+  variant="{{ .Get "variant" | default "linear" }}"
+  size="{{ .Get "size" | default "24" }}"
+  stroke="{{ .Get "stroke" | default "2" }}"
+  color="{{ .Get "color" | default "currentColor" }}"
+  tone="{{ .Get "tone" | default "" }}">
+</ix-icon>`;
+
+const HUGO_MARKDOWN_SNIPPET = `---
+title: "My Hugo Post"
+date: 2026-11-23
+---
+
+# Product Features
+
+- {{< icon name="calendar-check" variant="duotone" size="22" >}} Scheduled Meetings
+- {{< icon name="shield" variant="solid" size="22" color="#0D9488" >}} Enterprise Security
+- {{< icon name="camera" variant="line-duotone" size="22" >}} High-Resolution Capture`;
+
+const HUGO_PARTIAL_SNIPPET = `<!-- layouts/partials/icon.html (Pure Inline SVG, Zero-JS) -->
+{{ $name := .name }}
+{{ $class := .class | default "inline-block align-middle" }}
+{{ $svg := resources.Get (printf "icons/iconix_%s.svg" $name) }}
+{{ if $svg }}
+  <span class="{{ $class }}">{{ $svg.Content | safeHTML }}</span>
+{{ else }}
+  <span class="text-xs text-red-500 font-mono">[icon: {{ $name }}]</span>
+{{ end }}`;
+
+const HUGO_PARTIAL_USAGE_SNIPPET = `<!-- In your Hugo layout templates (e.g. layouts/index.html) -->
+<div class="flex items-center gap-3">
+  {{ partial "icon.html" (dict "name" "search" "class" "w-5 h-5 text-teal-500") }}
+  {{ partial "icon.html" (dict "name" "calendar" "class" "w-6 h-6 text-slate-700") }}
+</div>`;
 
 const VANILLA_HTML_SNIPPET = computed(() => `<!DOCTYPE html>
 <html lang="en">
