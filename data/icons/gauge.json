@@ -1,0 +1,15 @@
+{
+  "name": "gauge",
+  "category": "E-Commerce & Finance",
+  "tags": [
+    "iconix",
+    "gauge",
+    "meter",
+    "speed",
+    "performance",
+    "indicator",
+    "dashboard",
+    "speedometer"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.33782 19C2.48697 17.5291 2 15.8214 2 14C2 8.47715 6.47715 4 12 4C17.5228 4 22 8.47715 22 14C22 15.8214 21.513 17.5291 20.6622 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 10L12 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

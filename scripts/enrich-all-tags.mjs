@@ -10,6 +10,16 @@ const files = fs.readdirSync(dataIconsDir).filter((f) => f.endsWith('.json'));
 
 const TAG_DICTIONARY = {
   // Devices & Tech
+  chart: ['chart', 'graph', 'analytics', 'statistics', 'diagram', 'data', 'metrics', 'report', 'visual', 'grafik', 'statistik', 'data'],
+  candlestick: ['candlestick', 'crypto', 'stocks', 'trading', 'finance', 'forex', 'market', 'chart', 'saham', 'trading'],
+  cctv: ['cctv', 'surveillance', 'camera', 'security', 'monitor', 'protection', 'video', 'kamera-keamanan', 'pengawas'],
+  gauge: ['gauge', 'meter', 'speed', 'performance', 'indicator', 'dashboard', 'speedometer'],
+  speedometer: ['speedometer', 'speed', 'velocity', 'gauge', 'meter', 'fast', 'performance', 'kecepatan'],
+  kanban: ['kanban', 'board', 'tasks', 'scrum', 'agile', 'project', 'workflow', 'cards'],
+  'case-lower': ['case-lower', 'lowercase', 'small', 'letter', 'font', 'typography', 'text', 'huruf-kecil'],
+  'case-upper': ['case-upper', 'uppercase', 'capital', 'caps', 'letter', 'font', 'typography', 'text', 'huruf-besar'],
+  'letter-spacing': ['letter-spacing', 'tracking', 'kerning', 'typography', 'font', 'spacing', 'spasi-huruf'],
+  'whole-word': ['whole-word', 'word', 'search', 'match', 'find', 'text', 'typography', 'kata'],
   arrow: ['arrow', 'pointer', 'direction', 'navigation', 'move', 'point', 'long', 'panah', 'arah', 'petunjuk'],
   calendar: ['calendar', 'date', 'schedule', 'event', 'month', 'year', 'day', 'planner', 'agenda', 'kalender', 'jadwal'],
   lens: ['lens', 'camera', 'optic', 'glass', 'zoom', 'focus', 'photo'],

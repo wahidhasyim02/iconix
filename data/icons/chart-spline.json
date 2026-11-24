@@ -1,0 +1,21 @@
+{
+  "name": "chart-spline",
+  "category": "E-Commerce & Finance",
+  "tags": [
+    "iconix",
+    "chart-spline",
+    "chart",
+    "spline",
+    "graph",
+    "analytics",
+    "statistics",
+    "diagram",
+    "data",
+    "metrics",
+    "report",
+    "visual",
+    "grafik",
+    "statistik"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 16C7.65577 14.2247 8.23606 13.0337 9.21802 11.8337C10.0875 10.7713 11.7116 10.9488 12.5353 12.0471C13.333 13.1107 14.8821 13.3138 15.7896 12.3421C17.2636 10.7639 18.3291 8.89606 19 6\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

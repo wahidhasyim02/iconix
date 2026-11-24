@@ -1,0 +1,18 @@
+{
+  "name": "speedometer-middle",
+  "category": "E-Commerce & Finance",
+  "tags": [
+    "iconix",
+    "speedometer-middle",
+    "speedometer",
+    "middle",
+    "speed",
+    "velocity",
+    "gauge",
+    "meter",
+    "fast",
+    "performance",
+    "kecepatan"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 2V4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 12H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 12H4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 4.9169L17.6688 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 4.9169L6.33023 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 19.0834L17.6688 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 19.0834L6.33023 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13.1311 15.4936C12.3139 15.6915 11.5994 15.6682 10.8142 15.5082C9.77695 15.2969 9.19155 14.1958 9.48434 13.1786C9.77761 12.1597 10.1241 11.1554 10.6223 10.1629C11.207 8.99803 12.7781 9.01337 13.3068 10.2047C13.7789 11.2684 14.0783 12.3837 14.2872 13.5588C14.4392 14.4137 13.975 15.2893 13.1311 15.4936Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

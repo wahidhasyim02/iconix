@@ -137,7 +137,7 @@
               <circle cx="11" cy="11" r="8" />
               <path d="m21 21-4.35-4.35" />
             </svg>
-            Jelajahi 652 Ikon
+            Jelajahi 690 Ikon
           </button>
         </div>
 

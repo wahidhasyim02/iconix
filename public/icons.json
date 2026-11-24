@@ -980,7 +980,7 @@
         "port",
         "sail"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 20H12.0116M12 20V6M12 20V22M12 20L12 21M12.0116 20V6M12.0116 20L12.0116 22M12 6C13.1046 6 14 5.10457 14 4C14 2.89543 13.1046 2 12 2C10.8954 2 10 2.89543 10 4C10 5.10457 10.8954 6 12 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.26159 13L3.01159 12C2.84503 15.4977 5.99594 19.9942 12 20H12.0116C18.0156 19.9942 21.1666 15.4977 21 12L19.75 13M16 9H8.00001\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 20H12.0116M12 20V6M12 20V22M12 20L12 21M12.0116 20V6M12.0116 20L12.0116 22M12 6C13.1046 6 14 5.10457 14 4C14 2.89543 13.1046 2 12 2C10.8954 2 10 2.89543 10 4C10 5.10457 10.8954 6 12 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.26165 13L3.01165 12C2.84509 15.4977 5.99601 19.9942 12.0001 20H12.0117C18.0157 19.9942 21.1666 15.4977 21.0001 12L19.7501 13M16.0001 9H8.00007\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "angle",
@@ -3085,6 +3085,24 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 19H10M4 19C2.89543 19 2 18.1046 2 17L2 13.5L4.14721 9.56344C4.67291 8.59966 5.68307 8 6.7809 8H11H11.9415C13.2333 8 14.4456 8.62386 15.1965 9.67505L16.5 11.5C17.3624 12.3547 20.5825 12.876 21.6567 13.5971C21.956 13.798 22 14.1818 22 14.5423V17C22 18.1046 21.1046 19 20 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9 19C9 20.1046 8.10457 21 7 21C5.89543 21 5 20.1046 5 19C5 17.8954 5.89543 17 7 17C8.10457 17 9 17.8954 9 19ZM19 19C19 20.1046 18.1046 21 17 21C15.8954 21 15 20.1046 15 19C15 17.8954 15.8954 17 17 17C18.1046 17 19 17.8954 19 19Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "case-lower",
+      "category": "Typography",
+      "tags": [
+        "iconix",
+        "case-lower",
+        "case",
+        "lower",
+        "lowercase",
+        "small",
+        "letter",
+        "font",
+        "typography",
+        "text",
+        "huruf-kecil"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 10V17M10 13.5C10 15.433 8.433 17 6.5 17C4.567 17 3 15.433 3 13.5C3 11.567 4.567 10 6.5 10C8.433 10 10 11.567 10 13.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M14 7V17M14 13.5C14 15.433 15.567 17 17.5 17C19.433 17 21 15.433 21 13.5C21 11.567 19.433 10 17.5 10C15.567 10 14 11.567 14 13.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "case-sensitive",
       "category": "Typography",
       "tags": [
@@ -3102,7 +3120,640 @@
         "search",
         "match"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.66929 14.0429L6.5 7L3.33071 14.0429M9.66929 14.0429L11 17M9.66929 14.0429H3.33071M2 17L3.33071 14.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21.0555 16.9513C20.5901 15.0892 21.1967 12.6938 20.6298 10.4346C20.063 8.1754 16.906 8.10722 15.0441 10.4346\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.6299 11.8308C18.3025 13.6927 15.4699 11.8308 15.0442 14.6237C14.5532 17.8448 18.2627 17.4165 20.6299 15.5546\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.66929 14.0429L6.5 7L3.33071 14.0429M9.66929 14.0429L11 17M9.66929 14.0429H3.33071M2 17L3.33071 14.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 10V17M22 13.5C22 15.433 20.433 17 18.5 17C16.567 17 15 15.433 15 13.5C15 11.567 16.567 10 18.5 10C20.433 10 22 11.567 22 13.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "case-upper",
+      "category": "Typography",
+      "tags": [
+        "iconix",
+        "case-upper",
+        "case",
+        "upper",
+        "uppercase",
+        "capital",
+        "caps",
+        "letter",
+        "font",
+        "typography",
+        "text",
+        "huruf-besar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.66929 14.0429L6.5 7L3.33071 14.0429M9.66929 14.0429L11 17M9.66929 14.0429H3.33071M2 17L3.33071 14.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20 11H15M20 11C21.2206 11.949 22 12.5 22 14C22 14.4244 21.9862 14.7775 21.9477 15.0859C21.7755 16.4646 20.2106 17 18.8212 17H16C15.4477 17 15 16.5523 15 16V11M20 11C20.6479 10.211 21 10 21 9C21 8.76364 20.9771 8.55245 20.9344 8.36179C20.6947 7.29247 19.4064 7 18.3106 7H16C15.4477 7 15 7.44772 15 8V11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "cctv",
+      "category": "Security & System",
+      "tags": [
+        "iconix",
+        "cctv",
+        "surveillance",
+        "camera",
+        "security",
+        "monitor",
+        "protection",
+        "video",
+        "kamera-keamanan",
+        "pengawas"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.7994 10.3943L15.2637 15.8321C14.7969 16.8332 13.6069 17.2663 12.6059 16.7995L4.4491 12.9959C2.44694 12.0623 1.58072 9.68238 2.51434 7.68022L3.35958 5.8676C4.2932 3.86544 6.67312 2.99922 8.67528 3.93284L16.832 7.73641C17.8331 8.20322 18.2662 9.39318 17.7994 10.3943Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16.7601 12.6232L16.3032 13.6031C15.6988 14.8992 16.0933 16.4417 17.2457 17.2885L18.3898 18.1292C18.8983 18.5029 19.6215 18.3179 19.8882 17.746L22.2382 12.7066C22.5048 12.1346 22.1816 11.4617 21.5685 11.3124L20.189 10.9763C18.7996 10.6379 17.3645 11.3272 16.7601 12.6232Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"6.64932\" cy=\"8.31626\" r=\"0.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2 21V18.5M2 18.5V16M2 18.5H4.83935C5.55707 18.5 6.21976 18.1154 6.57584 17.4923L8 15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "cctv-off",
+      "category": "Security & System",
+      "tags": [
+        "iconix",
+        "cctv-off",
+        "cctv",
+        "off",
+        "slash",
+        "disabled",
+        "turn-off",
+        "inactive",
+        "mute",
+        "mati",
+        "nonaktif",
+        "garis-miring",
+        "strip",
+        "surveillance",
+        "camera",
+        "security",
+        "monitor",
+        "protection",
+        "video",
+        "kamera-keamanan",
+        "pengawas"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.7995 10.3942C18.2663 9.39312 17.8332 8.20316 16.8321 7.73635L8.67534 3.93279C8.45406 3.8296 8.22817 3.7484 8.00012 3.68829M16.7601 12.6232C17.3645 11.3271 18.7996 10.6378 20.189 10.9763L21.5685 11.3123C22.1816 11.4616 22.5048 12.1346 22.2381 12.7065L21.0632 15.2262L20.7694 15.8561M3.84288 5.0811C3.65584 5.31878 3.49298 5.58158 3.35963 5.86755L2.5144 7.68016C1.58077 9.68232 2.44699 12.0622 4.44915 12.9959L12.6059 16.7994C13.4561 17.1959 14.4426 16.9432 15.0066 16.2448\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"6.64932\" cy=\"8.31623\" r=\"0.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2 21V18.5M2 18.5V16M2 18.5H4.83935C5.55707 18.5 6.21976 18.1154 6.57584 17.4923L8 15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.6777 22L2.00006 2.32233\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-area",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-area",
+        "chart",
+        "area",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.29289 7.70711L7.29289 9.70711C7.10536 9.89464 7 10.149 7 10.4142V16C7 16.5523 7.44772 17 8 17L18 17C18.5523 17 19 16.5523 19 16V6.41421C19 5.52331 17.9229 5.07714 17.2929 5.70711L13.7071 9.29289C13.3166 9.68342 12.6834 9.68342 12.2929 9.29289L10.7071 7.70711C10.3166 7.31658 9.68342 7.31658 9.29289 7.70711Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-bar",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-bar",
+        "chart",
+        "bar",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 11H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 16H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 6H10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-bar-big",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-bar-big",
+        "chart",
+        "bar",
+        "big",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"7\" y=\"13\" width=\"10\" height=\"4\" rx=\"1\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20 6V8C20 8.55228 19.5523 9 19 9H8C7.44772 9 7 8.55228 7 8V6C7 5.44772 7.44772 5 8 5H19C19.5523 5 20 5.44772 20 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-bar-decreasing",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-bar-decreasing",
+        "chart",
+        "bar",
+        "decreasing",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 6H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 11H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 16H10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-bar-increasing",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-bar-increasing",
+        "chart",
+        "bar",
+        "increasing",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 16H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 11H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 6H10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-bar-stacked",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-bar-stacked",
+        "chart",
+        "bar",
+        "stacked",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M11 16.5V13.5M16 8V5M17 14V16C17 16.5523 16.5523 17 16 17H8C7.44772 17 7 16.5523 7 16V14C7 13.4477 7.44772 13 8 13H16C16.5523 13 17 13.4477 17 14ZM20 6V8C20 8.55228 19.5523 9 19 9H8C7.44772 9 7 8.55228 7 8V6C7 5.44772 7.44772 5 8 5H19C19.5523 5 20 5.44772 20 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-bell-curve",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-bell-curve",
+        "chart",
+        "bell",
+        "curve",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 16C8.17071 16 9.18614 15.1888 9.45219 14.0487C10.1304 11.1423 10.5755 9.37048 11.2266 7.26825C11.7811 5.47767 14.2731 5.45859 14.863 7.23785C15.6704 9.67335 16.1264 11.4625 16.6304 14.0336C16.8533 15.1701 17.8418 16 19 16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-candlestick",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-candlestick",
+        "chart",
+        "candlestick",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9 15H10C10.5523 15 11 14.5523 11 14V10C11 9.44772 10.5523 9 10 9H9M9 15H8C7.44772 15 7 14.5523 7 14V10C7 9.44772 7.44772 9 8 9H9M9 15V17M9 9V5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17 13H18C18.5523 13 19 12.5523 19 12V6C19 5.44772 18.5523 5 18 5H17M17 13H16C15.4477 13 15 12.5523 15 12V6C15 5.44772 15.4477 5 16 5H17M17 13V16M17 5V3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-column",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-column",
+        "chart",
+        "column",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 17V5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 17V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 17V14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-column-big",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-column-big",
+        "chart",
+        "column",
+        "big",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"7\" y=\"7\" width=\"4\" height=\"10\" rx=\"1\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 4H16C15.4477 4 15 4.44772 15 5V16C15 16.5523 15.4477 17 16 17H18C18.5523 17 19 16.5523 19 16V5C19 4.44772 18.5523 4 18 4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-column-decreasing",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-column-decreasing",
+        "chart",
+        "column",
+        "decreasing",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 17V5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 17V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 17V14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-column-increasing",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-column-increasing",
+        "chart",
+        "column",
+        "increasing",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 17V5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 17V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 17V14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-column-stacked",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-column-stacked",
+        "chart",
+        "column",
+        "stacked",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7.5 13H10.5M16 8H19M10 7H8C7.44772 7 7 7.44772 7 8V16C7 16.5523 7.44772 17 8 17H10C10.5523 17 11 16.5523 11 16V8C11 7.44772 10.5523 7 10 7ZM18 4H16C15.4477 4 15 4.44772 15 5V16C15 16.5523 15.4477 17 16 17H18C18.5523 17 19 16.5523 19 16V5C19 4.44772 18.5523 4 18 4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-gantt",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-gantt",
+        "chart",
+        "gantt",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 11H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 16H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 6H17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-line",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-line",
+        "chart",
+        "line",
+        "stroke",
+        "underline",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 13L9.29289 10.7071C9.68342 10.3166 10.3166 10.3166 10.7071 10.7071L13.2929 13.2929C13.6834 13.6834 14.3166 13.6834 14.7071 13.2929L19 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-network",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-network",
+        "chart",
+        "network",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 15L15 13.5M15.5 11L12.5 7.5M13 5.5L20 4M10 16C10 17.1046 9.10457 18 8 18C6.89543 18 6 17.1046 6 16C6 14.8954 6.89543 14 8 14C9.10457 14 10 14.8954 10 16ZM19 13C19 14.1046 18.1046 15 17 15C15.8954 15 15 14.1046 15 13C15 11.8954 15.8954 11 17 11C18.1046 11 19 11.8954 19 13ZM13 6C13 7.10457 12.1046 8 11 8C9.89543 8 9 7.10457 9 6C9 4.89543 9.89543 4 11 4C12.1046 4 13 4.89543 13 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-no-axes-column",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-no-axes-column",
+        "chart",
+        "no",
+        "axes",
+        "column",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 21V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 21V3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19 21V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-no-axes-column-decreasing",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-no-axes-column-decreasing",
+        "chart",
+        "no",
+        "axes",
+        "column",
+        "decreasing",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19 21V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5 21V3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 21V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-no-axes-column-increasing",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-no-axes-column-increasing",
+        "chart",
+        "no",
+        "axes",
+        "column",
+        "increasing",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 21V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19 21V3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 21V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-no-axes-combined",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-no-axes-combined",
+        "chart",
+        "no",
+        "axes",
+        "combined",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 21V18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 21V13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16 21V14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20 21V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 21V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 14L7.58579 8.41421C8.36684 7.63316 9.63317 7.63317 10.4142 8.41421L11.6665 9.66653C12.4153 10.4153 13.618 10.4507 14.4095 9.74714L22 3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-no-axes-gantt",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-no-axes-gantt",
+        "chart",
+        "no",
+        "axes",
+        "gantt",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 5H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M3 12H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 19H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-pie",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-pie",
+        "chart",
+        "pie",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.37934 3.5C4.66497 4.79575 2 8.32952 2 12.4857C2 17.7403 6.25969 22 11.5143 22C15.6569 22 19.1811 19.3525 20.4872 15.6571\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 11V5C12 3.34315 13.3729 1.95496 14.956 2.44408C18.1016 3.41602 20.584 5.89843 21.5559 9.04404C22.045 10.6271 20.6569 12 19 12H13C12.4477 12 12 11.5523 12 11Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-quadrant",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-quadrant",
+        "chart",
+        "quadrant",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 20V3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4 12H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M8 7.5C8 7.77614 7.77614 8 7.5 8C7.22386 8 7 7.77614 7 7.5C7 7.22386 7.22386 7 7.5 7C7.77614 7 8 7.22386 8 7.5ZM8 16.5C8 16.7761 7.77614 17 7.5 17C7.22386 17 7 16.7761 7 16.5C7 16.2239 7.22386 16 7.5 16C7.77614 16 8 16.2239 8 16.5ZM18 5.5C18 5.77614 17.7761 6 17.5 6C17.2239 6 17 5.77614 17 5.5C17 5.22386 17.2239 5 17.5 5C17.7761 5 18 5.22386 18 5.5ZM18 16.5C18 16.7761 17.7761 17 17.5 17C17.2239 17 17 16.7761 17 16.5C17 16.2239 17.2239 16 17.5 16C17.7761 16 18 16.2239 18 16.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-radar",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-radar",
+        "chart",
+        "radar",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 9L12 12M12 12L22 10M12 12L19 21M12 12L6 21M12 12V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19.3401 11.914L16.8791 17.1877C16.6379 17.7045 16.1876 18.0937 15.6414 18.2576L8.48643 20.4041C7.40121 20.7296 6.2625 20.0896 5.9765 18.9933L3.86488 10.8987C3.64709 10.0638 3.98923 9.18344 4.71361 8.71472L10.7801 4.78938C11.5075 4.31868 12.4553 4.36992 13.1277 4.91629L18.7889 9.51602C19.5008 10.0944 19.728 11.0829 19.3401 11.914Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-scatter",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-scatter",
+        "chart",
+        "scatter",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<circle cx=\"7.5\" cy=\"7.5\" r=\"0.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"7.5\" cy=\"16.5\" r=\"0.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"17.5\" cy=\"5.5\" r=\"0.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"12.5\" cy=\"11.5\" r=\"0.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 14.5C19 14.7761 18.7761 15 18.5 15C18.2239 15 18 14.7761 18 14.5C18 14.2239 18.2239 14 18.5 14C18.7761 14 19 14.2239 19 14.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "chart-spline",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "chart-spline",
+        "chart",
+        "spline",
+        "graph",
+        "analytics",
+        "statistics",
+        "diagram",
+        "data",
+        "metrics",
+        "report",
+        "visual",
+        "grafik",
+        "statistik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 16C7.65577 14.2247 8.23606 13.0337 9.21802 11.8337C10.0875 10.7713 11.7116 10.9488 12.5353 12.0471C13.333 13.1107 14.8821 13.3138 15.7896 12.3421C17.2636 10.7639 18.3291 8.89606 19 6\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "check",
@@ -3596,7 +4247,7 @@
         "setuju",
         "checklist"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15.3333 9.77777L11.0196 14.2222L8.66663 11.798\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15.3334 9.77777L11.0197 14.2222L8.66675 11.798\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "circle-dot",
@@ -3820,7 +4471,7 @@
         "pengguna",
         "akun"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke=\"black\"/>\n<path d=\"M17 20.4375V18.4375C17 16.7806 15.6569 15.4375 14 15.4375H10C8.34315 15.4375 7 16.7806 7 18.4375V20.4375M9.5 10.0625C9.5 11.4432 10.6193 12.5625 12 12.5625C13.3807 12.5625 14.5 11.4432 14.5 10.0625C14.5 8.68179 13.3807 7.5625 12 7.5625C10.6193 7.5625 9.5 8.68179 9.5 10.0625Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17 20.4375V18.4375C17 16.7806 15.6569 15.4375 14 15.4375H10C8.34315 15.4375 7 16.7806 7 18.4375V20.4375M9.5 10.0625C9.5 11.4432 10.6193 12.5625 12 12.5625C13.3807 12.5625 14.5 11.4432 14.5 10.0625C14.5 8.68179 13.3807 7.5625 12 7.5625C10.6193 7.5625 9.5 8.68179 9.5 10.0625Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "circle-x",
@@ -5817,6 +6468,37 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 21V19C21 17.3431 19.6569 16 18 16H6C4.34315 16 3 17.3431 3 19V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21 3V5C21 6.65685 19.6569 8 18 8H6C4.34315 8 3 6.65685 3 5V3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 12H20.3333M2 12H3.66667M17 12H13.6667M10.3333 12H7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "gauge",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "gauge",
+        "meter",
+        "speed",
+        "performance",
+        "indicator",
+        "dashboard",
+        "speedometer"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3.33782 19C2.48697 17.5291 2 15.8214 2 14C2 8.47715 6.47715 4 12 4C17.5228 4 22 8.47715 22 14C22 15.8214 21.513 17.5291 20.6622 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 10L12 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "graph-star",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "graph-star",
+        "graph",
+        "star",
+        "favorite",
+        "rating",
+        "vip",
+        "premium",
+        "bintang"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 12C15 13.6569 13.6569 15 12 15C10.3431 15 9 13.6569 9 12C9 10.3431 10.3431 9 12 9C13.6569 9 15 10.3431 15 12Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 19C6 20.1046 5.10457 21 4 21C2.89543 21 2 20.1046 2 19C2 17.8954 2.89543 17 4 17C5.10457 17 6 17.8954 6 19Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 20C19 21.1046 18.1046 22 17 22C15.8954 22 15 21.1046 15 20C15 18.8954 15.8954 18 17 18C18.1046 18 19 18.8954 19 20Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M22 13C22 14.1046 21.1046 15 20 15C18.8954 15 18 14.1046 18 13C18 11.8954 18.8954 11 20 11C21.1046 11 22 11.8954 22 13Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 4C19 5.10457 18.1046 6 17 6C15.8954 6 15 5.10457 15 4C15 2.89543 15.8954 2 17 2C18.1046 2 19 2.89543 19 4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 4C6 5.10457 5.10457 6 4 6C2.89543 6 2 5.10457 2 4C2 2.89543 2.89543 2 4 2C5.10457 2 6 2.89543 6 4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 6L9.5 9.5M6 17L9.5 14M14 15L15.5 17.5M15.5 12L17.5 12.5M15.5 6L14 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "grid-2x2",
       "category": "General UI",
       "tags": [
@@ -6988,6 +7670,22 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 2.55556C11.1764 1.6406 12.8236 1.6406 14 2.55556L19.4558 6.79893C20.4301 7.55675 21 8.72197 21 9.95634V19C21 20.1046 20.1046 21 19 21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16.4 19V11.5782C16.4 10.961 16.1151 10.3784 15.6279 9.99945L10.4279 5.955C9.70566 5.39328 8.69434 5.39328 7.97212 5.955L2.77212 9.99945C2.28495 10.3784 2 10.961 2 11.5782V19C2 20.1046 2.89543 21 4 21H14.4C15.5046 21 16.4 20.1046 16.4 19Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6 21V15.6C6 15.0477 6.44772 14.6 7 14.6H11.4C11.9523 14.6 12.4 15.0477 12.4 15.6V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "kanban",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "kanban",
+        "board",
+        "tasks",
+        "scrum",
+        "agile",
+        "project",
+        "workflow",
+        "cards"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 3V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19 3V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5 3V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "key-circle",
       "category": "Security & System",
       "tags": [
@@ -7657,6 +8355,22 @@
         "photo"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 12C19 8.13401 15.866 5 12 5M7.5 6.63789C7.8857 6.31386 8.30687 6.03068 8.75684 5.79501\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "letter-spacing",
+      "category": "Typography",
+      "tags": [
+        "iconix",
+        "letter-spacing",
+        "letter",
+        "spacing",
+        "tracking",
+        "kerning",
+        "typography",
+        "font",
+        "spasi-huruf"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 2V22M3 22V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16.25 17L14.9563 14.0429L11.875 7L8.79374 14.0429M14.9563 14.0429H8.79374M7.5 17L8.79374 14.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "line-height",
@@ -12082,7 +12796,7 @@
         "precision",
         "blueprint"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 12.125L2.60171 8.22672C1.82066 7.44567 1.82066 6.17934 2.60171 5.39829L5.58579 2.41421C6.36683 1.63317 7.63316 1.63316 8.41421 2.41421L12.5 6.5M18 12L21.0858 15.0858C21.8668 15.8668 21.8668 17.1332 21.0858 17.9142L18.1017 20.8983C17.3207 21.6794 16.0543 21.6794 15.2733 20.8983L11.875 17.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10.2292 4.22919L7.323 7.13544\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.271 13.2708L16.3647 16.1771\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17.2068 2.79323L17.9087 3.50558L17.9139 3.50034L17.2068 2.79323ZM21.391 6.97742L22.0929 7.68977L22.0981 7.68453L21.391 6.97742ZM2.00006 22L1.06882 21.6356C0.924042 22.0056 1.01202 22.4262 1.29295 22.7071C1.57389 22.988 1.99448 23.076 2.36446 22.9312L2.00006 22ZM6.57972 20.208L6.21532 19.2767L6.57972 20.208ZM6.51103 13.3316L7.21287 14.044L17.9087 3.50556L17.2068 2.79323L16.505 2.0809L5.80918 12.6193L6.51103 13.3316ZM17.2068 2.79323L17.9139 3.50034C18.5138 2.90049 19.4863 2.90049 20.0862 3.50034L20.7933 2.79323L21.5004 2.08613C20.1195 0.705232 17.8806 0.705232 16.4997 2.08613L17.2068 2.79323ZM20.7933 2.79323L20.0862 3.50034L20.6839 4.09808L21.391 3.39097L22.0981 2.68387L21.5004 2.08613L20.7933 2.79323ZM21.391 3.39097L20.6839 4.09808C21.2837 4.69793 21.2837 5.67047 20.6839 6.27031L21.391 6.97742L22.0981 7.68453C23.479 6.30363 23.479 4.06476 22.0981 2.68387L21.391 3.39097ZM21.391 6.97742L20.6892 6.26509L9.92724 16.8687L10.6291 17.581L11.3309 18.2933L22.0929 7.68975L21.391 6.97742ZM6.57972 20.208L6.21532 19.2767L1.63566 21.0688L2.00006 22L2.36446 22.9312L6.94412 21.1392L6.57972 20.208ZM2.00006 22L2.9313 22.3644L4.68952 17.8712L3.75827 17.5068L2.82703 17.1424L1.06882 21.6356L2.00006 22ZM10.6291 17.581L9.92724 16.8687C8.86581 17.9145 7.60296 18.7337 6.21532 19.2767L6.57972 20.208L6.94412 21.1392C8.58405 20.4975 10.0765 19.5293 11.3309 18.2933L10.6291 17.581ZM6.51103 13.3316L5.80918 12.6193C4.50851 13.9008 3.4924 15.442 2.82703 17.1424L3.75827 17.5068L4.68952 17.8712C5.25252 16.4324 6.11231 15.1283 7.21287 14.044L6.51103 13.3316Z\" fill=\"black\"/>\n<path d=\"M14.8088 5.00696C16.1008 7.11454 17.0393 8.02778 19.0515 9.2496\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6.5 12.125L2.60171 8.22672C1.82066 7.44567 1.82066 6.17934 2.60171 5.39829L5.58579 2.41421C6.36683 1.63317 7.63316 1.63316 8.41421 2.41421L12.5 6.5M18 12L21.0858 15.0858C21.8668 15.8668 21.8668 17.1332 21.0858 17.9142L18.1017 20.8983C17.3207 21.6794 16.0543 21.6794 15.2733 20.8983L11.875 17.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10.2291 4.22919L7.32287 7.13544\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.2709 13.2708L16.3646 16.1771\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17.2068 2.79323L17.9087 3.50558L17.9139 3.50034L17.2068 2.79323ZM21.391 6.97742L22.0929 7.68977L22.0981 7.68453L21.391 6.97742ZM2.00006 22L1.06882 21.6356C0.924042 22.0056 1.01202 22.4262 1.29295 22.7071C1.57389 22.988 1.99448 23.076 2.36446 22.9312L2.00006 22ZM6.57972 20.208L6.21532 19.2767L6.57972 20.208ZM6.51103 13.3316L7.21287 14.044L17.9087 3.50556L17.2068 2.79323L16.505 2.0809L5.80918 12.6193L6.51103 13.3316ZM17.2068 2.79323L17.9139 3.50034C18.5138 2.90049 19.4863 2.90049 20.0862 3.50034L20.7933 2.79323L21.5004 2.08613C20.1195 0.705232 17.8806 0.705232 16.4997 2.08613L17.2068 2.79323ZM20.7933 2.79323L20.0862 3.50034L20.6839 4.09808L21.391 3.39097L22.0981 2.68387L21.5004 2.08613L20.7933 2.79323ZM21.391 3.39097L20.6839 4.09808C21.2837 4.69793 21.2837 5.67047 20.6839 6.27031L21.391 6.97742L22.0981 7.68453C23.479 6.30363 23.479 4.06476 22.0981 2.68387L21.391 3.39097ZM21.391 6.97742L20.6892 6.26509L9.92724 16.8687L10.6291 17.581L11.3309 18.2933L22.0929 7.68975L21.391 6.97742ZM6.57972 20.208L6.21532 19.2767L1.63566 21.0688L2.00006 22L2.36446 22.9312L6.94412 21.1392L6.57972 20.208ZM2.00006 22L2.9313 22.3644L4.68952 17.8712L3.75827 17.5068L2.82703 17.1424L1.06882 21.6356L2.00006 22ZM10.6291 17.581L9.92724 16.8687C8.86581 17.9145 7.60296 18.7337 6.21532 19.2767L6.57972 20.208L6.94412 21.1392C8.58405 20.4975 10.0765 19.5293 11.3309 18.2933L10.6291 17.581ZM6.51103 13.3316L5.80918 12.6193C4.50851 13.9008 3.4924 15.442 2.82703 17.1424L3.75827 17.5068L4.68952 17.8712C5.25252 16.4324 6.11231 15.1283 7.21287 14.044L6.51103 13.3316Z\" fill=\"black\"/>\n<path d=\"M14.809 5.00696C16.1009 7.11454 17.0394 8.02778 19.0516 9.2496\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "pencil-sparkles",
@@ -13968,6 +14682,63 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18 5V19C18 20.6569 16.6569 22 15 22H9C7.34315 22 6 20.6569 6 19V5C6 3.34315 7.34315 2 9 2H15C16.6569 2 18 3.34315 18 5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"12\" cy=\"15\" r=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 7H14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "speedometer-low",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "speedometer-low",
+        "speedometer",
+        "low",
+        "weak",
+        "rendah",
+        "lemah",
+        "speed",
+        "velocity",
+        "gauge",
+        "meter",
+        "fast",
+        "performance",
+        "kecepatan"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 2V4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 12H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 12H4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 4.9169L17.6688 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 4.9169L6.33023 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 19.0834L17.6688 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 19.0834L6.33023 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14.3532 11.2575C13.9278 10.5321 13.4147 10.0344 12.7542 9.58071C11.8817 8.98135 10.683 9.32515 10.1546 10.2424C9.62541 11.1612 9.14365 12.108 8.77581 13.1558C8.34407 14.3856 9.44648 15.5051 10.6708 15.0579C11.7638 14.6585 12.7741 14.0992 13.7645 13.4332C14.4851 12.9486 14.7925 12.0065 14.3532 11.2575Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "speedometer-max",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "speedometer-max",
+        "speedometer",
+        "max",
+        "speed",
+        "velocity",
+        "gauge",
+        "meter",
+        "fast",
+        "performance",
+        "kecepatan"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 2V4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 12H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 12H4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 4.9169L17.6688 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 4.9169L6.33023 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 19.0834L17.6688 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 19.0834L6.33023 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.64679 11.2575C10.0722 10.5321 10.5853 10.0344 11.2458 9.58071C12.1183 8.98135 13.317 9.32515 13.8454 10.2424C14.3746 11.1612 14.8563 12.108 15.2242 13.1558C15.6559 14.3856 14.5535 15.5051 13.3292 15.0579C12.2362 14.6585 11.2259 14.0992 10.2355 13.4332C9.51491 12.9486 9.20754 12.0065 9.64679 11.2575Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "speedometer-middle",
+      "category": "E-Commerce & Finance",
+      "tags": [
+        "iconix",
+        "speedometer-middle",
+        "speedometer",
+        "middle",
+        "speed",
+        "velocity",
+        "gauge",
+        "meter",
+        "fast",
+        "performance",
+        "kecepatan"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 2V4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 12H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 12H4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 4.9169L17.6688 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 4.9169L6.33023 6.35558\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.0581 19.0834L17.6688 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.94092 19.0834L6.33023 17.6447\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13.1311 15.4936C12.3139 15.6915 11.5994 15.6682 10.8142 15.5082C9.77695 15.2969 9.19155 14.1958 9.48434 13.1786C9.77761 12.1597 10.1241 11.1554 10.6223 10.1629C11.207 8.99803 12.7781 9.01337 13.3068 10.2047C13.7789 11.2684 14.0783 12.3837 14.2872 13.5588C14.4392 14.4137 13.975 15.2893 13.1311 15.4936Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "square-dashed-text",
       "category": "Typography",
       "tags": [
@@ -15606,6 +16377,23 @@
         "inactive"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 4H13C15.2091 4 17 5.79086 17 8V13M16.7973 17.2608C16.2692 18.8521 14.7686 20 13 20H6C3.79086 20 2 18.2091 2 16V8C2 6.49399 2.83229 5.18236 4.062 4.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17 11.4594V12.5406C17 13.9706 18.0094 15.2019 19.4117 15.4823L20.8039 15.7608C21.4227 15.8845 22 15.4112 22 14.7802V9.2198C22 8.58876 21.4227 8.11547 20.8039 8.23922L19.4117 8.51767C18.0094 8.79812 17 10.0294 17 11.4594Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.2929 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "whole-word",
+      "category": "Typography",
+      "tags": [
+        "iconix",
+        "whole-word",
+        "whole",
+        "word",
+        "search",
+        "match",
+        "find",
+        "text",
+        "typography",
+        "kata"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 9V15M14 6.5V15.0714M10 12C10 13.6569 8.65685 15 7 15C5.34315 15 4 13.6569 4 12C4 10.3431 5.34315 9 7 9C8.65685 9 10 10.3431 10 12ZM14 12.0714C14 13.7283 15.3431 15.0714 17 15.0714C18.6569 15.0714 20 13.7283 20 12.0714C20 10.4146 18.6569 9.07143 17 9.07143C15.3431 9.07143 14 10.4146 14 12.0714Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2 17C2 18.1046 2.89543 19 4 19H20C21.1046 19 22 18.1046 22 17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "wifi",

@@ -101,6 +101,7 @@ function resolveCategory(iconName) {
     iconName.startsWith('shield') ||
     iconName.startsWith('lock') ||
     iconName.startsWith('key') ||
+    iconName.startsWith('cctv') ||
     iconName === 'log-in' ||
     iconName === 'log-out'
   ) {
@@ -120,11 +121,20 @@ function resolveCategory(iconName) {
     return 'Development & Code';
   }
   if (
-    ['a-large-small', 'ampersand', 'ampersands', 'case-sensitive', 'line-height', 'text-initial', 'square-dashed-text'].includes(iconName) ||
+    ['a-large-small', 'ampersand', 'ampersands', 'case-sensitive', 'case-lower', 'case-upper', 'line-height', 'text-initial', 'square-dashed-text', 'letter-spacing', 'whole-word'].includes(iconName) ||
+    iconName.startsWith('case-') ||
     iconName.startsWith('list-indent') ||
     iconName.startsWith('text-align')
   ) {
     return 'Typography';
+  }
+  if (
+    iconName.startsWith('chart-') ||
+    iconName.startsWith('graph-') ||
+    iconName.startsWith('speedometer-') ||
+    ['kanban', 'gauge'].includes(iconName)
+  ) {
+    return 'E-Commerce & Finance';
   }
   if (['accessibility', 'activity', 'trash', 'trash-off'].includes(iconName)) {
     return 'Interface & Health';

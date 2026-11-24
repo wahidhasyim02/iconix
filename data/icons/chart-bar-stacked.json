@@ -1,0 +1,22 @@
+{
+  "name": "chart-bar-stacked",
+  "category": "E-Commerce & Finance",
+  "tags": [
+    "iconix",
+    "chart-bar-stacked",
+    "chart",
+    "bar",
+    "stacked",
+    "graph",
+    "analytics",
+    "statistics",
+    "diagram",
+    "data",
+    "metrics",
+    "report",
+    "visual",
+    "grafik",
+    "statistik"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M11 16.5V13.5M16 8V5M17 14V16C17 16.5523 16.5523 17 16 17H8C7.44772 17 7 16.5523 7 16V14C7 13.4477 7.44772 13 8 13H16C16.5523 13 17 13.4477 17 14ZM20 6V8C20 8.55228 19.5523 9 19 9H8C7.44772 9 7 8.55228 7 8V6C7 5.44772 7.44772 5 8 5H19C19.5523 5 20 5.44772 20 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}
