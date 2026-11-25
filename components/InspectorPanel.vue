@@ -309,6 +309,7 @@ import {
   buildReactComponentCode,
   buildStyledSvg,
   buildVueComponentCode,
+  copySvgToClipboard,
   formatPrettySvg,
   isLightHexColor,
   svgToPngBlob,
@@ -404,9 +405,10 @@ const markAction = (id: string) => {
 const handleCopySvg = async () => {
   if (!props.icon) return;
   try {
-    await navigator.clipboard.writeText(formatPrettySvg(styledSvg.value));
+    const code = formatPrettySvg(styledSvg.value);
+    await copySvgToClipboard(code);
     markAction('copy-svg');
-    emit('notify', `Copied SVG code for "${props.icon.name}"`);
+    emit('notify', `Copied SVG for Figma & code ("${props.icon.name}")`);
   } catch {
     emit('notify', 'Clipboard access blocked by browser', 'error');
   }
@@ -435,8 +437,8 @@ const handleDownloadSvg = () => {
   a.download = `${props.icon.name}-${props.styleVariant}.svg`;
   document.body.appendChild(a);
   a.click();
-  a.remove();
-  URL.revokeObjectURL(url);
+  document.body.removeChild(a);
+  setTimeout(() => URL.revokeObjectURL(url), 2000);
   markAction('dl-svg');
   emit('notify', `Downloaded ${props.icon.name}-${props.styleVariant}.svg`);
 };
@@ -452,11 +454,12 @@ const handleDownloadPng = async () => {
     a.download = `${props.icon.name}-${props.styleVariant}-${exportPx}px.png`;
     document.body.appendChild(a);
     a.click();
-    a.remove();
-    URL.revokeObjectURL(url);
+    document.body.removeChild(a);
+    setTimeout(() => URL.revokeObjectURL(url), 2000);
     markAction('dl-png');
     emit('notify', `Downloaded ${exportPx}×${exportPx} PNG`);
-  } catch {
+  } catch (err) {
+    console.error('PNG download error:', err);
     emit('notify', 'Failed to generate PNG download', 'error');
   }
 };
@@ -465,15 +468,24 @@ const handleCopyPng = async () => {
   if (!props.icon) return;
   try {
     const exportPx = Math.max(256, props.settings.size * 4);
-    const pngBlob = await svgToPngBlob(styledSvg.value, exportPx);
     if (typeof ClipboardItem !== 'undefined' && navigator.clipboard?.write) {
-      await navigator.clipboard.write([new ClipboardItem({ 'image/png': pngBlob })]);
+      let item: ClipboardItem;
+      try {
+        // Modern Chrome/Safari: pass Promise directly to preserve transient user activation
+        const pngPromise = svgToPngBlob(styledSvg.value, exportPx);
+        item = new ClipboardItem({ 'image/png': pngPromise });
+      } catch {
+        const pngBlob = await svgToPngBlob(styledSvg.value, exportPx);
+        item = new ClipboardItem({ 'image/png': pngBlob });
+      }
+      await navigator.clipboard.write([item]);
       markAction('copy-png');
       emit('notify', `Copied ${exportPx}×${exportPx} PNG image to clipboard`);
     } else {
       emit('notify', 'PNG clipboard write is not supported in this browser; use Download PNG', 'info');
     }
-  } catch {
+  } catch (err) {
+    console.error('Copy PNG error:', err);
     emit('notify', 'Unable to copy PNG to clipboard in this browser; try Download PNG', 'info');
   }
 };

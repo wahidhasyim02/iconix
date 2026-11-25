@@ -35,7 +35,14 @@ function resolveCategory(iconName) {
     iconName === 'pause' ||
     iconName === 'fast-forward' ||
     iconName.startsWith('skip-') ||
-    iconName.startsWith('step-')
+    iconName.startsWith('step-') ||
+    iconName.startsWith('audio-') ||
+    iconName.startsWith('headphones') ||
+    iconName.startsWith('headset') ||
+    iconName.startsWith('mic') ||
+    iconName.startsWith('microphone') ||
+    iconName.startsWith('image') ||
+    iconName === 'images'
   ) {
     return 'Media & Audio';
   }
@@ -120,12 +127,14 @@ function resolveCategory(iconName) {
     return 'Objects & Geometry';
   }
   if (
-    iconName.startsWith('code')
+    iconName.startsWith('code') ||
+    ['braces', 'brackets'].includes(iconName)
   ) {
     return 'Development & Code';
   }
   if (
-    ['a-large-small', 'ampersand', 'ampersands', 'case-sensitive', 'case-lower', 'case-upper', 'line-height', 'text-initial', 'square-dashed-text', 'letter-spacing', 'whole-word'].includes(iconName) ||
+    ['a-large-small', 'ampersand', 'ampersands', 'case-sensitive', 'case-lower', 'case-upper', 'line-height', 'text-initial', 'square-dashed-text', 'letter-spacing', 'whole-word', 'text-cursor', 'type', 'type-outline'].includes(iconName) ||
+    iconName.startsWith('type-') ||
     iconName.startsWith('case-') ||
     iconName.startsWith('list-indent') ||
     iconName.startsWith('text-align')

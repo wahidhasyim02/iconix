@@ -1014,7 +1014,7 @@
         "connectivity",
         "telecom"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 14L12 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 6L18 6\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 11L10 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6 11L14 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 11L18 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14 11L22 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 14L12 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 6L18 6\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 11L10 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 11L16 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14 11L22 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "anvil",
@@ -1586,6 +1586,45 @@
         "petunjuk"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 6H18V16M18 6L7 17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "audio-lines",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "audio-lines",
+        "audio",
+        "lines",
+        "sound",
+        "waveform",
+        "frequency",
+        "music",
+        "volume",
+        "voice",
+        "suara",
+        "gelombang-suara",
+        "bunyi"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 14V10M10 15V9M14 21V3M22 14V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6 18V6M18 16V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "audio-waveform",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "audio-waveform",
+        "audio",
+        "waveform",
+        "sound",
+        "frequency",
+        "music",
+        "volume",
+        "voice",
+        "suara",
+        "gelombang-suara",
+        "bunyi"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 12C3.10457 12 4 11.1046 4 10V8C4 6.89543 4.89543 6 6 6C7.10457 6 8 6.89543 8 8V20C8 21.1046 8.89543 22 10 22C11.1046 22 12 21.1046 12 20V4C12 2.89543 12.8954 2 14 2C15.1046 2 16 2.89543 16 4V16C16 17.1046 16.8954 18 18 18C19.1046 18 20 17.1046 20 16V14C20 12.8954 20.8954 12 22 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "bell",
@@ -2380,6 +2419,38 @@
         "strip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7.91051 9.01802L2.39311 14.5354C2.00259 14.9259 2.00259 15.5591 2.39311 15.9496L8.04997 21.6065C8.44049 21.997 9.07366 21.997 9.46418 21.6065L14.9816 16.0891M11.4999 7.05721L14.4706 6.46307C14.6642 6.42435 14.842 6.3292 14.9816 6.1896L18.6566 2.5146C19.0471 2.12408 19.6803 2.12408 20.0708 2.5146L21.485 3.92882C21.8755 4.31934 21.8755 4.95251 21.485 5.34303L17.81 9.01802C17.6704 9.15762 17.5752 9.33542 17.5365 9.52901L16.9424 12.4997\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.29296 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "braces",
+      "category": "Development & Code",
+      "tags": [
+        "iconix",
+        "braces",
+        "curly-brackets",
+        "code",
+        "json",
+        "syntax",
+        "programming",
+        "developer",
+        "kurung-kurawal"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 3C6.34315 3 5 4.34315 5 6V9.4503C5 10.3758 4.4078 11.1974 3.52982 11.4901C3.03976 11.6534 3.03976 12.3466 3.52982 12.5099C4.4078 12.8026 5 13.6242 5 14.5497V18C5 19.6569 6.34315 21 8 21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 3C17.6569 3 19 4.34315 19 6V9.4503C19 10.3758 19.5922 11.1974 20.4702 11.4901C20.9602 11.6534 20.9602 12.3466 20.4702 12.5099C19.5922 12.8026 19 13.6242 19 14.5497V18C19 19.6569 17.6569 21 16 21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "brackets",
+      "category": "Development & Code",
+      "tags": [
+        "iconix",
+        "brackets",
+        "square-brackets",
+        "code",
+        "array",
+        "syntax",
+        "programming",
+        "developer",
+        "kurung-siku"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 3H5C4.44772 3 4 3.44772 4 4V20C4 20.5523 4.44772 21 5 21H8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 3H19C19.5523 3 20 3.44772 20 4V20C20 20.5523 19.5523 21 19 21H16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "bus",
@@ -3585,7 +3656,7 @@
         "grafik",
         "statistik"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 17V5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 17V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 17V14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3V17C3 19.2091 4.79086 21 7 21H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 17V5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 17V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 16V13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "chart-column-stacked",
@@ -5925,6 +5996,44 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 8V18H17M7 18L12 13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "file-braces",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-braces",
+        "file",
+        "braces",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.64218 18C9.07976 18 8.62382 17.5523 8.62382 17V15.8499C8.62382 15.5414 8.4228 15.2675 8.12476 15.17C7.95841 15.1155 7.95841 14.8845 8.12476 14.83C8.4228 14.7325 8.62382 14.4586 8.62382 14.1501V13C8.62382 12.4477 9.07976 12 9.64218 12M14.3578 18C14.9202 18 15.3762 17.5523 15.3762 17V15.8499C15.3762 15.5414 15.5772 15.2675 15.8752 15.17C16.0416 15.1155 16.0416 14.8845 15.8752 14.83C15.5772 14.7325 15.3762 14.4586 15.3762 14.1501V13C15.3762 12.4477 14.9202 12 14.3578 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-brackets",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-brackets",
+        "file",
+        "brackets",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.25 12H8.3125C8.13991 12 8 12.1492 8 12.3333V17.6667C8 17.8508 8.13991 18 8.3125 18H9.25M14.75 12H15.6875C15.8601 12 16 12.1492 16 12.3333V17.6667C16 17.8508 15.8601 18 15.6875 18H14.75\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "file-chart-column",
       "category": "Files & Folders",
       "tags": [
@@ -5988,6 +6097,175 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 18L10 15L12 17L16 13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "file-check",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-check",
+        "file",
+        "check",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "done",
+        "success",
+        "verified",
+        "approved",
+        "ok",
+        "completed",
+        "tick",
+        "confirm",
+        "centang",
+        "selesai",
+        "benar",
+        "sukses",
+        "setuju",
+        "checklist"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14.7573 13.7574L10.875 17.7574L8.75732 15.5756\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-code",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-code",
+        "file",
+        "code",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "developer",
+        "coding",
+        "html",
+        "bracket",
+        "syntax",
+        "programming",
+        "dev",
+        "script",
+        "source"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 18L7 15L10 12M14 18L17 15L14 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-corrupted",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-corrupted",
+        "file",
+        "corrupted",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 22H7C5.3778 22 3.98114 21.0343 3.3535 19.6465C2.91168 18.6695 3.48836 17.6107 4.32678 16.9423L4.93356 16.4586C5.75796 15.752 7.51798 16.3288 8.09346 17.2495L8.22605 17.4617C8.83292 18.4327 10.2316 18.4758 10.8971 17.544L11.0257 17.3641C11.5357 16.65 12.5648 16.5648 13.1853 17.1853C13.8474 17.8474 14.9579 17.6987 15.4224 16.8858L15.6665 16.4586C16.0863 15.724 17.0896 15.5896 17.6879 16.1879C18.1502 16.6502 18.8863 16.691 19.3968 16.2826C20.0429 15.7657 21 16.2257 21 17.0531V18C21 20.2091 19.2091 22 17 22ZM3 6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.4256 8.49736 20.9209 9.45926 21 10.5L20.5 11L18.8968 12.2826C18.3863 12.691 17.6502 12.6502 17.1879 12.1879C16.5896 11.5896 15.5863 11.724 15.1665 12.4586L14.9224 12.8858C14.4579 13.6987 13.3474 13.8474 12.6853 13.1853C12.0648 12.5648 11.0357 12.65 10.5257 13.3641L10.3971 13.544C9.73157 14.4758 8.33292 14.4327 7.72605 13.4617L7.59346 13.2495C7.01798 12.3288 5.75796 12.136 4.93356 12.8427L4.65079 13.085C4.00212 13.641 3 13.1801 3 12.3258V6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-diff",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-diff",
+        "file",
+        "diff",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 14V11M12 11V8M12 11H9M12 11H15M9 18H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-down",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-down",
+        "file",
+        "down",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "download",
+        "arrow",
+        "inbound",
+        "receive"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.5 15.4999L12 18L14.5 15.4999M12 18V12.4999\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-exclamation-point",
+      "category": "Emergency & Alerts",
+      "tags": [
+        "iconix",
+        "file-exclamation-point",
+        "file",
+        "exclamation",
+        "point",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "alert",
+        "warning",
+        "important",
+        "caution",
+        "notice",
+        "attention",
+        "mark",
+        "peringatan"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 18.011V18.1M12 9V14.4505\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-image",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-image",
+        "file",
+        "image",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 22L15.7777 14.1001C16.4879 13.4609 17.5511 13.4134 18.3156 13.9867L21 16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 12C7 13.1046 7.89543 14 9 14C10.1046 14 11 13.1046 11 12C11 10.8954 10.1046 10 9 10C7.89543 10 7 10.8954 7 12Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "file-input",
       "category": "Files & Folders",
       "tags": [
@@ -6007,6 +6285,189 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 11V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151V18C21 20.2091 19.2091 22 17 22H6C4.34315 22 3 20.6569 3 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M11.0856 12.4069L13.6569 14.9781L11.0856 17.5494M13.6569 14.9781L8 14.9781H3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "file-minus",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-minus",
+        "file",
+        "minus",
+        "remove",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "delete",
+        "exclude",
+        "reduce",
+        "less",
+        "kurang",
+        "hapus"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9 15H12H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-play",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-play",
+        "file",
+        "play",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "start",
+        "resume",
+        "video",
+        "player"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 13.6554V16.3446C10 17.7065 11.5257 18.4837 12.5944 17.6662L14.352 16.3216C15.216 15.6606 15.216 14.3394 14.352 13.6784L12.5944 12.3338C11.5257 11.5163 10 12.2935 10 13.6554Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-plus",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-plus",
+        "file",
+        "plus",
+        "add",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "create",
+        "new",
+        "insert",
+        "more",
+        "tambah",
+        "baru",
+        "buat"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 18V15M12 15V12M12 15H9M12 15H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-question-mark",
+      "category": "Emergency & Alerts",
+      "tags": [
+        "iconix",
+        "file-question-mark",
+        "file",
+        "question",
+        "mark",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "help",
+        "faq",
+        "ask",
+        "query",
+        "bantuan",
+        "tanya"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.5 11.3143V11.0042C9.5 10.7006 9.56896 10.401 9.70168 10.128C10.0371 9.43797 10.737 9 11.5042 9H11.6934C12.9673 9 14 10.0327 14 11.3066V11.4228C14 12.2945 13.4852 13.0841 12.6875 13.4357L12.0809 13.7031C11.6519 13.8922 11.375 14.3169 11.375 14.7857M11.375 17.82V18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-search",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-search",
+        "file",
+        "search",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "find",
+        "query",
+        "explore",
+        "lookup",
+        "cari"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13.4886 17.7938L14.4522 18.7574M14.2516 15.5045C14.2516 17.0217 13.0217 18.2516 11.5045 18.2516C9.98726 18.2516 8.75732 17.0217 8.75732 15.5045C8.75732 13.9873 9.98726 12.7574 11.5045 12.7574C13.0217 12.7574 14.2516 13.9873 14.2516 15.5045Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-signal",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-signal",
+        "file",
+        "signal",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M15 15.1951C15 16.4995 14.5299 17.694 13.75 18.6186M15 15.1811C15 13.8768 14.5299 12.6823 13.75 11.7577\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 15.1764C12 15.8285 11.765 16.4258 11.375 16.8881M12 15.1693C12 14.5172 11.765 13.9199 11.375 13.4576\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9 15.1951V15.195\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-sliders",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-sliders",
+        "file",
+        "sliders",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 18H17M7 13H17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9 12V14M15 17V19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-spreadsheet",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-spreadsheet",
+        "file",
+        "spreadsheet",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14 18H17M7 18H10M14 14H17M7 14H10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "file-symlink",
       "category": "Files & Folders",
       "tags": [
@@ -6024,6 +6485,25 @@
         "draft"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 11V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M11.0855 12.4069L13.6568 14.9781L11.0855 17.5494M13.6568 14.9781L7.99994 14.9781L6.02179 14.9781C4.35287 14.9781 2.99994 16.3311 2.99994 18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-terminal",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-terminal",
+        "file",
+        "terminal",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7.90002 16L10 14L7.90002 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 18H16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "file-text",
@@ -6049,6 +6529,79 @@
         "write"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 14H16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7 18H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-type",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-type",
+        "file",
+        "type",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 18V12M12 18H10.875M12 18H13.125M12 12H9.75C9.33579 12 9 12.3358 9 12.75V13.125M12 12H14.25C14.6642 12 15 12.3358 15 12.75V13.125\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-up",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-up",
+        "file",
+        "up",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "upload",
+        "arrow",
+        "outbound",
+        "send"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.5 15L12 12.4999L14.5 15M12 12.4999V18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "file-x",
+      "category": "Files & Folders",
+      "tags": [
+        "iconix",
+        "file-x",
+        "file",
+        "x",
+        "document",
+        "page",
+        "doc",
+        "paper",
+        "berkas",
+        "dokumen",
+        "sheet",
+        "draft",
+        "cancel",
+        "close",
+        "error",
+        "dismiss",
+        "reject",
+        "remove",
+        "delete",
+        "clear",
+        "silang",
+        "batal",
+        "tutup",
+        "hapus"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14.1213 18.1213L12 16M12 16L9.87864 13.8787M12 16L9.87864 18.1213M12 16L14.1213 13.8787\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "files",
@@ -7044,6 +7597,173 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 20.125C6 20.9534 6.67157 21.625 7.5 21.625H16.5C17.3284 21.625 18 20.9534 18 20.125C18 17.6397 15.9853 15.625 13.5 15.625H10.5C8.01472 15.625 6 17.6397 6 20.125ZM9 10.375C9 12.0319 10.3431 13.375 12 13.375C13.6569 13.375 15 12.0319 15 10.375C15 8.71815 13.6569 7.375 12 7.375C10.3431 7.375 9 8.71815 9 10.375Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19.5424 9.20877C21.0236 9.73231 22.0849 11.145 22.0849 12.8055C22.0849 13.0772 21.9996 13.3291 21.8544 13.5357C21.7062 13.7465 21.4956 13.9102 21.2495 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 4.5C16 5.88071 17.1193 7 18.5 7C19.8807 7 21 5.88071 21 4.5C21 3.11929 19.8807 2 18.5 2C17.1193 2 16 3.11929 16 4.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4.54248 9.20877C3.06125 9.73231 2.00002 11.145 2.00002 12.8055C2.00002 13.0772 2.08529 13.3291 2.23054 13.5357C2.37871 13.7465 2.58927 13.9102 2.83539 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M8.08496 4.5C8.08496 5.88071 6.96567 7 5.58496 7C4.20425 7 3.08496 5.88071 3.08496 4.5C3.08496 3.11929 4.20425 2 5.58496 2C6.96567 2 8.08496 3.11929 8.08496 4.5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "headphones",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headphones",
+        "headset",
+        "audio",
+        "music",
+        "sound",
+        "earphones",
+        "listen",
+        "headphone",
+        "musik",
+        "dengar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 3H8C5.23858 3 3 5.23858 3 8V14M3 14V17C3 19.2091 4.79086 21 7 21C7.55228 21 8 20.5523 8 20V14C8 13.4477 7.55228 13 7 13H5.94427C5.32329 13 4.71084 13.1446 4.15542 13.4223L3 14ZM2 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 3H16C18.7614 3 21 5.23858 21 8V14M21 14V17C21 19.2091 19.2091 21 17 21C16.4477 21 16 20.5523 16 20V14C16 13.4477 16.4477 13 17 13H18.0557C18.6767 13 19.2892 13.1446 19.8446 13.4223L21 14ZM22 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "headphones-2",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headphones-2",
+        "headphones",
+        "headset",
+        "audio",
+        "music",
+        "sound",
+        "earphones",
+        "listen",
+        "headphone",
+        "musik",
+        "dengar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 3H11C6.58172 3 3 6.58172 3 11V14M3 14V17C3 19.2091 4.79086 21 7 21C7.55228 21 8 20.5523 8 20V14C8 13.4477 7.55228 13 7 13H5.94427C5.32329 13 4.71084 13.1446 4.15542 13.4223L3 14ZM2 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 3H13C17.4183 3 21 6.58172 21 11V14M21 14V17C21 19.2091 19.2091 21 17 21C16.4477 21 16 20.5523 16 20V14C16 13.4477 16.4477 13 17 13H18.0557C18.6767 13 19.2892 13.1446 19.8446 13.4223L21 14ZM22 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "headphones-off",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headphones-off",
+        "headphones",
+        "off",
+        "slash",
+        "disabled",
+        "turn-off",
+        "inactive",
+        "mute",
+        "mati",
+        "nonaktif",
+        "garis-miring",
+        "strip",
+        "headset",
+        "audio",
+        "music",
+        "sound",
+        "earphones",
+        "listen",
+        "headphone",
+        "musik",
+        "dengar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 14V17C3 19.2091 4.79086 21 7 21C7.55228 21 8 20.5523 8 20V14C8 13.4477 7.55228 13 7 13H5.94427C5.32329 13 4.71084 13.1446 4.15542 13.4223L3 14ZM3 14V8C3 6.95149 3.32274 5.97836 3.8743 5.17453M2 15V17M21 14V8C21 5.23858 18.7614 3 16 3H8C7.76361 3 7.53105 3.0164 7.3034 3.04814M21 14L19.8446 13.4223C19.2892 13.1446 18.6767 13 18.0557 13M21 14V16M22 15V16M16 17.3002V20C16 20.5523 16.4477 21 17 21C17.7715 21 18.492 20.7816 19.103 20.4032\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.2928 21.6152L2.29285 2.61523\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "headphones-off-2",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headphones-off-2",
+        "headphones",
+        "off",
+        "slash",
+        "disabled",
+        "turn-off",
+        "nonaktif",
+        "mati",
+        "inactive",
+        "garis-miring",
+        "strip",
+        "headset",
+        "audio",
+        "music",
+        "sound",
+        "earphones",
+        "listen",
+        "headphone",
+        "musik",
+        "dengar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 14V17C3 19.2091 4.79086 21 7 21C7.55228 21 8 20.5523 8 20V14C8 13.4477 7.55228 13 7 13H5.94427C5.32329 13 4.71084 13.1446 4.15542 13.4223L3 14ZM3 14V11C3 9.06254 3.68873 7.28594 4.83472 5.90168M2 15V17M21 14V11C21 6.58172 17.4183 3 13 3H11C10.0518 3 9.14219 3.16495 8.2982 3.46773M21 14L19.8446 13.4223C19.2892 13.1446 18.6767 13 18.0557 13H17.8305M21 14V16M22 15V16M16 17.067V20C16 20.5523 16.4477 21 17 21C17.8319 21 18.6045 20.746 19.2445 20.3114\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.2928 21.6152L2.29285 2.61523\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "headphones-sound",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headphones-sound",
+        "headphones",
+        "sound",
+        "headset",
+        "audio",
+        "music",
+        "earphones",
+        "listen",
+        "headphone",
+        "musik",
+        "dengar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 3H8C5.23858 3 3 5.23858 3 8V14M3 14V17C3 19.2091 4.79086 21 7 21C7.55228 21 8 20.5523 8 20V14C8 13.4477 7.55228 13 7 13H5.94427C5.32329 13 4.71084 13.1446 4.15542 13.4223L3 14ZM2 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 3H16C18.7614 3 21 5.23858 21 8V14M21 14V17C21 19.2091 19.2091 21 17 21C16.4477 21 16 20.5523 16 20V14C16 13.4477 16.4477 13 17 13H18.0557C18.6767 13 19.2892 13.1446 19.8446 13.4223L21 14ZM22 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 10V6M9 9V7M15 9V7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "headphones-sound-2",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headphones-sound-2",
+        "headphones",
+        "sound",
+        "headset",
+        "audio",
+        "music",
+        "earphones",
+        "listen",
+        "headphone",
+        "musik",
+        "dengar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 3H11C6.58172 3 3 6.58172 3 11V14M3 14V17C3 19.2091 4.79086 21 7 21C7.55228 21 8 20.5523 8 20V14C8 13.4477 7.55228 13 7 13H5.94427C5.32329 13 4.71084 13.1446 4.15542 13.4223L3 14ZM2 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 3H13C17.4183 3 21 6.58172 21 11V14M21 14V17C21 19.2091 19.2091 21 17 21C16.4477 21 16 20.5523 16 20V14C16 13.4477 16.4477 13 17 13H18.0557C18.6767 13 19.2892 13.1446 19.8446 13.4223L21 14ZM22 15V17\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 10V6M9 9V7M15 9V7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "headset",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headset",
+        "headphones",
+        "customer-service",
+        "support",
+        "call-center",
+        "operator",
+        "mic",
+        "gaming",
+        "bantuan"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2H8C5.23858 2 3 4.23858 3 7V12M3 12V15C3 17.2091 4.79086 19 7 19C7.55228 19 8 18.5523 8 18V12C8 11.4477 7.55228 11 7 11H5.94427C5.32329 11 4.71084 11.1446 4.15542 11.4223L3 12ZM2 13V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 2H16C18.7614 2 21 4.23858 21 7V12M21 12L19.8446 11.4223C19.2892 11.1446 18.6767 11 18.0557 11H17C16.4477 11 16 11.4477 16 12V18C16 18.5523 16.4477 19 17 19C19.2091 19 21 17.2091 21 15M21 12V14.5V15M22 13V15M21 15V18V19C21 20.6569 19.6569 22 18 22H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "headset-2",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "headset-2",
+        "headset",
+        "headphones",
+        "customer-service",
+        "support",
+        "call-center",
+        "operator",
+        "mic",
+        "gaming",
+        "bantuan"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 2H11C6.58172 2 3 5.58172 3 10V12M3 12V15C3 17.2091 4.79086 19 7 19C7.55228 19 8 18.5523 8 18V12C8 11.4477 7.55228 11 7 11H5.94427C5.32329 11 4.71084 11.1446 4.15542 11.4223L3 12ZM2 13V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 2H13C17.4183 2 21 5.58172 21 10V12M21 12L19.8446 11.4223C19.2892 11.1446 18.6767 11 18.0557 11H17C16.4477 11 16 11.4477 16 12V18C16 18.5523 16.4477 19 17 19C19.2091 19 21 17.2091 21 15M21 12V14.5V15M22 13V15M21 15V18V19C21 20.6569 19.6569 22 18 22H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "heart",
       "category": "General UI",
       "tags": [
@@ -7809,6 +8529,316 @@
         "estate"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 2.55556C11.1764 1.6406 12.8236 1.6406 14 2.55556L19.4558 6.79893C20.4301 7.55675 21 8.72197 21 9.95634V19C21 20.1046 20.1046 21 19 21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16.4 19V11.5782C16.4 10.961 16.1151 10.3784 15.6279 9.99945L10.4279 5.955C9.70566 5.39328 8.69434 5.39328 7.97212 5.955L2.77212 9.99945C2.28495 10.3784 2 10.961 2 11.5782V19C2 20.1046 2.89543 21 4 21H14.4C15.5046 21 16.4 20.1046 16.4 19Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6 21V15.6C6 15.0477 6.44772 14.6 7 14.6H11.4C11.9523 14.6 12.4 15.0477 12.4 15.6V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 8V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M21 16V7C21 4.79086 19.2091 3 17 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-check",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-check",
+        "image",
+        "check",
+        "done",
+        "success",
+        "verified",
+        "approved",
+        "ok",
+        "completed",
+        "tick",
+        "confirm",
+        "centang",
+        "selesai",
+        "benar",
+        "sukses",
+        "setuju",
+        "checklist",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 11V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M12 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.2426 2.75732L17.3602 6.75732L15.2426 4.57551\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-down",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-down",
+        "image",
+        "down",
+        "download",
+        "arrow",
+        "inbound",
+        "receive",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 8V17C3 19.2091 4.79086 21 7 21H12M21 14V7C21 4.79086 19.2091 3 17 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15.5 19.4999L18 22L20.5 19.4999M18 22V16.4999\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-heart",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-heart",
+        "image",
+        "heart",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 11V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M12 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.8738 3.42117C20.4299 2.83419 19.4235 2.74095 18.8457 3.19682C18.7689 3.25745 18.6949 3.32592 18.6216 3.40419C18.4181 3.62141 18.0611 3.6255 17.8555 3.41028C17.7628 3.31316 17.6698 3.23118 17.5728 3.16053C17.0238 2.76088 16.0554 2.93915 15.6569 3.48888C14.9229 4.50133 15.4564 5.8413 16.1954 6.85007C16.5677 7.35826 16.9837 7.77612 17.5206 8.21056C17.9389 8.54905 18.5388 8.53908 18.9569 8.20039C19.5104 7.75207 19.948 7.34119 20.3235 6.84765C21.081 5.85214 21.6284 4.41884 20.8738 3.42117Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-minus",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-minus",
+        "image",
+        "minus",
+        "remove",
+        "delete",
+        "exclude",
+        "reduce",
+        "less",
+        "kurang",
+        "hapus",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 9V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M12 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15 5H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-off",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-off",
+        "image",
+        "off",
+        "slash",
+        "disabled",
+        "turn-off",
+        "inactive",
+        "mute",
+        "mati",
+        "nonaktif",
+        "garis-miring",
+        "strip",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 8V17C3 19.2091 4.79086 21 7 21H17C17.7286 21 18.4117 20.8052 19 20.4649M8 3H17C19.2091 3 21 4.79086 21 7V16M3 16V7C3 6.27143 3.19479 5.58835 3.53513 5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L13 14M16 11L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7.17066 8.19034C7.06095 8.43786 7 8.71181 7 8.99999C7 10.1046 7.89543 11 9 11C9.28818 11 9.56213 10.939 9.80965 10.8293\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.2928 21.6152L2.29285 2.61523\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-play",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-play",
+        "image",
+        "play",
+        "start",
+        "resume",
+        "video",
+        "player",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 8V17C3 19.2091 4.79086 21 7 21H12M21 14V7C21 4.79086 19.2091 3 17 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 17.6554V20.3446C16 21.7065 17.5257 22.4837 18.5944 21.6662L20.352 20.3216C21.216 19.6606 21.216 18.3394 20.352 17.6784L18.5944 16.3338C17.5257 15.5163 16 16.2935 16 17.6554Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-plus",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-plus",
+        "image",
+        "plus",
+        "add",
+        "create",
+        "new",
+        "insert",
+        "more",
+        "tambah",
+        "baru",
+        "buat",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 9V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M12 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15 5H21M18 2V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-search",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-search",
+        "image",
+        "search",
+        "find",
+        "query",
+        "explore",
+        "lookup",
+        "cari",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 11V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M12 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.1264 6.79375L21.09 7.75735M20.8894 4.50445C20.8894 6.02165 19.6595 7.25158 18.1423 7.25158C16.6251 7.25158 15.3951 6.02165 15.3951 4.50445C15.3951 2.98726 16.6251 1.75732 18.1423 1.75732C19.6595 1.75732 20.8894 2.98726 20.8894 4.50445Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-up",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-up",
+        "image",
+        "up",
+        "upload",
+        "arrow",
+        "outbound",
+        "send",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 8V17C3 19.2091 4.79086 21 7 21H12M21 14V7C21 4.79086 19.2091 3 17 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15.5 19L18 16.4999L20.5 19M18 16.4999V22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-upscale",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-upscale",
+        "image",
+        "upscale",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.4444 22H17.4722M22 10.5556V12.3056M13.5556 2H11.7778M2 7V6.86111M17.5278 22H17.5556C18.1582 22 18.7328 21.8801 19.2568 21.6628M21.6628 19.2568C21.8801 18.7328 22 18.1582 22 17.5556V15.8056M2 6.58333V6.44444C2 5.84182 2.11994 5.2672 2.33725 4.74317M4.74317 2.33725C5.2672 2.11994 5.84182 2 6.44444 2H8.22222\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4 22L9.93054 16.0695C10.3632 15.6368 11.0347 15.5542 11.5593 15.8689L14 17.3333M11.3333 22H4.66667C3.19391 22 2 20.8061 2 19.3333V12.6667C2 11.1939 3.19391 10 4.66667 10H11.3333C12.8061 10 14 11.1939 14 12.6667V19.3333C14 20.8061 12.8061 22 11.3333 22Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17.4545 2H22V6.54545M22 2L17 7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "image-x",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "image-x",
+        "image",
+        "x",
+        "cancel",
+        "close",
+        "error",
+        "dismiss",
+        "reject",
+        "remove",
+        "delete",
+        "clear",
+        "silang",
+        "batal",
+        "tutup",
+        "hapus",
+        "photo",
+        "picture",
+        "graphic",
+        "gallery",
+        "media",
+        "thumbnail",
+        "foto",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 11V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M12 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15.8787 7.12132L20.1213 2.87868M15.8787 2.87868L20.1213 7.12132\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "images",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "images",
+        "photos",
+        "pictures",
+        "gallery",
+        "media",
+        "collection",
+        "album",
+        "galeri",
+        "gambar"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11.8889V18.8889C2 20.6071 3.39289 22 5.11111 22H12.8889C14.2156 22 15.3484 21.1695 15.7957 20M2 18.1111V11.1111C2 9.78436 2.8305 8.65158 4 8.20428\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M22 5.88889V12.8889C22 14.6071 20.6071 16 18.8889 16H11.1111C9.39289 16 8 14.6071 8 12.8889V5.88889M22 12.1111V5.11111C22 3.39289 20.6071 2 18.8889 2H11.1111C9.39289 2 8 3.39289 8 5.11111V12.1111\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M10.3334 16L17.007 9.32638C17.656 8.67745 18.6633 8.55344 19.4502 9.02561L22.0001 10.5555\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M11.1111 6.66664C11.1111 7.52575 11.8075 8.2222 12.6666 8.2222C13.5257 8.2222 14.2222 7.52575 14.2222 6.66664C14.2222 5.80753 13.5257 5.11109 12.6666 5.11109C11.8075 5.11109 11.1111 5.80753 11.1111 6.66664Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "kanban",
@@ -11094,6 +12124,56 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 16.525C15 18.4718 13.4218 20.05 11.475 20.05H8.5H5.93333C5.06785 20.05 4.22572 20.3307 3.53333 20.85L2 22L2 12.5C2 10.567 3.567 9 5.5 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 15V6C22 3.79086 20.2091 2 18 2H13C10.7909 2 9 3.79086 9 6V9.05C9 11.2591 10.7909 13.05 13 13.05H15.5H18.0667C18.9321 13.05 19.7743 13.3307 20.4667 13.85L22 15Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "mic-audio-lines",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "mic-audio-lines",
+        "mic",
+        "audio",
+        "lines"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 18V6M2 14V10M10 7V6M14 7V3M18 16V8M22 14V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 18V22M12 18C10.8954 18 10 17.1046 10 16V12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12V16C14 17.1046 13.1046 18 12 18ZM12 22H9M12 22H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "microphone",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "microphone",
+        "mic",
+        "audio",
+        "record",
+        "voice",
+        "speech",
+        "sound",
+        "podcast",
+        "suara",
+        "rekam"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 11V12C15 13.6569 13.6569 15 12 15C10.3431 15 9 13.6569 9 12V5C9 3.34315 10.3431 2 12 2C13.6569 2 15 3.34315 15 5V8M15 11H13M15 11V8M15 8H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 9V12C19 15.866 15.866 19 12 19M5 9V12C5 15.866 8.13401 19 12 19M12 19V22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "microphone-large",
+      "category": "Media & Audio",
+      "tags": [
+        "iconix",
+        "microphone-large",
+        "microphone",
+        "large",
+        "mic",
+        "audio",
+        "record",
+        "voice",
+        "speech",
+        "sound",
+        "podcast",
+        "suara",
+        "rekam"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18 12.5H14M18 12.5V9M18 12.5C18 15.5376 15.5376 18 12.5 18H12C8.68629 18 6 15.3137 6 12V8C6 4.68629 8.68629 2 12 2C15.3137 2 18 4.68629 18 8V9M18 9H14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M22 10V12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "milk",
       "category": "Objects & Geometry",
       "tags": [
@@ -11108,7 +12188,7 @@
         "susu",
         "minuman"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15.1681 1.99997V5.44915C15.1681 5.64657 15.2266 5.83958 15.3361 6.00385L16.3207 7.48075C17.4158 9.12343 18.0002 11.0535 18.0002 13.0278V13.5M15.1681 1.99997H8.83223M15.1681 1.99997H16.0002M8.83223 1.99997V5.44915C8.83223 5.64657 8.77379 5.83958 8.66428 6.00385L7.67968 7.48075C6.58456 9.12343 6.00018 11.0535 6.00018 13.0278V14M8.83223 1.99997H8.00018M6.00018 14V21C6.00018 21.5523 6.4479 22 7.00018 22H17.0002C17.5525 22 18.0002 21.5523 18.0002 21V13.5M6.00018 14C13.0002 17.5 13.007 12.9738 18.0002 13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8.00018 1.99997H16.0002M18.0002 21C18.0002 21.5523 17.5525 22 17.0002 22H7.00018C6.4479 22 6.00018 21.5523 6.00018 21V14V13.0278C6.00018 11.0535 6.58456 9.12343 7.67968 7.48075L8.66428 6.00385C8.77379 5.83958 8.83223 5.64657 8.83223 5.44915V1.99997H15.1681V5.44915C15.1681 5.64657 15.2266 5.83958 15.3361 6.00385L16.3207 7.48075C17.4158 9.12343 18.0002 11.0535 18.0002 13.0278V13.5V21Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6.00018 14C13.0002 17.5 13.007 12.9738 18.0002 13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "milk-off",
@@ -15480,6 +16560,30 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 12L3 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21 5L3 5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17 19L3 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "text-cursor",
+      "category": "Typography",
+      "tags": [
+        "iconix",
+        "text-cursor",
+        "text",
+        "cursor",
+        "typography",
+        "font",
+        "align",
+        "paragraph",
+        "teks",
+        "tulisan",
+        "huruf",
+        "format",
+        "pointer",
+        "caret",
+        "i-beam",
+        "typing",
+        "ketik"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 2L8.78447 2.35689C10.6542 2.73083 12 4.37249 12 6.27922V17.7208C12 19.6275 10.6542 21.2692 8.78447 21.6431L7 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17 2L15.2155 2.35689C13.3458 2.73083 12 4.37249 12 6.27922V17.7208C12 19.6275 13.3458 21.2692 15.2155 21.6431L17 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "text-initial",
       "category": "Typography",
       "tags": [
@@ -15642,7 +16746,7 @@
         "krim",
         "losion"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.00015 18V21C9.00015 21.5523 9.44787 22 10.0002 22H14.0002C14.5524 22 15.0002 21.5523 15.0002 21V18M9.00015 18H15.0002M9.00015 18C7.89558 18 7.00015 17.1046 7.00015 16V12.5M15.0002 18C16.1047 18 17.0002 17.1046 17.0002 16V12.5M7.00015 12.5V9.44362C7.00015 7.84464 6.56559 6.27573 5.74292 4.90462C4.97594 3.6263 5.89673 2 7.38749 2H16.6128C18.1036 2 19.0244 3.6263 18.2574 4.90462C17.4347 6.27573 17.0002 7.84464 17.0002 9.44362V12.5M7.00015 12.5C11.5002 13.5 13.0948 10.8965 17.0002 12.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.00015 18V21C9.00015 21.5523 9.44787 22 10.0002 22H14.0002C14.5524 22 15.0002 21.5523 15.0002 21V18M9.00015 18H15.0002M9.00015 18C7.89558 18 7.00015 17.1046 7.00015 16V12.5V9.44362C7.00015 7.84464 6.56559 6.27573 5.74292 4.90462C4.97594 3.6263 5.89673 2 7.38749 2H16.6128C18.1036 2 19.0244 3.6263 18.2574 4.90462C17.4347 6.27573 17.0002 7.84464 17.0002 9.44362V12.5V16C17.0002 17.1046 16.1047 18 15.0002 18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7.00015 12.5C11.5002 13.5 13.0948 10.8965 17.0002 12.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "tv",
@@ -16153,6 +17257,40 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22 11.5V15C22 16.6569 20.6569 18 19 18H5C3.34315 18 2 16.6569 2 15V6C2 4.34315 3.34315 3 5 3H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21H18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17.17 7.83001L19.5 5.50001M19.5 5.50001L21.83 3.17001M19.5 5.50001L17.17 3.17001M19.5 5.50001L21.83 7.83001\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "type",
+      "category": "Typography",
+      "tags": [
+        "iconix",
+        "type",
+        "typography",
+        "font",
+        "text",
+        "letter",
+        "character",
+        "huruf",
+        "teks"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 20H12L12 4H6C4.89543 4 4 4.89543 4 6V7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M15 20H12L12 4H18C19.1046 4 20 4.89543 20 6V7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
+      "name": "type-outline",
+      "category": "Typography",
+      "tags": [
+        "iconix",
+        "type-outline",
+        "type",
+        "outline",
+        "typography",
+        "font",
+        "text",
+        "letter",
+        "character",
+        "huruf",
+        "teks"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 19C7 17.8954 7.89543 17 9 17H10V7H6V8C6 9.10457 5.10457 10 4 10C2.89543 10 2 9.10457 2 8V7C2 4.79086 3.79086 3 6 3H18C20.2091 3 22 4.79086 22 7V8C22 9.10457 21.1046 10 20 10C18.8954 10 18 9.10457 18 8V7H14V17H15C16.1046 17 17 17.8954 17 19C17 20.1046 16.1046 21 15 21H9C7.89543 21 7 20.1046 7 19Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "upload",
       "category": "General UI",
       "tags": [
@@ -16620,7 +17758,7 @@
         "mati",
         "inactive"
       ],
-      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 22H6C4.89543 22 4 21.1046 4 20C4 16.6863 6.68629 14 10 14M9.17617 4.16698C9.89966 3.44582 10.8978 3 12 3C14.2091 3 16 4.79086 16 7C16 8.10223 15.5542 9.10034 14.833 9.82383\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.6778 21L2.29297 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 14H10C6.68629 14 4 16.6863 4 20C4 21.1046 4.89543 22 6 22H18C18.9004 22 19.6619 21.405 19.9126 20.5867M9.18379 4.1594C9.90667 3.4427 10.9016 3 12 3C14.2091 3 16 4.79086 16 7C16 8.09836 15.5573 9.09333 14.8406 9.8162\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.3848 21.3848L3 3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "user-star",

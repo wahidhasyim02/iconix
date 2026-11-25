@@ -1,0 +1,24 @@
+{
+  "name": "image-search",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "image-search",
+    "image",
+    "search",
+    "find",
+    "query",
+    "explore",
+    "lookup",
+    "cari",
+    "photo",
+    "picture",
+    "graphic",
+    "gallery",
+    "media",
+    "thumbnail",
+    "foto",
+    "gambar"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 11V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V8M12 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.1264 6.79375L21.09 7.75735M20.8894 4.50445C20.8894 6.02165 19.6595 7.25158 18.1423 7.25158C16.6251 7.25158 15.3951 6.02165 15.3951 4.50445C15.3951 2.98726 16.6251 1.75732 18.1423 1.75732C19.6595 1.75732 20.8894 2.98726 20.8894 4.50445Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

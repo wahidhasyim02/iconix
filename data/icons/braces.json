@@ -1,0 +1,16 @@
+{
+  "name": "braces",
+  "category": "Development & Code",
+  "tags": [
+    "iconix",
+    "braces",
+    "curly-brackets",
+    "code",
+    "json",
+    "syntax",
+    "programming",
+    "developer",
+    "kurung-kurawal"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 3C6.34315 3 5 4.34315 5 6V9.4503C5 10.3758 4.4078 11.1974 3.52982 11.4901C3.03976 11.6534 3.03976 12.3466 3.52982 12.5099C4.4078 12.8026 5 13.6242 5 14.5497V18C5 19.6569 6.34315 21 8 21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 3C17.6569 3 19 4.34315 19 6V9.4503C19 10.3758 19.5922 11.1974 20.4702 11.4901C20.9602 11.6534 20.9602 12.3466 20.4702 12.5099C19.5922 12.8026 19 13.6242 19 14.5497V18C19 19.6569 17.6569 21 16 21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -610,6 +610,51 @@ export function toPascalCase(name: string): string {
   );
 }
 
+/**
+ * Copies SVG markup to the system clipboard in both 'text/html' and 'text/plain' formats.
+ * Writing 'text/html' allows Figma (and other vector/design software) to detect the SVG markup
+ * and paste it directly as native, editable vector nodes/layers instead of plain text strings.
+ */
+export async function copySvgToClipboard(svgString: string): Promise<boolean> {
+  const cleanSvg = svgString.trim();
+
+  if (typeof ClipboardItem !== 'undefined' && navigator.clipboard?.write) {
+    try {
+      const types: Record<string, Blob> = {
+        'text/plain': new Blob([cleanSvg], { type: 'text/plain' }),
+        'text/html': new Blob([cleanSvg], { type: 'text/html' }),
+      };
+
+      try {
+        if ('supports' in ClipboardItem && (ClipboardItem as any).supports('image/svg+xml')) {
+          types['image/svg+xml'] = new Blob([cleanSvg], { type: 'image/svg+xml' });
+        }
+      } catch {}
+
+      const item = new ClipboardItem(types);
+      await navigator.clipboard.write([item]);
+      return true;
+    } catch {
+      // Fallback below if multi-type ClipboardItem is not permitted
+    }
+  }
+
+  if (navigator.clipboard?.writeText) {
+    await navigator.clipboard.writeText(cleanSvg);
+    return true;
+  }
+
+  const textarea = document.createElement('textarea');
+  textarea.value = cleanSvg;
+  textarea.style.position = 'fixed';
+  textarea.style.opacity = '0';
+  document.body.appendChild(textarea);
+  textarea.select();
+  const success = document.execCommand('copy');
+  document.body.removeChild(textarea);
+  return success;
+}
+
 export function buildVueComponentCode(iconName: string, svgString: string): string {
   const componentName = toPascalCase(iconName);
   const formattedSvg = formatPrettySvg(svgString).replace(
@@ -641,43 +686,65 @@ export function buildReactComponentCode(iconName: string, svgString: string): st
 }
 
 export async function svgToPngBlob(svgString: string, targetPx = 256): Promise<Blob> {
-  const exportSvg = svgString
+  let exportSvg = svgString.trim();
+  if (!exportSvg.includes('xmlns=')) {
+    exportSvg = exportSvg.replace('<svg', '<svg xmlns="http://www.w3.org/2000/svg"');
+  }
+  exportSvg = exportSvg
     .replace(/width="[^"]*"/, `width="${targetPx}"`)
     .replace(/height="[^"]*"/, `height="${targetPx}"`);
 
-  const svgBlob = new Blob([exportSvg], { type: 'image/svg+xml;charset=utf-8' });
-  const url = URL.createObjectURL(svgBlob);
+  // Convert SVG to Base64 data URL to avoid blob URL lifetime & tainted canvas issues in browsers
+  const base64 =
+    typeof window !== 'undefined'
+      ? window.btoa(unescape(encodeURIComponent(exportSvg)))
+      : Buffer.from(exportSvg).toString('base64');
+  const dataUrl = `data:image/svg+xml;base64,${base64}`;
 
-  try {
-    const img = await new Promise<HTMLImageElement>((resolve, reject) => {
-      const image = new Image();
-      image.onload = () => resolve(image);
-      image.onerror = () => reject(new Error('Failed to rasterize SVG to PNG'));
-      image.src = url;
-    });
+  return new Promise<Blob>((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => {
+      try {
+        const canvas = document.createElement('canvas');
+        canvas.width = targetPx;
+        canvas.height = targetPx;
+        const ctx = canvas.getContext('2d');
+        if (!ctx) {
+          reject(new Error('Canvas 2D context unavailable'));
+          return;
+        }
 
-    const canvas = document.createElement('canvas');
-    canvas.width = targetPx;
-    canvas.height = targetPx;
-    const ctx = canvas.getContext('2d');
-    if (!ctx) {
-      throw new Error('Canvas 2D context unavailable');
-    }
+        ctx.clearRect(0, 0, targetPx, targetPx);
+        ctx.drawImage(img, 0, 0, targetPx, targetPx);
 
-    ctx.clearRect(0, 0, targetPx, targetPx);
-    ctx.drawImage(img, 0, 0, targetPx, targetPx);
-
-    const pngBlob = await new Promise<Blob | null>((resolve) =>
-      canvas.toBlob((blob) => resolve(blob), 'image/png')
-    );
-
-    if (!pngBlob) {
-      throw new Error('Failed to encode PNG');
-    }
-    return pngBlob;
-  } finally {
-    URL.revokeObjectURL(url);
-  }
+        canvas.toBlob((blob) => {
+          if (blob) {
+            resolve(blob);
+          } else {
+            // Direct Base64 to Blob fallback if toBlob returns null
+            try {
+              const dataUri = canvas.toDataURL('image/png');
+              const byteString = atob(dataUri.split(',')[1]);
+              const ab = new ArrayBuffer(byteString.length);
+              const ia = new Uint8Array(ab);
+              for (let i = 0; i < byteString.length; i++) {
+                ia[i] = byteString.charCodeAt(i);
+              }
+              resolve(new Blob([ab], { type: 'image/png' }));
+            } catch (err) {
+              reject(err);
+            }
+          }
+        }, 'image/png');
+      } catch (err) {
+        reject(err);
+      }
+    };
+    img.onerror = () => {
+      reject(new Error('Failed to rasterize SVG to PNG'));
+    };
+    img.src = dataUrl;
+  });
 }
 
 export function validateIconsJson(data: unknown): { valid: boolean; icons: IconEntry[]; error?: string } {

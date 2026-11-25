@@ -1,0 +1,12 @@
+{
+  "name": "mic-audio-lines",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "mic-audio-lines",
+    "mic",
+    "audio",
+    "lines"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 18V6M2 14V10M10 7V6M14 7V3M18 16V8M22 14V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 18V22M12 18C10.8954 18 10 17.1046 10 16V12C10 10.8954 10.8954 10 12 10C13.1046 10 14 10.8954 14 12V16C14 17.1046 13.1046 18 12 18ZM12 22H9M12 22H15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

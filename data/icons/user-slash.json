@@ -31,5 +31,5 @@
     "mati",
     "inactive"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17 22H6C4.89543 22 4 21.1046 4 20C4 16.6863 6.68629 14 10 14M9.17617 4.16698C9.89966 3.44582 10.8978 3 12 3C14.2091 3 16 4.79086 16 7C16 8.10223 15.5542 9.10034 14.833 9.82383\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.6778 21L2.29297 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 14H10C6.68629 14 4 16.6863 4 20C4 21.1046 4.89543 22 6 22H18C18.9004 22 19.6619 21.405 19.9126 20.5867M9.18379 4.1594C9.90667 3.4427 10.9016 3 12 3C14.2091 3 16 4.79086 16 7C16 8.09836 15.5573 9.09333 14.8406 9.8162\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.3848 21.3848L3 3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -1,0 +1,19 @@
+{
+  "name": "file-brackets",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "file-brackets",
+    "file",
+    "brackets",
+    "document",
+    "page",
+    "doc",
+    "paper",
+    "berkas",
+    "dokumen",
+    "sheet",
+    "draft"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.25 12H8.3125C8.13991 12 8 12.1492 8 12.3333V17.6667C8 17.8508 8.13991 18 8.3125 18H9.25M14.75 12H15.6875C15.8601 12 16 12.1492 16 12.3333V17.6667C16 17.8508 15.8601 18 15.6875 18H14.75\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

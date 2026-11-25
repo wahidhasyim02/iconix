@@ -1,0 +1,19 @@
+{
+  "name": "file-braces",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "file-braces",
+    "file",
+    "braces",
+    "document",
+    "page",
+    "doc",
+    "paper",
+    "berkas",
+    "dokumen",
+    "sheet",
+    "draft"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 10.8151V18C21 20.2091 19.2091 22 17 22H7C4.79086 22 3 20.2091 3 18V6C3 3.79086 4.79086 2 7 2H11.4971C12.466 2 13.4019 2.35167 14.1311 2.98969L19.634 7.80477C20.5021 8.56432 21 9.66162 21 10.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M9.64218 18C9.07976 18 8.62382 17.5523 8.62382 17V15.8499C8.62382 15.5414 8.4228 15.2675 8.12476 15.17C7.95841 15.1155 7.95841 14.8845 8.12476 14.83C8.4228 14.7325 8.62382 14.4586 8.62382 14.1501V13C8.62382 12.4477 9.07976 12 9.64218 12M14.3578 18C14.9202 18 15.3762 17.5523 15.3762 17V15.8499C15.3762 15.5414 15.5772 15.2675 15.8752 15.17C16.0416 15.1155 16.0416 14.8845 15.8752 14.83C15.5772 14.7325 15.3762 14.4586 15.3762 14.1501V13C15.3762 12.4477 14.9202 12 14.3578 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

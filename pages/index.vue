@@ -32,6 +32,7 @@
     <!-- Browse Icon Library View -->
     <div v-else class="flex-1 flex items-start">
       <CategorySidebar
+        :loading="loading"
         :categories="categories"
         :total-count="icons.length"
         :selected-category="selectedCategory"
@@ -184,7 +185,12 @@
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue';
 import { AlertCircle, Check, Info } from 'lucide-vue-next';
 import type { IconEntry, IconSettings, IconStyleVariant } from '~/types/icon';
-import { buildStyledSvg, formatPrettySvg, validateIconsJson } from '~/utils/svgEngine';
+import {
+  buildStyledSvg,
+  copySvgToClipboard,
+  formatPrettySvg,
+  validateIconsJson,
+} from '~/utils/svgEngine';
 
 useHead({
   title: 'Iconix — SVG Icon Studio',
@@ -238,6 +244,18 @@ const VALID_STYLES = new Set<IconStyleVariant>([
   'duotone',
   'duotone-linear',
 ]);
+
+const STORAGE_KEY_PREFS = 'iconix_preferences';
+
+interface StoredPreferences {
+  theme?: 'dark' | 'light';
+  styleVariant?: IconStyleVariant;
+  settings?: Partial<IconSettings>;
+  gridZoom?: number;
+  clickToCopy?: boolean;
+  groupByCategory?: boolean;
+  showLabels?: boolean;
+}
 
 interface ToastState {
   id: number;
@@ -304,6 +322,34 @@ const gridZoom = ref<number>(2);
 const clickToCopy = ref<boolean>(true);
 const groupByCategory = ref<boolean>(false); // Default: flat alphabetical grid
 const showLabels = ref<boolean>(false); // Default: tanpa label (klik tag/toggle untuk tampilkan label)
+
+const isHydrated = ref(false);
+
+const savePreferences = () => {
+  if (!isHydrated.value || typeof window === 'undefined') return;
+  try {
+    const data: StoredPreferences = {
+      theme: theme.value,
+      styleVariant: styleVariant.value,
+      settings: settings.value,
+      gridZoom: gridZoom.value,
+      clickToCopy: clickToCopy.value,
+      groupByCategory: groupByCategory.value,
+      showLabels: showLabels.value,
+    };
+    localStorage.setItem(STORAGE_KEY_PREFS, JSON.stringify(data));
+  } catch {
+    // Ignore private browsing or storage quota errors
+  }
+};
+
+watch(
+  [theme, styleVariant, settings, gridZoom, clickToCopy, groupByCategory, showLabels],
+  () => {
+    savePreferences();
+  },
+  { deep: true }
+);
 
 const selectedIcon = ref<IconEntry | null>(null);
 const copiedIconName = ref<string | null>(null);
@@ -486,6 +532,11 @@ const handleResetSettings = () => {
   showLabels.value = false;
   selectedCategory.value = 'All';
   searchQuery.value = '';
+  if (typeof window !== 'undefined') {
+    try {
+      localStorage.removeItem(STORAGE_KEY_PREFS);
+    } catch {}
+  }
   notify('Studio view & settings reset to defaults', 'info');
 };
 
@@ -513,7 +564,7 @@ const handleIconClick = async (icon: IconEntry) => {
   );
 
   try {
-    await navigator.clipboard.writeText(svgCode);
+    await copySvgToClipboard(svgCode);
     copiedIconName.value = icon.name;
     window.setTimeout(() => {
       if (copiedIconName.value === icon.name) {
@@ -581,12 +632,53 @@ const handleKeyDown = (e: KeyboardEvent) => {
 };
 
 onMounted(() => {
+  // 1. Restore saved studio preferences from localStorage
+  try {
+    const saved = localStorage.getItem(STORAGE_KEY_PREFS);
+    if (saved) {
+      const parsed = JSON.parse(saved) as StoredPreferences;
+      if (parsed.theme === 'dark' || parsed.theme === 'light') {
+        theme.value = parsed.theme;
+      }
+      if (parsed.styleVariant && VALID_STYLES.has(parsed.styleVariant)) {
+        styleVariant.value = parsed.styleVariant;
+      }
+      if (parsed.settings && typeof parsed.settings === 'object') {
+        const s = parsed.settings;
+        const base = theme.value === 'dark' ? DARK_DEFAULT_SETTINGS : LIGHT_DEFAULT_SETTINGS;
+        settings.value = {
+          size: typeof s.size === 'number' && s.size >= 16 && s.size <= 64 ? s.size : base.size,
+          strokeWidth: typeof s.strokeWidth === 'number' && s.strokeWidth >= 0.75 && s.strokeWidth <= 3 ? s.strokeWidth : base.strokeWidth,
+          primaryColor: typeof s.primaryColor === 'string' && /^#[0-9a-fA-F]{6}$/.test(s.primaryColor) ? s.primaryColor : base.primaryColor,
+          secondaryColor: typeof s.secondaryColor === 'string' && /^#[0-9a-fA-F]{6}$/.test(s.secondaryColor) ? s.secondaryColor : base.secondaryColor,
+          duotoneOpacity: typeof s.duotoneOpacity === 'number' && s.duotoneOpacity >= 0.1 && s.duotoneOpacity <= 1 ? s.duotoneOpacity : base.duotoneOpacity,
+        };
+      }
+      if (typeof parsed.gridZoom === 'number' && parsed.gridZoom >= 1 && parsed.gridZoom <= 4) {
+        gridZoom.value = parsed.gridZoom;
+      }
+      if (typeof parsed.clickToCopy === 'boolean') {
+        clickToCopy.value = parsed.clickToCopy;
+      }
+      if (typeof parsed.groupByCategory === 'boolean') {
+        groupByCategory.value = parsed.groupByCategory;
+      }
+      if (typeof parsed.showLabels === 'boolean') {
+        showLabels.value = parsed.showLabels;
+      }
+    }
+  } catch {
+    // Ignore localStorage read errors
+  }
+
+  isHydrated.value = true;
   applyThemeClass(theme.value);
   window.addEventListener('keydown', handleKeyDown);
 
   fetchBuiltInIcons().then((loadedIcons) => {
     if (loadedIcons.length === 0) return;
 
+    // 2. URL parameters take precedence over stored preferences for shared links
     const params = new URLSearchParams(window.location.search);
     const sharedStyle = params.get('style') as IconStyleVariant | null;
     if (sharedStyle && VALID_STYLES.has(sharedStyle)) {

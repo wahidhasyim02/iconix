@@ -4,10 +4,12 @@
     <div v-if="loading" class="p-4 lg:p-6">
       <div :class="['grid gap-2.5', currentZoom.colsClass]">
         <div
-          v-for="idx in 36"
+          v-for="idx in 72"
           :key="idx"
-          :class="[currentZoom.tileHeightClass, 'rounded-xl bg-slate-200/70 dark:bg-[#101319] border border-slate-200 dark:border-[#1B2029] animate-pulse']"
-        />
+          :class="[currentZoom.tileHeightClass, 'rounded-xl bg-slate-200/70 dark:bg-[#101319] border border-slate-200 dark:border-[#1B2029] animate-pulse flex items-center justify-center']"
+        >
+          <div class="w-6 h-6 rounded-md bg-slate-300/50 dark:bg-white/5" />
+        </div>
       </div>
     </div>
 

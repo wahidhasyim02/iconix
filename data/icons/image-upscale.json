@@ -1,0 +1,19 @@
+{
+  "name": "image-upscale",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "image-upscale",
+    "image",
+    "upscale",
+    "photo",
+    "picture",
+    "graphic",
+    "gallery",
+    "media",
+    "thumbnail",
+    "foto",
+    "gambar"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.4444 22H17.4722M22 10.5556V12.3056M13.5556 2H11.7778M2 7V6.86111M17.5278 22H17.5556C18.1582 22 18.7328 21.8801 19.2568 21.6628M21.6628 19.2568C21.8801 18.7328 22 18.1582 22 17.5556V15.8056M2 6.58333V6.44444C2 5.84182 2.11994 5.2672 2.33725 4.74317M4.74317 2.33725C5.2672 2.11994 5.84182 2 6.44444 2H8.22222\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4 22L9.93054 16.0695C10.3632 15.6368 11.0347 15.5542 11.5593 15.8689L14 17.3333M11.3333 22H4.66667C3.19391 22 2 20.8061 2 19.3333V12.6667C2 11.1939 3.19391 10 4.66667 10H11.3333C12.8061 10 14 11.1939 14 12.6667V19.3333C14 20.8061 12.8061 22 11.3333 22Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17.4545 2H22V6.54545M22 2L17 7\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}
