@@ -45,6 +45,10 @@ const TAG_DICTIONARY = {
   'alarm-smoke': ['smoke', 'fire', 'detector', 'sensor', 'safety', 'emergency', 'hazard', 'alert'],
 
   // Objects & Geometry
+  bottle: ['bottle', 'drink', 'water', 'wine', 'glass', 'beverage', 'alcohol', 'container', 'botol', 'minuman'],
+  milk: ['milk', 'dairy', 'drink', 'beverage', 'calcium', 'food', 'carton', 'susu', 'minuman'],
+  'tube-lotion': ['tube', 'lotion', 'cream', 'cosmetic', 'skincare', 'beauty', 'ointment', 'krim', 'losion'],
+  tube: ['tube', 'lotion', 'cream', 'cosmetic', 'skincare', 'beauty', 'ointment', 'krim', 'losion'],
   mirror: ['mirror', 'reflection', 'glass', 'surface', 'optics', 'vanity', 'look'],
   amphora: ['amphora', 'vase', 'pottery', 'antique', 'greek', 'roman', 'jar', 'ceramic', 'ancient', 'vessel', 'museum'],
   anchor: ['anchor', 'sea', 'ship', 'boat', 'marine', 'ocean', 'harbor', 'nautical', 'port', 'sail'],

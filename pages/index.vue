@@ -303,7 +303,7 @@ const settings = ref<IconSettings>({ ...DARK_DEFAULT_SETTINGS });
 const gridZoom = ref<number>(2);
 const clickToCopy = ref<boolean>(true);
 const groupByCategory = ref<boolean>(false); // Default: flat alphabetical grid
-const showLabels = ref<boolean>(true); // Default: show icon name labels
+const showLabels = ref<boolean>(false); // Default: tanpa label (klik tag/toggle untuk tampilkan label)
 
 const selectedIcon = ref<IconEntry | null>(null);
 const copiedIconName = ref<string | null>(null);
@@ -481,9 +481,9 @@ const handleToggleTheme = () => {
 const handleResetSettings = () => {
   settings.value = theme.value === 'dark' ? { ...DARK_DEFAULT_SETTINGS } : { ...LIGHT_DEFAULT_SETTINGS };
   gridZoom.value = 2;
-  styleVariant.value = 'duotone';
+  styleVariant.value = 'line-duotone';
   groupByCategory.value = false;
-  showLabels.value = true;
+  showLabels.value = false;
   selectedCategory.value = 'All';
   searchQuery.value = '';
   notify('Studio view & settings reset to defaults', 'info');

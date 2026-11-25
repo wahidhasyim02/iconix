@@ -1,0 +1,29 @@
+{
+  "name": "refresh-ccw-off",
+  "category": "Arrows",
+  "tags": [
+    "iconix",
+    "refresh-ccw-off",
+    "refresh",
+    "ccw",
+    "off",
+    "reload",
+    "sync",
+    "repeat",
+    "putar",
+    "muat-ulang",
+    "segarkan",
+    "putar-balik",
+    "ulang",
+    "slash",
+    "disabled",
+    "turn-off",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22 12C22 9.46388 21.0559 7.14827 19.5 5.38544M2 12C2 13.4222 2.29689 14.7751 2.83209 16M3.99927 6C5.82368 3.57111 8.72836 2 12 2C13.4222 2 14.7751 2.29689 16 2.83209M20 18C18.1756 20.4287 15.2715 22 12 22C9.46388 22 7.14827 21.0559 5.38544 19.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4 2V6H8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20 22V18H16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M3.32227 21L21.707 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

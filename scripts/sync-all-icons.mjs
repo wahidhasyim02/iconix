@@ -80,7 +80,8 @@ function resolveCategory(iconName) {
   if (
     iconName.startsWith('monitor') ||
     iconName.startsWith('laptop') ||
-    iconName.startsWith('bot') ||
+    iconName === 'bot' ||
+    iconName.startsWith('bot-') ||
     iconName.startsWith('tv') ||
     iconName.startsWith('tablet') ||
     iconName.startsWith('smartphone') ||
@@ -108,6 +109,9 @@ function resolveCategory(iconName) {
     return 'Security & System';
   }
   if (
+    iconName.startsWith('bottle') ||
+    iconName.startsWith('milk') ||
+    iconName.startsWith('tube-') ||
     iconName.startsWith('mirror') ||
     iconName.startsWith('plane') ||
     iconName.startsWith('airlines') ||

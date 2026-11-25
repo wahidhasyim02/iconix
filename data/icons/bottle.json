@@ -1,0 +1,18 @@
+{
+  "name": "bottle",
+  "category": "Objects & Geometry",
+  "tags": [
+    "iconix",
+    "bottle",
+    "drink",
+    "water",
+    "wine",
+    "glass",
+    "beverage",
+    "alcohol",
+    "container",
+    "botol",
+    "minuman"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.8456 4.67413L18.5528 3.96703C18.9433 3.5765 19.5764 3.5765 19.967 3.96703L20.6741 4.67413C21.0646 5.06466 21.0646 5.69782 20.6741 6.08835L19.967 6.79545M17.4921 5.02768C10.8734 4.7125 10.1549 10.2976 3.8153 14.2689C2.62316 15.0157 2.30128 16.7069 3.29599 17.7016L6.93941 21.3451C7.93412 22.3398 9.62535 22.0179 10.3721 20.8258C14.3435 14.4861 19.9285 13.7677 19.6134 7.14897L17.4921 5.02768Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9 9.99988C13.0871 8.90422 15 11.5 19.4446 9.49994\" stroke-width=\"2\" stroke=\"black\"/>\n</svg>"
+}
