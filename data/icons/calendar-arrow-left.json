@@ -21,7 +21,11 @@
     "rewind",
     "back",
     "undo",
-    "past"
+    "past",
+    "kiri",
+    "barat",
+    "kembali",
+    "mundur"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.2427 21H18.2427C19.8995 21 21.2427 19.6569 21.2427 18V6C21.2427 4.34315 19.8995 3 18.2427 3H6.24268C4.58582 3 3.24268 4.34315 3.24268 6V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M3.24268 9H21.2427\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16.2427 5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8.24268 5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4.72733 16L2 18.5L4.72733 21M2 18.5H8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -14,7 +14,12 @@
     "pennant",
     "golf",
     "country",
-    "bendera"
+    "bendera",
+    "kiri",
+    "barat",
+    "kembali",
+    "mundur",
+    "undo"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.16994 9.07942L18.1095 3.58993C18.7689 3.31016 19.5 3.79417 19.5 4.51051V15.4895C19.5 16.2058 18.7689 16.6898 18.1095 16.4101L5.16994 10.9206C4.35734 10.5758 4.35734 9.42416 5.16994 9.07942Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19.5 2L19.5 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -1,0 +1,31 @@
+{
+  "name": "user-open-lock",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "user-open-lock",
+    "user",
+    "open",
+    "lock",
+    "user-open",
+    "profile",
+    "avatar",
+    "account",
+    "person",
+    "people",
+    "pengguna",
+    "akun",
+    "profil",
+    "orang",
+    "terbuka",
+    "member",
+    "human",
+    "individual",
+    "security",
+    "secure",
+    "protect",
+    "kunci",
+    "gembok"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 14H9C5.68629 14 3 16.6863 3 20V22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 7C7 9.20914 8.79086 11 11 11C13.2091 11 15 9.20914 15 7C15 4.79086 13.2091 3 11 3C8.79086 3 7 4.79086 7 7Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20 17V15C20 13.8954 19.1046 13 18 13C16.8954 13 16 13.8954 16 15V17M15 17H21C21.5523 17 22 17.4477 22 18V21C22 21.5523 21.5523 22 21 22H15C14.4477 22 14 21.5523 14 21V18C14 17.4477 14.4477 17 15 17Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

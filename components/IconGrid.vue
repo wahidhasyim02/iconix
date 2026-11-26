@@ -2,13 +2,20 @@
   <div>
     <!-- Loading skeleton -->
     <div v-if="loading" class="p-4 lg:p-6">
-      <div :class="['grid gap-2.5', currentZoom.colsClass]">
-        <div
-          v-for="idx in 72"
-          :key="idx"
-          :class="[currentZoom.tileHeightClass, 'rounded-xl bg-slate-200/70 dark:bg-[#101319] border border-slate-200 dark:border-[#1B2029] animate-pulse flex items-center justify-center']"
-        >
-          <div class="w-6 h-6 rounded-md bg-slate-300/50 dark:bg-white/5" />
+      <div
+        class="border-t border-l border-slate-200 dark:border-[#1A202A] rounded-xl overflow-hidden bg-white dark:bg-[#090B0E]"
+      >
+        <div :class="['grid gap-0', currentZoom.colsClass]">
+          <div
+            v-for="idx in 72"
+            :key="idx"
+            :class="[
+              currentZoom.tileHeightClass,
+              'border-r border-b border-slate-200 dark:border-[#1A202A] bg-slate-50/50 dark:bg-[#0C0F14] animate-pulse flex items-center justify-center'
+            ]"
+          >
+            <div class="w-6 h-6 rounded-md bg-slate-200 dark:bg-white/5" />
+          </div>
         </div>
       </div>
     </div>
@@ -57,59 +64,81 @@
             {{ categoryIcons.length }}
           </span>
         </div>
-        <div :class="['grid gap-2.5', currentZoom.colsClass]">
-          <div
-            v-for="icon in categoryIcons"
-            :key="icon.name"
-            class="relative group"
-          >
-            <button
-              type="button"
-              @click="$emit('icon-click', icon)"
-              :title="`${icon.name} · ${icon.category}`"
+        <div
+          class="border-t border-l border-slate-200 dark:border-[#1A202A] rounded-sm  bg-white dark:bg-[#090B0E] shadow-2xs"
+        >
+          <div :class="['grid gap-0', currentZoom.colsClass]">
+            <div
+              v-for="icon in categoryIcons"
+              :key="icon.name"
+              class="relative group border-r border-b border-slate-200 dark:border-[#1A202A] transition-colors"
               :class="[
-                'w-full px-2 rounded-xl border flex flex-col items-center justify-center gap-2 transition-all duration-150 cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal-500 dark:focus-visible:ring-[#2DD4BF]',
                 currentZoom.tileHeightClass,
                 selectedIconName === icon.name
-                  ? 'bg-teal-50/70 dark:bg-[#141C24] border-teal-600/70 dark:border-[#2DD4BF]/70 shadow-[0_0_0_1px_rgba(13,148,136,0.2)] dark:shadow-[0_0_0_1px_rgba(45,212,191,0.2)]'
-                  : 'bg-white dark:bg-[#0E1117] border-slate-200 dark:border-[#1A2029] hover:bg-slate-50 dark:hover:bg-[#131820] hover:border-slate-300 dark:hover:border-[#2B3444]'
+                  ? 'z-10 bg-teal-50/80 dark:bg-[#131D26] ring-1 ring-teal-600/80 dark:ring-[#2DD4BF]/80'
+                  : 'hover:z-10 hover:bg-slate-100/70 dark:hover:bg-[#121620] hover:ring-1 hover:ring-teal-500/40 dark:hover:ring-[#2DD4BF]/50'
               ]"
             >
-              <div class="flex items-center justify-center transition-transform duration-150 group-hover:scale-105">
-                <SvgIconix
-                  :raw-svg="icon.svg"
-                  :style-variant="styleVariant"
-                  :settings="settings"
-                  :override-size="renderSize"
-                />
-              </div>
-
-              <span
-                v-if="currentZoom.showName && showLabels"
-                class="w-full px-1 text-center font-mono text-[11px] leading-tight text-slate-500 dark:text-[#8492A6] group-hover:text-slate-900 dark:group-hover:text-[#CBD5E1] truncate"
+              <button
+                type="button"
+                @click="$emit('icon-click', icon)"
+                :title="`${icon.name} · ${icon.category}`"
+                class="w-full h-full p-2 flex flex-col items-center justify-center gap-1.5 cursor-pointer focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-teal-500 dark:focus-visible:ring-[#2DD4BF]"
               >
-                {{ icon.name }}
-              </span>
-            </button>
+                <div class="flex items-center justify-center transition-transform duration-150 group-hover:scale-105">
+                  <SvgIconix
+                    :raw-svg="icon.svg"
+                    :style-variant="styleVariant"
+                    :settings="settings"
+                    :override-size="renderSize"
+                  />
+                </div>
 
-            <!-- Inspect Quick Button -->
-            <button
-              type="button"
-              @click.stop="$emit('inspect-only', icon)"
-              :title="`Preview ${icon.name}`"
-              :aria-label="`Preview ${icon.name}`"
-              class="opacity-0 group-hover:opacity-100 focus:opacity-100 absolute top-1.5 right-1.5 p-1 rounded-md bg-white/95 dark:bg-[#161B23]/90 border border-slate-200 dark:border-[#262E3B] text-slate-500 dark:text-[#94A3B8] hover:text-teal-600 dark:hover:text-[#2DD4BF] transition-opacity cursor-pointer"
-            >
-              <Eye class="w-3 h-3" />
-            </button>
+                <span
+                  v-if="currentZoom.showName && showLabels"
+                  class="w-full px-1 text-center font-mono text-[10.5px] leading-tight text-slate-500 dark:text-[#8492A6] group-hover:text-slate-900 dark:group-hover:text-[#CBD5E1] truncate"
+                >
+                  {{ icon.name }}
+                </span>
+              </button>
 
-            <!-- Copied Indicator -->
-            <div
-              v-if="copiedIconName === icon.name"
-              class="pointer-events-none absolute inset-x-1.5 top-1.5 flex items-center justify-center gap-1 py-0.5 rounded-md bg-teal-600 dark:bg-[#2DD4BF] text-white dark:text-[#071312] text-[10px] font-semibold shadow-sm"
-            >
-              <Check class="w-3 h-3 stroke-[2.5]" />
-              <span>Copied</span>
+              <!-- 4-Corner Selection / Transform Dots (Figma / Vuesax style) -->
+              <span
+                class="pointer-events-none absolute -top-1 -left-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                :class="{ '!opacity-100': selectedIconName === icon.name }"
+              />
+              <span
+                class="pointer-events-none absolute -top-1 -right-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                :class="{ '!opacity-100': selectedIconName === icon.name }"
+              />
+              <span
+                class="pointer-events-none absolute -bottom-1 -left-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                :class="{ '!opacity-100': selectedIconName === icon.name }"
+              />
+              <span
+                class="pointer-events-none absolute -bottom-1 -right-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                :class="{ '!opacity-100': selectedIconName === icon.name }"
+              />
+
+              <!-- Inspect Quick Button -->
+              <button
+                type="button"
+                @click.stop="$emit('inspect-only', icon)"
+                :title="`Preview ${icon.name}`"
+                :aria-label="`Preview ${icon.name}`"
+                class="opacity-0 group-hover:opacity-100 focus:opacity-100 absolute top-1.5 right-1.5 p-1 rounded-md bg-white/95 dark:bg-[#161B23]/90 border border-slate-200 dark:border-[#262E3B] text-slate-500 dark:text-[#94A3B8] hover:text-teal-600 dark:hover:text-[#2DD4BF] transition-opacity cursor-pointer z-15"
+              >
+                <Eye class="w-3 h-3" />
+              </button>
+
+              <!-- Copied Indicator -->
+              <div
+                v-if="copiedIconName === icon.name"
+                class="pointer-events-none absolute inset-x-2 top-2 z-20 flex items-center justify-center gap-1 py-0.5 rounded-md bg-teal-600 dark:bg-[#2DD4BF] text-white dark:text-[#071312] text-[10px] font-semibold shadow-md"
+              >
+                <Check class="w-3 h-3 stroke-[2.5]" />
+                <span>Copied</span>
+              </div>
             </div>
           </div>
         </div>

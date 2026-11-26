@@ -33,7 +33,9 @@
     "api-key",
     "kata-sandi",
     "sandi",
-    "akses"
+    "akses",
+    "bawah",
+    "turun"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 14V22.5M12 16.5H15M16 22V19H13C12.4477 19 12 19.4477 12 20V21C12 21.5523 12.4477 22 13 22H16Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6 8C6 11.3137 8.68629 14 12 14C15.3137 14 18 11.3137 18 8C18 4.68629 15.3137 2 12 2C8.68629 2 6 4.68629 6 8Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

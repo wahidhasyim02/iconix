@@ -16,7 +16,18 @@
     "long",
     "panah",
     "arah",
-    "petunjuk"
+    "petunjuk",
+    "arrow-big",
+    "big-arrow",
+    "bold",
+    "thick",
+    "panah-besar",
+    "tebal",
+    "kiri",
+    "barat",
+    "kembali",
+    "mundur",
+    "undo"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.25 8.56015V3.39999L3 12.0602L11.25 20.7203V15.5602H19C19.5523 15.5602 20 15.1124 20 14.5602V9.56015C20 9.00787 19.5523 8.56015 19 8.56015H11.25Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

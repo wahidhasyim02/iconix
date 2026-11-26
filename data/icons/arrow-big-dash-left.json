@@ -1,0 +1,33 @@
+{
+  "name": "arrow-big-dash-left",
+  "category": "Arrows",
+  "tags": [
+    "iconix",
+    "arrow-big-dash-left",
+    "arrow",
+    "big",
+    "dash",
+    "left",
+    "pointer",
+    "direction",
+    "navigation",
+    "move",
+    "point",
+    "long",
+    "panah",
+    "arah",
+    "petunjuk",
+    "arrow-big",
+    "big-arrow",
+    "bold",
+    "thick",
+    "panah-besar",
+    "tebal",
+    "kiri",
+    "barat",
+    "kembali",
+    "mundur",
+    "undo"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.25 15.5602V20.7203L3 12.0602L11.25 3.39999V8.56015H15C15.5523 8.56015 16 9.00787 16 9.56015V14.5602C16 15.1124 15.5523 15.5602 15 15.5602H11.25Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20 8.56015V15.5602\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}
