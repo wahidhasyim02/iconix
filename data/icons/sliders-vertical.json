@@ -1,0 +1,15 @@
+{
+  "name": "sliders-vertical",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "sliders-vertical",
+    "sliders",
+    "vertical",
+    "portrait",
+    "column",
+    "tegak",
+    "vertikal"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19 14V21M19 14H21M19 14H17M19 3V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 8V3M12 8H14M12 8H10M12 21V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M5 17V21M5 17H7M5 17H3M5 3V13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

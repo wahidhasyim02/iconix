@@ -1,0 +1,13 @@
+{
+  "name": "square-stop",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "square-stop",
+    "square",
+    "stop",
+    "halt",
+    "end"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<rect x=\"8\" y=\"8\" width=\"8\" height=\"8\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

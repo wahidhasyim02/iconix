@@ -1,0 +1,9 @@
+{
+  "name": "forward",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "forward"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.7139 5.5499L20.1421 11.9781L13.7139 18.4064M20.1421 11.9781L9 11.9781C6.23858 11.9781 4 14.2167 4 16.9781V18.4064\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

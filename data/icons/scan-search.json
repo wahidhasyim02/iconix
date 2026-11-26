@@ -1,0 +1,16 @@
+{
+  "name": "scan-search",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "scan-search",
+    "scan",
+    "search",
+    "find",
+    "query",
+    "explore",
+    "lookup",
+    "cari"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.5 21L18 21C19.6569 21 21 19.6569 21 18V16.5M21 7.5V6C21 4.34315 19.6569 3 18 3H16.5M7.5 3H6C4.34315 3 3 4.34315 3 6V7.5M7.5 21L6 21C4.34315 21 3 19.6569 3 18V16.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14.6464 14.7152L16 16M15.7182 11.6628C15.7182 13.6857 13.9905 15.3256 11.8591 15.3256C9.72779 15.3256 8 13.6857 8 11.6628C8 9.6399 9.72779 8 11.8591 8C13.9905 8 15.7182 9.6399 15.7182 11.6628Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

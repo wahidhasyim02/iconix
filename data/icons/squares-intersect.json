@@ -1,0 +1,11 @@
+{
+  "name": "squares-intersect",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "squares-intersect",
+    "squares",
+    "intersect"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19 8H20C21.1046 8 22 8.89543 22 10M8 19V20C8 21.1046 8.89543 22 10 22M22 20C22 21.1046 21.1046 22 20 22M22 16V14M16 22H14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 11V15C8 15.5523 8.44772 16 9 16H13C14.6569 16 16 14.6569 16 13V9C16 8.44772 15.5523 8 15 8H11C9.34315 8 8 9.34315 8 11Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5 16H4C2.89543 16 2 15.1046 2 14M16 5V4C16 2.89543 15.1046 2 14 2M2 4C2 2.89543 2.89543 2 4 2M2 8V10M8 2H10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "scan-square",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "scan-square",
+    "scan",
+    "square",
+    "form",
+    "document",
+    "note"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 7.5L21 6C21 4.34315 19.6569 3 18 3H16.5M7.5 3H6C4.34315 3 3 4.34315 3 6V7.5M3 16.5V18C3 19.6569 4.34315 21 6 21H7.5M21 16.5L21 18C21 19.6569 19.6569 21 18 21H16.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 14V10C8 8.89543 8.71634 8 9.6 8H14.4C15.2837 8 16 8.89543 16 10V14C16 15.1046 15.2837 16 14.4 16H9.6C8.71634 16 8 15.1046 8 14Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

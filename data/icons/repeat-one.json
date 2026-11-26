@@ -1,0 +1,11 @@
+{
+  "name": "repeat-one",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "repeat-one",
+    "repeat",
+    "one"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.5208 9.57107L21.0563 6.03553L17.5208 2.5M21.0563 6.03553H6.5027C4.34283 6.03553 2.57304 7.75019 2.5047 9.90897L2.5 10.0574\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6.03558 14.9863L2.50005 18.5219L6.03558 22.0574M2.50005 18.5219H17.0537C19.2136 18.5219 20.9834 16.8072 21.0517 14.6484L21.0564 14.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 14V11C12 10.4477 11.5523 10 11 10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

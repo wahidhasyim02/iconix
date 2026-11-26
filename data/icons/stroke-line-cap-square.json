@@ -1,0 +1,16 @@
+{
+  "name": "stroke-line-cap-square",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "stroke-line-cap-square",
+    "stroke",
+    "line",
+    "cap",
+    "square",
+    "form",
+    "document",
+    "note"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 4H19C20.6569 4 22 5.34315 22 7L22 17C22 18.6569 20.6569 20 19 20H2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M15.75 12.5H14.125M2.75 12.5H4.375M10.875 12.5H7.625\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "square-play",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "square-play",
+    "square",
+    "play",
+    "start",
+    "resume",
+    "video",
+    "player"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.5 10.126V13.874C9.5 15.5557 11.4494 16.4865 12.7572 15.4294L15.0757 13.5554C16.066 12.7549 16.066 11.2451 15.0757 10.4446L12.7572 8.57062C11.4494 7.51347 9.5 8.44434 9.5 10.126Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}
