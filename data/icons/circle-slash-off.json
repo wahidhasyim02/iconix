@@ -1,0 +1,21 @@
+{
+  "name": "circle-slash-off",
+  "category": "Shapes & Badges",
+  "tags": [
+    "iconix",
+    "circle-slash-off",
+    "circle",
+    "slash",
+    "off",
+    "disabled",
+    "turn-off",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip",
+    "cancel"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.17157 14.8284L14.8284 9.17158\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

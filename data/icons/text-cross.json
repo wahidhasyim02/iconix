@@ -1,0 +1,19 @@
+{
+  "name": "text-cross",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "text-cross",
+    "text",
+    "cross",
+    "typography",
+    "font",
+    "align",
+    "paragraph",
+    "teks",
+    "tulisan",
+    "huruf",
+    "format"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 4H6C4.89543 4 4 4.89543 4 6V7M12 4H18C19.1046 4 20 4.89543 20 6V7M12 4V8M12 20H9M12 20H15M12 20V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4 12H12H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

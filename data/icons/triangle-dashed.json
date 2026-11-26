@@ -6,17 +6,17 @@
     "triangle-dashed",
     "triangle",
     "dashed",
-    "dotted",
-    "placeholder",
-    "border",
-    "garis-putus",
-    "putus-putus",
     "triangel",
     "delta",
     "shape",
     "segitiga",
     "bentuk",
-    "geometri"
+    "geometri",
+    "dotted",
+    "placeholder",
+    "border",
+    "garis-putus",
+    "putus-putus"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10.3481 4.00353L11.1238 2.59312C11.5037 1.90234 12.4963 1.90234 12.8762 2.59312L13.6519 4.00353M8.7966 6.82436L7.24515 9.64519M5.69369 12.466L4.14224 15.2868M2.59078 18.1077L1.81506 19.5181C1.44851 20.1845 1.93067 21 2.69127 21H4.24273M7.34564 21H10.4485M13.5515 21H16.6544M19.7573 21H21.3087C22.0693 21 22.5515 20.1845 22.1849 19.5181L21.4092 18.1077M19.8578 15.2868L18.3063 12.466M16.7549 9.64519L15.2034 6.82436\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

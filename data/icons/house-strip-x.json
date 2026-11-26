@@ -1,0 +1,33 @@
+{
+  "name": "house-strip-x",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "house-strip-x",
+    "house",
+    "strip",
+    "x",
+    "home",
+    "building",
+    "dashboard",
+    "homepage",
+    "estate",
+    "property",
+    "residence",
+    "rumah",
+    "beranda",
+    "cancel",
+    "close",
+    "error",
+    "dismiss",
+    "reject",
+    "remove",
+    "delete",
+    "clear",
+    "silang",
+    "batal",
+    "tutup",
+    "hapus"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 13V9.95634C21 8.72197 20.4301 7.55675 19.4558 6.79893L14.4558 2.91004C13.0113 1.78658 10.9887 1.78658 9.54424 2.91004L4.54424 6.79893C3.56989 7.55675 3 8.72197 3 9.95633V17C3 19.2091 4.79086 21 7 21H13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 17H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17.8786 21.1213L22.1213 16.8787M17.8786 16.8787L22.1213 21.1213\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

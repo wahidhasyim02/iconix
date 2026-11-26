@@ -7,6 +7,12 @@
     "triangle",
     "exclamation",
     "point",
+    "triangel",
+    "delta",
+    "shape",
+    "segitiga",
+    "bentuk",
+    "geometri",
     "alert",
     "warning",
     "important",
@@ -14,13 +20,7 @@
     "notice",
     "attention",
     "mark",
-    "peringatan",
-    "triangel",
-    "delta",
-    "shape",
-    "segitiga",
-    "bentuk",
-    "geometri"
+    "peringatan"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12.8762 2.59312L22.1849 19.5181C22.5515 20.1845 22.0693 21 21.3087 21H2.69127C1.93067 21 1.44851 20.1845 1.81506 19.5181L11.1238 2.59312C11.5037 1.90234 12.4963 1.90234 12.8762 2.59312Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 18.011V18.1M12 9V14.4505\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -1,0 +1,28 @@
+{
+  "name": "mail-down-right-search",
+  "category": "Communication & Social",
+  "tags": [
+    "iconix",
+    "mail-down-right-search",
+    "mail",
+    "down",
+    "right",
+    "search",
+    "email",
+    "envelope",
+    "letter",
+    "inbox",
+    "message",
+    "surat",
+    "pesan",
+    "surel",
+    "kirim",
+    "kontak",
+    "find",
+    "query",
+    "explore",
+    "lookup",
+    "cari"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 20H5C3.34315 20 2 18.6569 2 17V7C2 5.34315 3.34315 4 5 4H19C20.6569 4 22 5.34315 22 7V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5 8L11.9282 12L18.8564 8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.7312 19.0364L21.6948 20M21.4943 16.7471C21.4943 18.2643 20.2643 19.4943 18.7471 19.4943C17.2299 19.4943 16 18.2643 16 16.7471C16 15.2299 17.2299 14 18.7471 14C20.2643 14 21.4943 15.2299 21.4943 16.7471Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

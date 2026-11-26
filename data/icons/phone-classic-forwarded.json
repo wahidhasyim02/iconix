@@ -1,0 +1,23 @@
+{
+  "name": "phone-classic-forwarded",
+  "category": "Communication & Social",
+  "tags": [
+    "iconix",
+    "phone-classic-forwarded",
+    "phone",
+    "classic",
+    "forwarded",
+    "telephone",
+    "call",
+    "contact",
+    "dial",
+    "telepon",
+    "panggilan",
+    "hubungi",
+    "kontak",
+    "ring",
+    "forward",
+    "teruskan"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 19.2795L16.9716 14.676C17.2388 14.2621 17.7677 14.1044 18.2179 14.3045L21.2044 15.6318C21.6319 15.8219 21.8706 16.283 21.7788 16.7418L21.2727 19.2723C21.0789 20.2412 20.2034 20.9353 19.2236 20.8079C11.1232 19.7549 6.58485 13.9808 3.66547 6.07654C3.25174 4.95636 3.96182 3.7517 5.13276 3.51751L7.15093 3.11388C7.60974 3.02212 8.07083 3.26076 8.26086 3.68832L9.62895 6.76652C9.81051 7.17504 9.69888 7.65444 9.35552 7.94072L5.81388 10.8936\" stroke-width=\"2\" stroke=\"black\"/>\n<path d=\"M19.0191 8.59828L22.2332 5.38416L19.0191 2.17003M22.2332 5.38416H15.1621\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

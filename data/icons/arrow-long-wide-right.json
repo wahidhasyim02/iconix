@@ -16,15 +16,15 @@
     "panah",
     "arah",
     "petunjuk",
-    "outgoing",
-    "send",
-    "kanan",
-    "keluar",
     "arrow-long",
     "long-arrow",
     "extended",
     "panah-panjang",
-    "panjang"
+    "panjang",
+    "outgoing",
+    "send",
+    "kanan",
+    "keluar"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20.9706 11.9781H4M15.0643 17.8844L20.9706 11.9781L15.0643 6.07186\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -1,0 +1,23 @@
+{
+  "name": "plug-square",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "plug-square",
+    "plug",
+    "square",
+    "power",
+    "cable",
+    "connect",
+    "connection",
+    "electric",
+    "energy",
+    "socket",
+    "colokan",
+    "listrik",
+    "form",
+    "document",
+    "note"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 6.5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 22L12 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M15 6.5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 18H14C16.7614 18 19 15.7614 19 13V10C19 8.34315 17.6569 7 16 7H8C6.34315 7 5 8.34315 5 10V13C5 15.7614 7.23858 18 10 18Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

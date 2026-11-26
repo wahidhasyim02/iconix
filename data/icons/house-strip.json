@@ -1,0 +1,20 @@
+{
+  "name": "house-strip",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "house-strip",
+    "house",
+    "strip",
+    "home",
+    "building",
+    "dashboard",
+    "homepage",
+    "estate",
+    "property",
+    "residence",
+    "rumah",
+    "beranda"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 17V9.95634C21 8.72197 20.4301 7.55675 19.4558 6.79893L14.4558 2.91004C13.0113 1.78658 10.9887 1.78658 9.54424 2.91004L4.54424 6.79893C3.56989 7.55675 3 8.72197 3 9.95633V17C3 19.2091 4.79086 21 7 21H17C19.2091 21 21 19.2091 21 17Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 17H16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "calendar-down-right-arrow-down",
+  "category": "Time & Alarms",
+  "tags": [
+    "iconix",
+    "calendar-down-right-arrow-down",
+    "calendar",
+    "down",
+    "right",
+    "arrow",
+    "date",
+    "schedule",
+    "event",
+    "month",
+    "year",
+    "day",
+    "planner",
+    "agenda",
+    "kalender",
+    "jadwal",
+    "download",
+    "inbound",
+    "receive",
+    "bawah",
+    "turun",
+    "arrow-down",
+    "decrease",
+    "countdown"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 21H6C4.34315 21 3 19.6569 3 18V6C3 4.34315 4.34315 3 6 3H18C19.6569 3 21 4.34315 21 6V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21 9H3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M16 5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17 18.2727L19.5 21L22 18.2727M19.5 21V15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

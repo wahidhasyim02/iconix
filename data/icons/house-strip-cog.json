@@ -1,0 +1,29 @@
+{
+  "name": "house-strip-cog",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "house-strip-cog",
+    "house",
+    "strip",
+    "cog",
+    "home",
+    "building",
+    "dashboard",
+    "homepage",
+    "estate",
+    "property",
+    "residence",
+    "rumah",
+    "beranda",
+    "gear",
+    "settings",
+    "configuration",
+    "preferences",
+    "options",
+    "setup",
+    "pengaturan",
+    "setelan"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 13V9.95634C21 8.72197 20.4301 7.55675 19.4558 6.79893L14.4558 2.91004C13.0113 1.78658 10.9887 1.78658 9.54424 2.91004L4.54424 6.79893C3.56989 7.55675 3 8.72197 3 9.95633V17C3 19.2091 4.79086 21 7 21H13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 17H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21.25 18C21.25 19.2426 20.2427 20.25 19 20.25M21.25 18C21.25 16.7574 20.2427 15.75 19 15.75M21.25 18L22 18M19 20.25C17.7574 20.25 16.75 19.2426 16.75 18M19 20.25L19 21M16.75 18C16.75 16.7574 17.7574 15.75 19 15.75M16.75 18L16 18M19 15.75L19.0001 15M17.409 16.409L16.8787 15.8787M21.1213 15.8787L20.591 16.409M21.1213 20.1213L20.591 19.591M17.4091 19.591L16.8787 20.1213\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

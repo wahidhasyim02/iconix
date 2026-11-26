@@ -3,13 +3,10 @@
   "category": "Typography",
   "tags": [
     "iconix",
-    "typography",
-    "font size",
-    "text",
+    "a-large-small",
     "a",
     "large",
-    "small",
-    "a-large-small"
+    "small"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9.66929 14.0429L6.5 7L3.33071 14.0429M9.66929 14.0429L11 17M9.66929 14.0429H3.33071M2 17L3.33071 14.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 17L20.965 14.6343L18.5 9L16.035 14.6343M20.965 14.6343H16.035M15 17L16.035 14.6343\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -6,6 +6,11 @@
     "text-cursor",
     "text",
     "cursor",
+    "pointer",
+    "caret",
+    "i-beam",
+    "typing",
+    "ketik",
     "typography",
     "font",
     "align",
@@ -13,12 +18,7 @@
     "teks",
     "tulisan",
     "huruf",
-    "format",
-    "pointer",
-    "caret",
-    "i-beam",
-    "typing",
-    "ketik"
+    "format"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 2L8.78447 2.35689C10.6542 2.73083 12 4.37249 12 6.27922V17.7208C12 19.6275 10.6542 21.2692 8.78447 21.6431L7 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17 2L15.2155 2.35689C13.3458 2.73083 12 4.37249 12 6.27922V17.7208C12 19.6275 13.3458 21.2692 15.2155 21.6431L17 22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 17.7208V6.27922M12 17.7208C12 19.6275 10.6542 21.2692 8.78447 21.6431L7 22M12 17.7208C12 19.6275 13.3458 21.2692 15.2155 21.6431L17 22M12 6.27922C12 4.37249 10.6542 2.73083 8.78447 2.35689L7 2M12 6.27922C12 4.37249 13.3458 2.73083 15.2155 2.35689L17 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

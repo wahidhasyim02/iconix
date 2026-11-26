@@ -1,0 +1,31 @@
+{
+  "name": "alarm-clock-off-slash",
+  "category": "Time & Alarms",
+  "tags": [
+    "iconix",
+    "alarm-clock-off-slash",
+    "alarm",
+    "clock",
+    "off",
+    "slash",
+    "time",
+    "timer",
+    "wake",
+    "watch",
+    "alert",
+    "bell",
+    "morning",
+    "schedule",
+    "disabled",
+    "clear",
+    "cancel",
+    "strip",
+    "garis-miring",
+    "nonaktif",
+    "batal",
+    "mati",
+    "inactive",
+    "turn-off"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18.7083 19C17.0604 20.8412 14.6655 22 12 22C7.02944 22 3 17.9706 3 13C3 10.3345 4.15875 7.93964 6 6.29168M9.03451 4.5C9.96308 4.17607 10.961 4 12 4C16.9706 4 21 8.02944 21 13C21 14.0519 20.8195 15.0617 20.4879 16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.2929 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 5.5L3.5 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 5.5L18.5 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

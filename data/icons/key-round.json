@@ -10,20 +10,17 @@
     "access",
     "secret",
     "password",
-    "credential",
-    "security",
-    "unlock",
-    "kunci",
-    "circle",
-    "circular",
     "passkey",
     "passcode",
     "pin",
+    "credential",
     "token",
+    "security",
     "auth",
     "authentication",
     "login",
     "signin",
+    "unlock",
     "permission",
     "license",
     "encryption",
@@ -31,7 +28,10 @@
     "api-key",
     "kata-sandi",
     "sandi",
-    "akses"
+    "kunci",
+    "akses",
+    "circle",
+    "circular"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.7575 11.7279L3.62573 19.8596M8.57548 14.9099L10.6968 17.0312M7.51482 21.6274L9.63614 19.506L7.51482 17.3847C7.1243 16.9942 6.49113 16.9942 6.10061 17.3847L5.3935 18.0918C5.00298 18.4824 5.00298 19.1155 5.3935 19.506L7.51482 21.6274Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M11.7574 3.24263C9.41421 5.58577 9.41421 9.38476 11.7574 11.7279C14.1005 14.0711 17.8995 14.0711 20.2426 11.7279C22.5858 9.38476 22.5858 5.58577 20.2426 3.24263C17.8995 0.899481 14.1005 0.899481 11.7574 3.24263Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.7574 11.7279L3.62567 19.8596M8.57542 14.9099L10.6967 17.0312M7.51476 21.6274L9.63608 19.506L7.51476 17.3847C7.12423 16.9942 6.49107 16.9942 6.10055 17.3847L5.39344 18.0918C5.00291 18.4824 5.00291 19.1155 5.39344 19.506L7.51476 21.6274Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M11.7574 3.24263C9.41421 5.58577 9.41421 9.38476 11.7574 11.7279C14.1005 14.0711 17.8995 14.0711 20.2426 11.7279C22.5858 9.38476 22.5858 5.58577 20.2426 3.24263C17.8995 0.899481 14.1005 0.899481 11.7574 3.24263Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

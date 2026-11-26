@@ -1,0 +1,22 @@
+{
+  "name": "plug-round",
+  "category": "Devices & Tech",
+  "tags": [
+    "iconix",
+    "plug-round",
+    "plug",
+    "round",
+    "power",
+    "cable",
+    "connect",
+    "connection",
+    "electric",
+    "energy",
+    "socket",
+    "colokan",
+    "listrik",
+    "circle",
+    "circular"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 6.5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 22L12 19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M15 6.5V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 18C8.13401 18 5 14.866 5 11V8C5 7.44771 5.44772 7 6 7H18C18.5523 7 19 7.44772 19 8V11C19 14.866 15.866 18 12 18Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4 7H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

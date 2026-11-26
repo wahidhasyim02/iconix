@@ -65,7 +65,7 @@
           </span>
         </div>
         <div
-          class="border-t border-l border-slate-200 dark:border-[#1A202A] rounded-sm  bg-white dark:bg-[#090B0E] shadow-2xs"
+          class="border-t border-l border-slate-200 dark:border-[#1A202A] rounded-xl  bg-white dark:bg-[#090B0E] shadow-2xs"
         >
           <div :class="['grid gap-0', currentZoom.colsClass]">
             <div

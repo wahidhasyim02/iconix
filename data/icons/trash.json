@@ -4,14 +4,14 @@
   "tags": [
     "iconix",
     "trash",
-    "bin",
     "delete",
     "remove",
+    "bin",
     "garbage",
-    "recycle",
     "rubbish",
     "waste",
-    "clear"
+    "clear",
+    "recycle"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4 6L4.76559 18.2495C4.89735 20.3577 6.64555 22 8.7578 22H15.2422C17.3544 22 19.1026 20.3577 19.2344 18.2495L20 6H4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.375 18L9 12M15 12L14.625 18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2 6H22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M15.5 5V4C15.5 2.89543 14.6046 2 13.5 2H10.5C9.39543 2 8.5 2.89543 8.5 4V5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

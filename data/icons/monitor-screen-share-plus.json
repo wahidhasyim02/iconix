@@ -29,5 +29,5 @@
     "airplay",
     "bagikan-layar"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 21H18M12 19V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 11.5V15C22 16.6569 20.6569 18 19 18H5C3.34315 18 2 16.6569 2 15V6C2 4.34315 3.34315 3 5 3H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19.5015 8.79667V5.50156M19.5015 5.50156V2.20644M19.5015 5.50156H16.2064M19.5015 5.50156H22.7967\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 21H18M12 19V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 11.5V15C22 16.6569 20.6569 18 19 18H5C3.34315 18 2 16.6569 2 15V6C2 4.34315 3.34315 3 5 3H13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19.5015 8.79669V5.50157M19.5015 5.50157V2.20645M19.5015 5.50157H16.2064M19.5015 5.50157H22.7967\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

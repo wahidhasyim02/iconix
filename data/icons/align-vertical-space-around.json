@@ -3,13 +3,11 @@
   "category": "Alignment",
   "tags": [
     "iconix",
-    "alignment",
+    "align-vertical-space-around",
     "align",
     "vertical",
     "space",
-    "around",
-    "layout",
-    "align-vertical-space-around"
+    "around"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M7 13V11C7 9.89543 7.89543 9 9 9H15C16.1046 9 17 9.89543 17 11V13C17 14.1046 16.1046 15 15 15H9C7.89543 15 7 14.1046 7 13Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M22 4L2 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 20L2 20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

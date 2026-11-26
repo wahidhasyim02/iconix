@@ -3,20 +3,16 @@
   "category": "Devices & Tech",
   "tags": [
     "iconix",
-    "devices & tech",
+    "monitor-speaker",
     "monitor",
     "speaker",
-    "audio",
-    "sound",
-    "multimedia",
-    "workstation",
-    "monitor-speaker",
     "screen",
     "display",
     "desktop",
     "computer",
     "pc",
-    "hardware"
+    "hardware",
+    "workstation"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 18H5C3.34315 18 2 16.6569 2 15V6C2 4.34315 3.34315 3 5 3H19C20.0435 3 20.9625 3.53275 21.5 4.3411\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21H10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 9V20C22 21.1046 21.1046 22 20 22H15C13.8954 22 13 21.1046 13 20V9C13 7.89543 13.8954 7 15 7H20C21.1046 7 22 7.89543 22 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<ellipse cx=\"17.5\" cy=\"17.125\" rx=\"1.875\" ry=\"1.875\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<ellipse cx=\"17.5\" cy=\"11.5\" rx=\"0.75\" ry=\"0.75\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

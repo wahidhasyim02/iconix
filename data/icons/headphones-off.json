@@ -6,15 +6,6 @@
     "headphones-off",
     "headphones",
     "off",
-    "slash",
-    "disabled",
-    "turn-off",
-    "inactive",
-    "mute",
-    "mati",
-    "nonaktif",
-    "garis-miring",
-    "strip",
     "headset",
     "audio",
     "music",
@@ -23,7 +14,16 @@
     "listen",
     "headphone",
     "musik",
-    "dengar"
+    "dengar",
+    "slash",
+    "disabled",
+    "turn-off",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 14V17C3 19.2091 4.79086 21 7 21C7.55228 21 8 20.5523 8 20V14C8 13.4477 7.55228 13 7 13H5.94427C5.32329 13 4.71084 13.1446 4.15542 13.4223L3 14ZM3 14V8C3 6.95149 3.32274 5.97836 3.8743 5.17453M2 15V17M21 14V8C21 5.23858 18.7614 3 16 3H8C7.76361 3 7.53105 3.0164 7.3034 3.04814M21 14L19.8446 13.4223C19.2892 13.1446 18.6767 13 18.0557 13M21 14V16M22 15V16M16 17.3002V20C16 20.5523 16.4477 21 17 21C17.7715 21 18.492 20.7816 19.103 20.4032\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.2928 21.6152L2.29285 2.61523\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

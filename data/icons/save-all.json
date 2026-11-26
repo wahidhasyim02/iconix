@@ -3,14 +3,11 @@
   "category": "Files & Folders",
   "tags": [
     "iconix",
-    "files & folders",
     "save-all",
     "save",
+    "all",
     "disk",
     "floppy",
-    "document",
-    "batch",
-    "all",
     "storage",
     "store",
     "download",
@@ -18,5 +15,5 @@
     "backup",
     "file"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 4L2 19C2 20.6569 3.34315 22 5 22H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M22 8.79814V15C22 16.6569 20.6569 18 19 18H9C7.34315 18 6 16.6569 6 15L6 5C6 3.34315 7.34315 2 9 2L16.0784 2C17.0098 2 17.8883 2.43261 18.4562 3.17087L21.3779 6.96901C21.7813 7.49344 22 8.13651 22 8.79814Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.10999 16.8903V13.6666C9.10999 12.5621 10.0054 11.6666 11.11 11.6666H16.89C17.9946 11.6666 18.89 12.5621 18.89 13.6667V16.8903M9.55555 5.55554H14.8889\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 4L2 19C2 20.6569 3.34315 22 5 22H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M22 8.79814V15C22 16.6569 20.6569 18 19 18H9C7.34315 18 6 16.6569 6 15L6 5C6 3.34315 7.34315 2 9 2L16.0784 2C17.0098 2 17.8883 2.43261 18.4562 3.17087L21.3779 6.96901C21.7813 7.49344 22 8.13651 22 8.79814Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.10986 16.8903V13.6666C9.10986 12.5621 10.0053 11.6666 11.1099 11.6666H16.8899C17.9944 11.6666 18.8899 12.5621 18.8899 13.6667V16.8903M9.55543 5.55554H14.8888\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

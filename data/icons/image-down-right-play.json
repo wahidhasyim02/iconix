@@ -1,0 +1,25 @@
+{
+  "name": "image-down-right-play",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "image-down-right-play",
+    "image",
+    "down",
+    "right",
+    "play",
+    "photo",
+    "picture",
+    "graphic",
+    "gallery",
+    "media",
+    "thumbnail",
+    "foto",
+    "gambar",
+    "start",
+    "resume",
+    "video",
+    "player"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 8V17C3 19.2091 4.79086 21 7 21H12M21 14V7C21 4.79086 19.2091 3 17 3H7C4.79086 3 3 4.79086 3 7V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 21L14.8958 12.1042C15.5448 11.4552 16.5521 11.3312 17.339 11.8034L21 14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 9C7 10.1046 7.89543 11 9 11C10.1046 11 11 10.1046 11 9C11 7.89543 10.1046 7 9 7C7.89543 7 7 7.89543 7 9Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 17.6554V20.3446C16 21.7065 17.5257 22.4837 18.5944 21.6662L20.352 20.3216C21.216 19.6606 21.216 18.3394 20.352 17.6784L18.5944 16.3338C17.5257 15.5163 16 16.2935 16 17.6554Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

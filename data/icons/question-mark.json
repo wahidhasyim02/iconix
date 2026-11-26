@@ -10,11 +10,11 @@
     "faq",
     "ask",
     "query",
-    "bantuan",
-    "tanya",
     "support",
     "info",
-    "tanda-tanya"
+    "tanda-tanya",
+    "bantuan",
+    "tanya"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M8 8.11429V7.56298C8 7.02329 8.1226 6.49065 8.35855 6.00527C8.95484 4.77861 10.1991 4 11.563 4H12C14.2091 4 16 5.79086 16 8V8.30716C16 9.85698 15.0848 11.2606 13.6667 11.8857L12.5882 12.3611C11.8255 12.6973 11.3333 13.4522 11.3333 14.2857M11.3333 19.68V20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

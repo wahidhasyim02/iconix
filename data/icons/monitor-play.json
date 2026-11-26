@@ -3,13 +3,10 @@
   "category": "Devices & Tech",
   "tags": [
     "iconix",
-    "devices & tech",
+    "monitor-play",
     "monitor",
     "play",
     "screen",
-    "video",
-    "player",
-    "monitor-play",
     "display",
     "desktop",
     "computer",
@@ -17,7 +14,9 @@
     "hardware",
     "workstation",
     "start",
-    "resume"
+    "resume",
+    "video",
+    "player"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M6 21H18M12 19V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 6V15C22 16.6569 20.6569 18 19 18H5C3.34315 18 2 16.6569 2 15V6C2 4.34315 3.34315 3 5 3H19C20.6569 3 22 4.34315 22 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.5 8.87261V12.1274C9.5 13.7758 11.3822 14.7165 12.7006 13.727L14.8688 12.0996C15.9347 11.2995 15.9347 9.70045 14.8688 8.90043L12.7006 7.27304C11.3822 6.28352 9.5 7.22419 9.5 8.87261Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

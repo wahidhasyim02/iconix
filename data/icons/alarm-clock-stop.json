@@ -3,14 +3,12 @@
   "category": "Time & Alarms",
   "tags": [
     "iconix",
-    "time & alarms",
+    "alarm-clock-stop",
     "alarm",
     "clock",
     "stop",
-    "square",
-    "timer",
-    "alarm-clock-stop",
     "time",
+    "timer",
     "wake",
     "watch",
     "alert",
@@ -18,7 +16,8 @@
     "morning",
     "schedule",
     "halt",
-    "end"
+    "end",
+    "square"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"13\" r=\"9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2 5.5L5.5 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 5.5L18.5 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"8\" y=\"9\" width=\"8\" height=\"8\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -5,17 +5,7 @@
     "iconix",
     "circle-user",
     "circle",
-    "user",
-    "person",
-    "account",
-    "profile",
-    "member",
-    "avatar",
-    "human",
-    "people",
-    "individual",
-    "pengguna",
-    "akun"
+    "user"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17 20.4375V18.4375C17 16.7806 15.6569 15.4375 14 15.4375H10C8.34315 15.4375 7 16.7806 7 18.4375V20.4375M9.5 10.0625C9.5 11.4432 10.6193 12.5625 12 12.5625C13.3807 12.5625 14.5 11.4432 14.5 10.0625C14.5 8.68179 13.3807 7.5625 12 7.5625C10.6193 7.5625 9.5 8.68179 9.5 10.0625Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

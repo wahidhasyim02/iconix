@@ -1,0 +1,24 @@
+{
+  "name": "airlines-strip",
+  "category": "Objects & Geometry",
+  "tags": [
+    "iconix",
+    "airlines-strip",
+    "airlines",
+    "strip",
+    "airline",
+    "airplane",
+    "plane",
+    "flight",
+    "travel",
+    "aviation",
+    "wings",
+    "maskapai",
+    "pesawat",
+    "terbang",
+    "penerbangan",
+    "bandara",
+    "sayap"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19.2229 16.0001V19.0002C19.2229 20.1047 18.3275 21.0002 17.2229 21.0002H5.16362C3.69459 21.0002 2.72685 19.4694 3.35694 18.1423L10.0044 4.14216C10.3356 3.44457 11.0389 3 11.8111 3H17.2229C18.3275 3 19.2229 3.89543 19.2229 5V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19.9648 9.36429L20.9549 13.9753C21.0711 14.5168 20.7252 15.0497 20.1832 15.1638L10.5079 17.2014C10.2225 17.2615 9.93086 17.1306 9.78615 16.8773C9.62641 16.5978 9.68746 16.2442 9.9317 16.0344L18.3355 8.81565C18.9109 8.32138 19.8056 8.62264 19.9648 9.36429Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

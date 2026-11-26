@@ -16,9 +16,9 @@
     "petak",
     "spreadsheet",
     "baris-kolom",
+    "widget",
     "4-cells",
-    "empat-kotak",
-    "widget"
+    "empat-kotak"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 21H18C19.6569 21 21 19.6569 21 18V12M12 21V12M12 21H6C4.34315 21 3 19.6569 3 18V12M21 12H12M21 12V6C21 4.34315 19.6569 3 18 3H12M12 12V3M12 12H3M12 3H6C4.34315 3 3 4.34315 3 6V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.2001 12H12M12 12V3.79999M12 12H3.80005M12 12V20.2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

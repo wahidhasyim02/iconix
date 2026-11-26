@@ -1,0 +1,15 @@
+{
+  "name": "letter-b",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "letter-b",
+    "letter",
+    "b",
+    "alphabet",
+    "character",
+    "typography",
+    "text"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 10.4H6M14 10.4C15.9529 11.9183 17.2 12.8 17.2 15.2C17.2 16.535 17.1148 17.4291 16.8112 18.205C16.3048 19.4989 14.8106 20 13.4212 20H7C6.44772 20 6 19.5523 6 19V10.4M14 10.4C15.0366 9.13761 15.6 8.8 15.6 7.2C15.6 6.38176 15.4287 5.75202 15.1348 5.23558C14.593 4.28309 13.4064 4 12.3106 4H7C6.44772 4 6 4.44772 6 5V10.4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

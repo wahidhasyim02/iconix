@@ -3,21 +3,19 @@
   "category": "Emergency & Alerts",
   "tags": [
     "iconix",
+    "bell-dot",
     "bell",
     "dot",
     "notification",
     "alert",
-    "unread",
-    "active",
-    "badge",
-    "bell-dot",
     "alarm",
     "reminder",
     "chime",
     "ring",
     "status",
     "indicator",
-    "online"
+    "online",
+    "badge"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18.914 13.1756L19.3867 14.0423C20.1137 15.375 19.149 17 17.6309 17H5.70344C4.48526 17 3.71122 15.6961 4.29455 14.6267C5.42493 12.5543 6.34262 10.3319 6.51182 7.97732C6.53921 7.59612 6.55439 7.22332 6.55736 6.85205C6.57755 4.32335 8.36447 2 10.8932 2H11H11.6386C12.8773 2 14.2894 1.85851 15.1923 2.70642\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M10 20C10 21.1046 10.8954 22 12 22C13.1046 22 14 21.1046 14 20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"19\" cy=\"7\" r=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
 }

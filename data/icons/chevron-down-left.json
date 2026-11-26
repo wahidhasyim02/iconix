@@ -1,0 +1,23 @@
+{
+  "name": "chevron-down-left",
+  "category": "Navigation",
+  "tags": [
+    "iconix",
+    "chevron-down-left",
+    "chevron",
+    "down",
+    "left",
+    "kiri",
+    "barat",
+    "kembali",
+    "mundur",
+    "undo",
+    "down-left",
+    "southwest",
+    "diagonal",
+    "bawah-kiri",
+    "serong-bawah-kiri",
+    "panah-serong"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16 16.4853H7.51472V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

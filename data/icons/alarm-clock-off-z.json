@@ -1,0 +1,29 @@
+{
+  "name": "alarm-clock-off-z",
+  "category": "Time & Alarms",
+  "tags": [
+    "iconix",
+    "alarm-clock-off-z",
+    "alarm",
+    "clock",
+    "off",
+    "z",
+    "time",
+    "timer",
+    "wake",
+    "watch",
+    "alert",
+    "bell",
+    "morning",
+    "schedule",
+    "slash",
+    "disabled",
+    "turn-off",
+    "nonaktif",
+    "mati",
+    "inactive",
+    "garis-miring",
+    "strip"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"13\" r=\"9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9.17157 15.8284L12 13M12 13L14.8284 10.1716M12 13L9.17157 10.1716M12 13L14.8284 15.8284\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 5.5L5.5 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 5.5L18.5 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

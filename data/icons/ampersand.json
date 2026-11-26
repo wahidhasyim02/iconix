@@ -3,7 +3,6 @@
   "category": "Typography",
   "tags": [
     "iconix",
-    "typography",
     "ampersand"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M17.9121 13.0434C17.3674 15.6942 12.5218 21.2142 8.34405 21.0212C5.86441 20.9067 4.0256 18.3159 4.00024 15.8337C3.94183 10.1169 14.5597 9.57421 14.7802 5.93126C14.7802 1.98957 8.43843 2.07 7.28395 5.89016C6.63945 8.02282 7.92985 10.2335 9.38843 11.9176C12.5576 15.5768 17.17 17.9521 20 20.1555\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
