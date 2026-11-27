@@ -1,6 +1,6 @@
 {
   "name": "sticky-notes",
-  "category": "Files & Folders",
+  "category": "General UI",
   "tags": [
     "iconix",
     "sticky-notes",
@@ -9,7 +9,8 @@
     "memo",
     "catatan-banyak",
     "kumpulan-catatan",
-    "pengingat"
+    "pengingat",
+    "sticky"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20.4445 7.44444H17.3334C16.4743 7.44444 15.7778 6.748 15.7778 5.88889V3.55556M8.82593 3C9.39429 2.38506 10.2078 2 11.1112 2H14.6089C15.3625 2 16.0904 2.27352 16.6576 2.76976L20.9376 6.51482C21.6128 7.10558 22.0001 7.95904 22.0001 8.85617V12.8889C22.0001 13.7923 21.615 14.6058 21.0001 15.1741\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14.4444 13.4444H11.3333C10.4742 13.4444 9.77778 12.748 9.77778 11.8889V9.55556M12.8889 22H5.11111C3.39289 22 2 20.6071 2 18.8889V11.1111C2 9.39289 3.39289 8 5.11111 8H8.60882C9.36241 8 10.0904 8.27352 10.6575 8.76976L14.9376 12.5148C15.6127 13.1056 16 13.959 16 14.8562V18.8889C16 20.6071 14.6071 22 12.8889 22Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

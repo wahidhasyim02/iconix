@@ -206,6 +206,12 @@ useHead({
       content:
         'Dark-mode SVG icon browser supporting Linear, Solid, Dualtone, and Dualtone Linear styles with live stroke, opacity, color, zoom, and instant SVG/PNG export.',
     },
+    { property: 'og:image', content: '/og-iconix.png' },
+    { property: 'og:image:width', content: '1200' },
+    { property: 'og:image:height', content: '630' },
+    { property: 'og:image:alt', content: 'Iconix — Modern SVG Icon Studio' },
+    { name: 'twitter:card', content: 'summary_large_image' },
+    { name: 'twitter:image', content: '/og-iconix.png' },
   ],
   link: [
     { rel: 'preconnect', href: 'https://fonts.googleapis.com' },

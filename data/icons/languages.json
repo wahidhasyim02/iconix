@@ -1,0 +1,24 @@
+{
+  "name": "languages",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "languages",
+    "language",
+    "translate",
+    "translation",
+    "terjemahan",
+    "bahasa",
+    "locale",
+    "i18n",
+    "multilingual",
+    "communication",
+    "komunikasi",
+    "global",
+    "international",
+    "kamus",
+    "alfabet",
+    "huruf"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20.6693 19.0429L17.5 12L14.3307 19.0429M20.6693 19.0429L22 22M20.6693 19.0429H14.3307M13 22L14.3307 19.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 5H12M12 5H14M12 5C10.6795 7.59208 9.53685 9.41118 8.09038 11.0904M8.09038 11.0904C6.97908 12.3805 5.68844 13.588 4 15M8.09038 11.0904L5 8M8.09038 11.0904L12 15M6.76 2H8.25\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

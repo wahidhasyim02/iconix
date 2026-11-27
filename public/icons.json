@@ -7369,7 +7369,7 @@
     },
     {
       "name": "copy",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "copy",
@@ -7386,7 +7386,7 @@
     },
     {
       "name": "copy-check",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "copy-check",
@@ -7398,13 +7398,23 @@
         "salin",
         "sukses",
         "centang",
-        "berhasil"
+        "berhasil",
+        "verified",
+        "approved",
+        "ok",
+        "completed",
+        "tick",
+        "confirm",
+        "selesai",
+        "benar",
+        "setuju",
+        "checklist"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"8\" y=\"8\" width=\"14\" height=\"14\" rx=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4 16C2.89543 16 2 15.1046 2 14V5C2 3.34315 3.34315 2 5 2H14C15.1046 2 16 2.89543 16 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 13L14.1176 17L12 14.8182\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "copy-minus",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "copy-minus",
@@ -7414,13 +7424,16 @@
         "delete",
         "salin",
         "kurang",
-        "hapus"
+        "hapus",
+        "exclude",
+        "reduce",
+        "less"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"8\" y=\"8\" width=\"14\" height=\"14\" rx=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4 16C2.89543 16 2 15.1046 2 14V5C2 3.34315 3.34315 2 5 2H14C15.1046 2 16 2.89543 16 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18.1213 15.1213H15.1213H12.1213\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "copy-plus",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "copy-plus",
@@ -7430,13 +7443,17 @@
         "create",
         "salin",
         "tambah",
-        "baru"
+        "baru",
+        "new",
+        "insert",
+        "more",
+        "buat"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"8\" y=\"8\" width=\"14\" height=\"14\" rx=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4 16C2.89543 16 2 15.1046 2 14V5C2 3.34315 3.34315 2 5 2H14C15.1046 2 16 2.89543 16 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18.1213 15.1213H15.1213M15.1213 15.1213H12.1213M15.1213 15.1213V18.1213M15.1213 15.1213V12.1213\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "copy-slash",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "copy-slash",
@@ -7447,13 +7464,20 @@
         "off",
         "salin",
         "batal",
-        "nonaktif"
+        "nonaktif",
+        "disabled",
+        "clear",
+        "cancel",
+        "strip",
+        "garis-miring",
+        "mati",
+        "inactive"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"8\" y=\"8\" width=\"14\" height=\"14\" rx=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4 16C2.89543 16 2 15.1046 2 14V5C2 3.34315 3.34315 2 5 2H14C15.1046 2 16 2.89543 16 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M11.7573 18.2426L13.8786 16.1213L18 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "copy-x",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "copy-x",
@@ -7464,7 +7488,14 @@
         "remove",
         "salin",
         "batal",
-        "silang"
+        "silang",
+        "error",
+        "dismiss",
+        "reject",
+        "delete",
+        "clear",
+        "tutup",
+        "hapus"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"8\" y=\"8\" width=\"14\" height=\"14\" rx=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4 16C2.89543 16 2 15.1046 2 14V5C2 3.34315 3.34315 2 5 2H14C15.1046 2 16 2.89543 16 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17.2426 17.2426L15.1213 15.1213M15.1213 15.1213L13 13M15.1213 15.1213L13 17.2426M15.1213 15.1213L17.2426 13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -7939,7 +7970,7 @@
     },
     {
       "name": "disc",
-      "category": "Media & Audio",
+      "category": "General UI",
       "tags": [
         "iconix",
         "disc",
@@ -7956,7 +7987,7 @@
     },
     {
       "name": "disc-album",
-      "category": "Media & Audio",
+      "category": "General UI",
       "tags": [
         "iconix",
         "disc-album",
@@ -7974,7 +8005,7 @@
     },
     {
       "name": "disc-dot",
-      "category": "Media & Audio",
+      "category": "General UI",
       "tags": [
         "iconix",
         "disc-dot",
@@ -7986,13 +8017,17 @@
         "music",
         "piringan",
         "titik",
-        "musik"
+        "musik",
+        "status",
+        "indicator",
+        "online",
+        "badge"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"12\" cy=\"12\" r=\"4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12.1001 12H12.0001\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "disc-vinyl",
-      "category": "Media & Audio",
+      "category": "General UI",
       "tags": [
         "iconix",
         "disc-vinyl",
@@ -9956,7 +9991,14 @@
         "penanda",
         "favorit",
         "simpan",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 7.5V14.2477C19 14.6994 18.4486 14.9196 18.1375 14.5921L16.725 13.1053C16.3307 12.6903 15.6693 12.6903 15.275 13.1053L13.8625 14.5921C13.5514 14.9196 13 14.6994 13 14.2477V7.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10025,7 +10067,20 @@
         "developer",
         "kode",
         "pemrograman",
-        "proyek"
+        "proyek",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "coding",
+        "html",
+        "bracket",
+        "syntax",
+        "script",
+        "source"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M10 17L7 14L10 11M14 17L17 14L14 11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10042,7 +10097,16 @@
         "titik",
         "penanda",
         "aktif",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "online",
+        "badge"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 13.6V13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10059,7 +10123,17 @@
         "unduh",
         "turun",
         "panah-bawah",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "inbound",
+        "receive",
+        "bawah"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9 14.3181L12 17.5L15 14.3181M12 17.5V10.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10076,7 +10150,14 @@
         "repository",
         "repo",
         "versi",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M14 14H18M14 14C14 15.1046 13.1046 16 12 16C10.8954 16 10 15.1046 10 14M14 14C14 12.8954 13.1046 12 12 12C10.8954 12 10 12.8954 10 14M10 14H6\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10112,7 +10193,14 @@
         "masuk",
         "impor",
         "panah-masuk",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V17C22 19.2091 20.2091 21 18 21H4.5C3.11929 21 2 19.8807 2 18.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M10.0856 12.4069L12.6569 14.9781L10.0856 17.5494M12.6569 14.9781L7 14.9781H2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10130,7 +10218,14 @@
         "tugas",
         "papan",
         "proyek",
-        "manajemen"
+        "manajemen",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16 17.5V11.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M12 13.5V11.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 15.5V11.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10216,7 +10311,14 @@
         "keluar",
         "ekspor",
         "panah-keluar",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V17C22 19.2091 20.2091 21 18 21H4.5C3.11929 21 2 19.8807 2 18.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M4.5713 12.4069L2.00001 14.9781L4.5713 17.5494M2.00001 14.9781L7.65686 14.9781H12.6569\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10234,7 +10336,18 @@
         "ubah",
         "tulis",
         "pena",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "draw",
+        "sketch",
+        "design",
+        "edit-user"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2 21L4.10705 20.2729C5.00336 19.9636 5.78715 19.3789 6.35403 18.5965L9.62829 14.0772C10.2305 13.2463 10.0862 12.0705 9.30258 11.4215C8.48361 10.7433 7.28505 10.9008 6.6557 11.7694L3.2601 16.4561C2.81363 17.0723 2.51672 17.7907 2.39433 18.5504L2 21Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10278,7 +10391,16 @@
         "waktu",
         "jam",
         "riwayat",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M17 14.5V17L18.25 17.8333M22 17C22 19.7614 19.7614 22 17 22C14.2386 22 12 19.7614 12 17C12 14.2386 14.2386 12 17 12C19.7614 12 22 14.2386 22 17Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10295,7 +10417,22 @@
         "config",
         "pengaturan",
         "konfigurasi",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "settings",
+        "configuration",
+        "preferences",
+        "options",
+        "setup",
+        "setelan"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.0001 18C21.0001 19.6569 19.6569 21 18.0001 21M21.0001 18C21.0001 16.3431 19.6569 15 18.0001 15M21.0001 18L22 18M18.0001 21C16.3432 21 15.0001 19.6569 15.0001 18M18.0001 21L18.0001 22M15.0001 18C15.0001 16.3431 16.3432 15 18.0001 15M15.0001 18L14 18M18.0001 15L18.0001 14M15.8787 15.8787L15.1716 15.1715M20.8285 15.1716L20.1213 15.8787M20.8284 20.8284L20.1213 20.1213M15.8787 20.1213L15.1716 20.8285\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10312,7 +10449,16 @@
         "suka",
         "favorit",
         "cinta",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.5084 14.8851C20.9164 14.1025 19.5746 13.9782 18.8042 14.586C18.7018 14.6668 18.6031 14.7581 18.5053 14.8625C18.2341 15.1521 17.758 15.1576 17.484 14.8706C17.3603 14.7411 17.2363 14.6318 17.1069 14.5376C16.3751 14.0047 15.0838 14.2424 14.5524 14.9754C13.5738 16.3253 14.2851 18.112 15.2705 19.457C15.7669 20.1346 16.3216 20.6917 17.0374 21.271C17.5951 21.7223 18.395 21.709 18.9525 21.2574C19.6904 20.6597 20.2739 20.1118 20.7746 19.4538C21.7846 18.1264 22.5145 16.2154 21.5084 14.8851Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10329,7 +10475,23 @@
         "kunci",
         "keamanan",
         "akses",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "secret",
+        "password",
+        "passkey",
+        "credential",
+        "auth",
+        "token",
+        "sandi"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M18.7806 12.4817H17.4635C17.2076 12.4817 17.0001 12.6892 17.0001 12.9451M17.0001 12.9451V13.4085M17.0001 12.9451V11.25M17.0001 13.4085C17.0001 13.6645 17.2076 13.872 17.4635 13.872H18.2806M17.0001 13.4085V17.189M17.0001 17.189C15.4645 17.189 14.2195 18.4339 14.2195 19.9695C14.2195 21.5051 15.4644 22.75 17 22.75C18.5356 22.75 19.7805 21.5051 19.7805 19.9695C19.7805 18.4339 18.5357 17.189 17.0001 17.189Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10346,7 +10508,20 @@
         "terkunci",
         "privat",
         "keamanan",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "security",
+        "protect",
+        "kunci",
+        "gembok"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<rect x=\"13\" y=\"16.5\" width=\"8\" height=\"5\" rx=\"1\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19 16.5V14.5C19 13.3954 18.1046 12.5 17 12.5C15.8954 12.5 15 13.3954 15 14.5V16.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10363,7 +10538,18 @@
         "cari",
         "temukan",
         "pencarian",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "query",
+        "lookup"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.8838 20.0364L21.8474 21M21.6468 17.7471C21.6468 19.2643 20.4169 20.4943 18.8997 20.4943C17.3825 20.4943 16.1526 19.2643 16.1526 17.7471C16.1526 16.2299 17.3825 15 18.8997 15C20.4169 15 21.6468 16.2299 21.6468 17.7471Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10380,7 +10566,16 @@
         "sinkron",
         "perbarui",
         "sinkronisasi",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 17C12 19.7614 14.2386 22 17 22C18.6357 22 20.0878 21.2143 21 20M22 17C22 14.2386 19.7614 12 17 12C15.3642 12 13.9118 12.7856 12.9996 14M15 14H12.9996L13 12M19 20H21V22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10397,7 +10592,16 @@
         "pengguna",
         "profil",
         "pribadi",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.0001 19.5006C20.0001 18.3578 19.0737 17.4315 17.931 17.4315H15.1722C14.0294 17.4315 13.103 18.3578 13.103 19.5006C13.103 20.2624 13.7206 20.88 14.4824 20.88H18.6207C19.3825 20.88 20.0001 20.2624 20.0001 19.5006ZM14.8273 12.7243C14.8273 13.6766 15.5993 14.4485 16.5516 14.4485C17.5039 14.4485 18.2758 13.6766 18.2758 12.7243C18.2758 11.772 17.5039 11 16.5516 11C15.5993 11 14.8273 11.772 14.8273 12.7243Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10414,7 +10618,16 @@
         "tim",
         "bersama",
         "kelompok",
-        "berkas"
+        "berkas",
+        "right",
+        "down",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 21C3.34315 21 2 19.6569 2 18V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16.0001 19.5006C16.0001 18.3578 15.0737 17.4315 13.931 17.4315H11.1722C10.0294 17.4315 9.10303 18.3578 9.10303 19.5006C9.10303 20.2624 9.72061 20.88 10.4824 20.88H14.6207C15.3825 20.88 16.0001 20.2624 16.0001 19.5006ZM10.8273 12.7243C10.8273 13.6766 11.5993 14.4485 12.5516 14.4485C13.5039 14.4485 14.2758 13.6766 14.2758 12.7243C14.2758 11.772 13.5039 11 12.5516 11C11.5993 11 10.8273 11.772 10.8273 12.7243Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.0001 20.88V19.5006C20.0001 18.3578 19.0737 17.4315 17.931 17.4315M16.5516 11C17.5039 11 18.2758 11.772 18.2758 12.7243C18.2758 13.1125 18.1475 13.4708 17.931 13.759\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10432,7 +10645,14 @@
         "akar",
         "utama",
         "sistem",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 16V20M12 16C10.8954 16 10 15.1046 10 14C10 12.8954 10.8954 12 12 12C13.1046 12 14 12.8954 14 14C14 15.1046 13.1046 16 12 16Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10448,7 +10668,17 @@
         "cari",
         "telusuri",
         "pencarian",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "query",
+        "explore",
+        "lookup"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13.8838 16.0364L14.8474 17M14.6468 13.7471C14.6468 15.2643 13.4169 16.4942 11.8997 16.4942C10.3825 16.4942 9.15259 15.2643 9.15259 13.7471C9.15259 12.2299 10.3825 11 11.8997 11C13.4169 11 14.6468 12.2299 14.6468 13.7471Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10466,7 +10696,14 @@
         "tautan",
         "pintas",
         "jalan-pintas",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V17C22 19.2091 20.2091 21 18 21H4.5C3.11929 21 2 19.8807 2 18.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M8.08556 12.4069L10.6569 14.9781L8.08556 17.5494M10.6569 14.9781L5 14.9781C3.34315 14.9781 2 16.3431 2 18\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10483,7 +10720,14 @@
         "hirarki",
         "struktur",
         "pohon",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16.1799 2.76359L15.9851 2.50709C15.7431 2.18851 15.3565 2 14.9451 2H13.2857C12.5756 2 12 2.55103 12 3.23077V8.15385C12 9.17345 12.8635 10 13.9286 10H19.0714C20.1365 10 21 9.17345 21 8.15385V5.00855C21 4.32881 20.4244 3.77778 19.7143 3.77778H18.2598C17.4369 3.77778 16.6637 3.40077 16.1799 2.76359Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M16.1799 14.7636L15.9851 14.5071C15.7431 14.1885 15.3565 14 14.9451 14H13.2857C12.5756 14 12 14.551 12 15.2308V20.1538C12 21.1734 12.8635 22 13.9286 22H19.0714C20.1365 22 21 21.1734 21 20.1538V17.0085C21 16.3288 20.4244 15.7778 19.7143 15.7778H18.2598C17.4369 15.7778 16.6637 15.4008 16.1799 14.7636Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9 18H5C3.34315 18 2 16.6569 2 15V7M2 7H8.6M2 7V2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -10500,7 +10744,17 @@
         "unggah",
         "naik",
         "panah-atas",
-        "berkas"
+        "berkas",
+        "directory",
+        "archive",
+        "storage",
+        "files",
+        "map",
+        "direktori",
+        "arsip",
+        "outbound",
+        "send",
+        "atas"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M9 13.6819L12 10.5L15 13.6819M12 10.5V17.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -13322,6 +13576,30 @@
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 10V1.5M12 7.5H15M16 2V5H13C12.4477 5 12 4.55228 12 4V3C12 2.44772 12.4477 2 13 2H16Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6 16C6 12.6863 8.68629 10 12 10C15.3137 10 18 12.6863 18 16C18 19.3137 15.3137 22 12 22C8.68629 22 6 19.3137 6 16Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
+      "name": "languages",
+      "category": "General UI",
+      "tags": [
+        "iconix",
+        "languages",
+        "language",
+        "translate",
+        "translation",
+        "terjemahan",
+        "bahasa",
+        "locale",
+        "i18n",
+        "multilingual",
+        "communication",
+        "komunikasi",
+        "global",
+        "international",
+        "kamus",
+        "alfabet",
+        "huruf"
+      ],
+      "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20.6693 19.0429L17.5 12L14.3307 19.0429M20.6693 19.0429L22 22M20.6693 19.0429H14.3307M13 22L14.3307 19.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M2 5H12M12 5H14M12 5C10.6795 7.59208 9.53685 9.41118 8.09038 11.0904M8.09038 11.0904C6.97908 12.3805 5.68844 13.588 4 15M8.09038 11.0904L5 8M8.09038 11.0904L12 15M6.76 2H8.25\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+    },
+    {
       "name": "laptop",
       "category": "Devices & Tech",
       "tags": [
@@ -13544,7 +13822,14 @@
         "panel",
         "widget",
         "modul",
-        "atas"
+        "atas",
+        "upload",
+        "outbound",
+        "send",
+        "naik",
+        "arrow-up",
+        "increase",
+        "fast-forward"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.564 6.14305L17.7781 2.92893L20.9922 6.14305M17.7781 2.92893V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
@@ -22040,7 +22325,7 @@
     },
     {
       "name": "sticker",
-      "category": "Design & Tools",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticker",
@@ -22056,7 +22341,7 @@
     },
     {
       "name": "sticky-note",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-note",
@@ -22066,13 +22351,14 @@
         "catatan",
         "memo-tempel",
         "kertas",
-        "pengingat"
+        "pengingat",
+        "sticky"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M21 11.8151V17C21 19.2091 19.2091 21 17 21H7C4.79086 21 3 19.2091 3 17V7C3 4.79086 4.79086 3 7 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 5V8C13 9.10457 13.8954 10 15 10H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-note-check",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-note-check",
@@ -22083,13 +22369,25 @@
         "catatan",
         "selesai",
         "centang",
-        "tugas"
+        "tugas",
+        "sticky",
+        "success",
+        "verified",
+        "approved",
+        "ok",
+        "completed",
+        "tick",
+        "confirm",
+        "benar",
+        "sukses",
+        "setuju",
+        "checklist"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 21H7C4.79086 21 3 19.2091 3 17V7C3 4.79086 4.79086 3 7 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151V13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21 18L17.1176 22L15 19.8182\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-note-exclamation-point",
-      "category": "Files & Folders",
+      "category": "Emergency & Alerts",
       "tags": [
         "iconix",
         "sticky-note-exclamation-point",
@@ -22100,13 +22398,20 @@
         "catatan",
         "penting",
         "peringatan",
-        "tanda-seru"
+        "tanda-seru",
+        "sticky",
+        "exclamation",
+        "point",
+        "caution",
+        "notice",
+        "attention",
+        "mark"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 21H17C19.2091 21 21 19.2091 21 17V14.5V11.8151C21 10.6616 20.5021 9.56432 19.634 8.80477L14.1311 3.98969C13.4019 3.35167 12.466 3 11.4971 3H7C4.79086 3 3 4.79086 3 7L3 15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M8 22.011V22.1M8 13V18.4505\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-note-minus",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-note-minus",
@@ -22115,13 +22420,18 @@
         "remove",
         "catatan",
         "kurang",
-        "hapus"
+        "hapus",
+        "sticky",
+        "delete",
+        "exclude",
+        "reduce",
+        "less"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 21H7C4.79086 21 3 19.2091 3 17V7C3 4.79086 4.79086 3 7 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151V14.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M15 19H18H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-note-off",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-note-off",
@@ -22131,13 +22441,21 @@
         "disable",
         "catatan",
         "nonaktif",
-        "sembunyikan"
+        "sembunyikan",
+        "sticky",
+        "disabled",
+        "turn-off",
+        "inactive",
+        "mute",
+        "mati",
+        "garis-miring",
+        "strip"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M3 3.75V17C3 19.2091 4.79086 21 7 21H20M9 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151V14.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 5V8C13 9.10457 13.8954 10 15 10H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.29296 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-note-plus",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-note-plus",
@@ -22147,13 +22465,19 @@
         "create",
         "catatan",
         "tambah",
-        "buat-catatan"
+        "buat-catatan",
+        "sticky",
+        "new",
+        "insert",
+        "more",
+        "baru",
+        "buat"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 21H7C4.79086 21 3 19.2091 3 17V7C3 4.79086 4.79086 3 7 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151V13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M18 22V19M18 19V16M18 19H15M18 19H21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-note-search",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-note-search",
@@ -22162,13 +22486,17 @@
         "find",
         "catatan",
         "cari",
-        "telusuri"
+        "telusuri",
+        "sticky",
+        "query",
+        "explore",
+        "lookup"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 21H7C4.79086 21 3 19.2091 3 17V7C3 4.79086 4.79086 3 7 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151V13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.7312 21.0364L20.6948 22M20.4943 18.7471C20.4943 20.2643 19.2643 21.4943 17.7471 21.4943C16.2299 21.4943 15 20.2643 15 18.7471C15 17.2299 16.2299 16 17.7471 16C19.2643 16 20.4943 17.2299 20.4943 18.7471Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-note-x",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-note-x",
@@ -22178,13 +22506,22 @@
         "close",
         "catatan",
         "batal",
-        "silang"
+        "silang",
+        "sticky",
+        "error",
+        "dismiss",
+        "reject",
+        "remove",
+        "delete",
+        "clear",
+        "tutup",
+        "hapus"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 21H7C4.79086 21 3 19.2091 3 17V7C3 4.79086 4.79086 3 7 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151V13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21.1213 22.1213L19 20M19 20L16.8786 17.8787M19 20L16.8786 22.1213M19 20L21.1213 17.8787\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },
     {
       "name": "sticky-notes",
-      "category": "Files & Folders",
+      "category": "General UI",
       "tags": [
         "iconix",
         "sticky-notes",
@@ -22193,7 +22530,8 @@
         "memo",
         "catatan-banyak",
         "kumpulan-catatan",
-        "pengingat"
+        "pengingat",
+        "sticky"
       ],
       "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M20.4445 7.44444H17.3334C16.4743 7.44444 15.7778 6.748 15.7778 5.88889V3.55556M8.82593 3C9.39429 2.38506 10.2078 2 11.1112 2H14.6089C15.3625 2 16.0904 2.27352 16.6576 2.76976L20.9376 6.51482C21.6128 7.10558 22.0001 7.95904 22.0001 8.85617V12.8889C22.0001 13.7923 21.615 14.6058 21.0001 15.1741\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M14.4444 13.4444H11.3333C10.4742 13.4444 9.77778 12.748 9.77778 11.8889V9.55556M12.8889 22H5.11111C3.39289 22 2 20.6071 2 18.8889V11.1111C2 9.39289 3.39289 8 5.11111 8H8.60882C9.36241 8 10.0904 8.27352 10.6575 8.76976L14.9376 12.5148C15.6127 13.1056 16 13.959 16 14.8562V18.8889C16 20.6071 14.6071 22 12.8889 22Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
     },

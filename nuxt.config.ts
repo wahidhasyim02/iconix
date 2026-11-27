@@ -39,12 +39,17 @@ export default defineNuxtConfig({
         },
         { property: 'og:type', content: 'website' },
         { property: 'og:url', content: process.env.NUXT_PUBLIC_SITE_URL || '' },
+        { property: 'og:image', content: '/og-iconix.png' },
+        { property: 'og:image:width', content: '1200' },
+        { property: 'og:image:height', content: '630' },
+        { property: 'og:image:alt', content: 'Iconix — Modern SVG Icon Studio' },
         { name: 'twitter:card', content: 'summary_large_image' },
         { name: 'twitter:title', content: 'Iconix — SVG Icon Studio' },
         {
           name: 'twitter:description',
           content: 'Studio icon SVG modern dengan live styling Linear, Solid, Dualtone, dan export.',
         },
+        { name: 'twitter:image', content: '/og-iconix.png' },
       ],
       link: [
         { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },

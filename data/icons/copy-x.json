@@ -1,6 +1,6 @@
 {
   "name": "copy-x",
-  "category": "Files & Folders",
+  "category": "General UI",
   "tags": [
     "iconix",
     "copy-x",
@@ -11,7 +11,14 @@
     "remove",
     "salin",
     "batal",
-    "silang"
+    "silang",
+    "error",
+    "dismiss",
+    "reject",
+    "delete",
+    "clear",
+    "tutup",
+    "hapus"
   ],
   "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"8\" y=\"8\" width=\"14\" height=\"14\" rx=\"3\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M4 16C2.89543 16 2 15.1046 2 14V5C2 3.34315 3.34315 2 5 2H14C15.1046 2 16 2.89543 16 4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M17.2426 17.2426L15.1213 15.1213M15.1213 15.1213L13 13M15.1213 15.1213L13 17.2426M15.1213 15.1213L17.2426 13\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

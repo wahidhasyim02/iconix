@@ -1,6 +1,6 @@
 {
   "prefix": "iconix",
-  "lastModified": 1795783932,
+  "lastModified": 1795788166,
   "width": 24,
   "height": 24,
   "icons": {
@@ -1798,6 +1798,9 @@
     "key-up": {
       "body": "<path d=\"M12 10V1.5M12 7.5H15M16 2V5H13C12.4477 5 12 4.55228 12 4V3C12 2.44772 12.4477 2 13 2H16Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>\n<path d=\"M6 16C6 12.6863 8.68629 10 12 10C15.3137 10 18 12.6863 18 16C18 19.3137 15.3137 22 12 22C8.68629 22 6 19.3137 6 16Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"currentColor\"/>"
     },
+    "languages": {
+      "body": "<path d=\"M20.6693 19.0429L17.5 12L14.3307 19.0429M20.6693 19.0429L22 22M20.6693 19.0429H14.3307M13 22L14.3307 19.0429\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>\n<path d=\"M2 5H12M12 5H14M12 5C10.6795 7.59208 9.53685 9.41118 8.09038 11.0904M8.09038 11.0904C6.97908 12.3805 5.68844 13.588 4 15M8.09038 11.0904L5 8M8.09038 11.0904L12 15M6.76 2H8.25\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
+    },
     "laptop": {
       "body": "<path d=\"M21.5613 20.6838L20.4558 17.3675C20.1836 16.5509 19.4193 16 18.5585 16H5.44152C4.58066 16 3.81638 16.5509 3.54415 17.3675L2.43874 20.6838C2.2229 21.3313 2.70487 22 3.38743 22H20.6126C21.2951 22 21.7771 21.3313 21.5613 20.6838Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"currentColor\"/>\n<path d=\"M20 5V14C20 15.1046 19.1046 16 18 16H6C4.89543 16 4 15.1046 4 14V5C4 3.89543 4.89543 3 6 3H18C19.1046 3 20 3.89543 20 5Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"currentColor\"/>\n<path d=\"M10 19.5L14 19.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"currentColor\"/>"
     },
@@ -3319,7 +3322,7 @@
   },
   "info": {
     "name": "Iconix",
-    "total": 1104,
+    "total": 1105,
     "license": {
       "title": "MIT"
     }
