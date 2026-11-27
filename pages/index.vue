@@ -343,10 +343,19 @@ const savePreferences = () => {
   }
 };
 
+let saveTimer: ReturnType<typeof setTimeout> | null = null;
+const debouncedSavePreferences = () => {
+  if (saveTimer) clearTimeout(saveTimer);
+  saveTimer = setTimeout(() => {
+    savePreferences();
+    saveTimer = null;
+  }, 350);
+};
+
 watch(
   [theme, styleVariant, settings, gridZoom, clickToCopy, groupByCategory, showLabels],
   () => {
-    savePreferences();
+    debouncedSavePreferences();
   },
   { deep: true }
 );

@@ -1,0 +1,17 @@
+{
+  "name": "folder-right-down-key",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "folder-right-down-key",
+    "folder",
+    "key",
+    "security",
+    "access",
+    "kunci",
+    "keamanan",
+    "akses",
+    "berkas"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M10 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M18.7806 12.4817H17.4635C17.2076 12.4817 17.0001 12.6892 17.0001 12.9451M17.0001 12.9451V13.4085M17.0001 12.9451V11.25M17.0001 13.4085C17.0001 13.6645 17.2076 13.872 17.4635 13.872H18.2806M17.0001 13.4085V17.189M17.0001 17.189C15.4645 17.189 14.2195 18.4339 14.2195 19.9695C14.2195 21.5051 15.4644 22.75 17 22.75C18.5356 22.75 19.7805 21.5051 19.7805 19.9695C19.7805 18.4339 18.5357 17.189 17.0001 17.189Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

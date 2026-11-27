@@ -189,15 +189,17 @@ const is404 = computed(() => {
 });
 
 const isDark = ref(true);
-const totalIcons = ref(1002);
+const totalIcons = ref(1104);
 
 onMounted(async () => {
   if (typeof document !== 'undefined') {
     isDark.value = document.documentElement.classList.contains('dark');
   }
   try {
-    const res = await $fetch<unknown[]>('/icons.json');
-    if (Array.isArray(res) && res.length > 0) {
+    const res = await $fetch<any>('/icons.json');
+    if (res && Array.isArray(res.icons) && res.icons.length > 0) {
+      totalIcons.value = res.icons.length;
+    } else if (Array.isArray(res) && res.length > 0) {
       totalIcons.value = res.length;
     }
   } catch {

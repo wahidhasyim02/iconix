@@ -1,0 +1,15 @@
+{
+  "name": "sticky-note-search",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "sticky-note-search",
+    "note",
+    "search",
+    "find",
+    "catatan",
+    "cari",
+    "telusuri"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 21H7C4.79086 21 3 19.2091 3 17V7C3 4.79086 4.79086 3 7 3H11.4971C12.466 3 13.4019 3.35167 14.1311 3.98969L19.634 8.80477C20.5021 9.56432 21 10.6616 21 11.8151V13.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M19.7312 21.0364L20.6948 22M20.4943 18.7471C20.4943 20.2643 19.2643 21.4943 17.7471 21.4943C16.2299 21.4943 15 20.2643 15 18.7471C15 17.2299 16.2299 16 17.7471 16C19.2643 16 20.4943 17.2299 20.4943 18.7471Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

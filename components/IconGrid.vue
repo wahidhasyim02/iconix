@@ -71,7 +71,7 @@
             <div
               v-for="icon in categoryIcons"
               :key="icon.name"
-              class="relative group border-r border-b border-slate-200 dark:border-[#1A202A] transition-colors"
+              class="relative group border-r border-b border-slate-200 dark:border-[#1A202A] transition-colors [content-visibility:auto] [contain-intrinsic-size:96px]"
               :class="[
                 currentZoom.tileHeightClass,
                 selectedIconName === icon.name

@@ -325,19 +325,30 @@ function parseIconShapesFallback(rawSvg: string): { viewBox: string; shapes: Par
     };
   });
 
-  return { viewBox, shapes };
+  const result = { viewBox, shapes };
+  parsedShapesCache.set(rawSvg, result);
+  return result;
 }
 
+const parsedShapesCache = new Map<string, { viewBox: string; shapes: ParsedShape[] }>();
+
 function parseIconShapes(rawSvg: string): { viewBox: string; shapes: ParsedShape[] } {
+  const cached = parsedShapesCache.get(rawSvg);
+  if (cached) return cached;
+
   if (typeof window === 'undefined' || typeof DOMParser === 'undefined') {
-    return parseIconShapesFallback(rawSvg);
+    const fallbackRes = parseIconShapesFallback(rawSvg);
+    parsedShapesCache.set(rawSvg, fallbackRes);
+    return fallbackRes;
   }
 
   const parser = new DOMParser();
   const doc = parser.parseFromString(rawSvg, 'image/svg+xml');
   const svgEl = doc.querySelector('svg');
   if (!svgEl) {
-    return parseIconShapesFallback(rawSvg);
+    const fallbackRes = parseIconShapesFallback(rawSvg);
+    parsedShapesCache.set(rawSvg, fallbackRes);
+    return fallbackRes;
   }
 
   const viewBox = svgEl.getAttribute('viewBox') || '0 0 24 24';
@@ -428,7 +439,9 @@ function parseIconShapes(rawSvg: string): { viewBox: string; shapes: ParsedShape
     };
   });
 
-  return { viewBox, shapes };
+  const result = { viewBox, shapes };
+  parsedShapesCache.set(rawSvg, result);
+  return result;
 }
 
 export function isLightHexColor(hex: string): boolean {

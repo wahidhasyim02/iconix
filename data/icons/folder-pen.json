@@ -1,0 +1,18 @@
+{
+  "name": "folder-pen",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "folder-pen",
+    "folder",
+    "pen",
+    "edit",
+    "write",
+    "rename",
+    "ubah",
+    "tulis",
+    "pena",
+    "berkas"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2 21L4.10705 20.2729C5.00336 19.9636 5.78715 19.3789 6.35403 18.5965L9.62829 14.0772C10.2305 13.2463 10.0862 12.0705 9.30258 11.4215C8.48361 10.7433 7.28505 10.9008 6.6557 11.7694L3.2601 16.4561C2.81363 17.0723 2.51672 17.7907 2.39433 18.5504L2 21Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

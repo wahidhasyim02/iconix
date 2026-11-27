@@ -1,0 +1,17 @@
+{
+  "name": "folder-right-down-cog",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "folder-right-down-cog",
+    "folder",
+    "cog",
+    "gear",
+    "setting",
+    "config",
+    "pengaturan",
+    "konfigurasi",
+    "berkas"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M21.0001 18C21.0001 19.6569 19.6569 21 18.0001 21M21.0001 18C21.0001 16.3431 19.6569 15 18.0001 15M21.0001 18L22 18M18.0001 21C16.3432 21 15.0001 19.6569 15.0001 18M18.0001 21L18.0001 22M15.0001 18C15.0001 16.3431 16.3432 15 18.0001 15M15.0001 18L14 18M18.0001 15L18.0001 14M15.8787 15.8787L15.1716 15.1715M20.8285 15.1716L20.1213 15.8787M20.8284 20.8284L20.1213 20.1213M15.8787 20.1213L15.1716 20.8285\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

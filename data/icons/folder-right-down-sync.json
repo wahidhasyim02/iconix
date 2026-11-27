@@ -1,0 +1,17 @@
+{
+  "name": "folder-right-down-sync",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "folder-right-down-sync",
+    "folder",
+    "sync",
+    "refresh",
+    "synchronize",
+    "sinkron",
+    "perbarui",
+    "sinkronisasi",
+    "berkas"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 21H6C3.79086 21 2 19.2091 2 17V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M12 17C12 19.7614 14.2386 22 17 22C18.6357 22 20.0878 21.2143 21 20M22 17C22 14.2386 19.7614 12 17 12C15.3642 12 13.9118 12.7856 12.9996 14M15 14H12.9996L13 12M19 20H21V22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

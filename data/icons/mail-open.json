@@ -20,5 +20,5 @@
     "access",
     "terbuka"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13.5435 2.92609L20.5435 7.12609C21.4471 7.66826 22 8.64478 22 9.69857L22 19C22 20.6569 20.6569 22 19 22H5C3.34315 22 2 20.6569 2 19V9.69857C2 8.64478 2.5529 7.66826 3.45651 7.12609L10.4565 2.92609C11.4066 2.35606 12.5934 2.35606 13.5435 2.92609Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5 12L11.9282 16L18.8564 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.058 3.23479L20.058 6.83479C21.2628 7.55768 22 8.85971 22 10.2648L22 18C22 20.2091 20.2091 22 18 22H6C3.79086 22 2 20.2091 2 18V10.2648C2 8.85971 2.7372 7.55768 3.94202 6.83479L9.94202 3.23479C11.2087 2.47475 12.7913 2.47475 14.058 3.23479Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5 12L11.9282 16L18.8564 12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

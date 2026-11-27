@@ -1,0 +1,17 @@
+{
+  "name": "folder-input",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "folder-input",
+    "folder",
+    "input",
+    "enter",
+    "import",
+    "masuk",
+    "impor",
+    "panah-masuk",
+    "berkas"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 11V7C2 4.79086 3.79086 3 6 3H9C9.62951 3 10.2223 3.29639 10.6 3.8L11.8 5.4C12.5554 6.40722 13.741 7 15 7H20C21.1046 7 22 7.89543 22 9V17C22 19.2091 20.2091 21 18 21H4.5C3.11929 21 2 19.8807 2 18.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M10.0856 12.4069L12.6569 14.9781L10.0856 17.5494M12.6569 14.9781L7 14.9781H2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "disc-vinyl",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "disc-vinyl",
+    "vinyl",
+    "disc",
+    "record",
+    "groove",
+    "retro",
+    "gramophone",
+    "piringan-hitam",
+    "musik",
+    "lagu"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"12\" cy=\"12\" r=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M18 12C18 14.4215 16.5655 16.508 14.5 17.456M6 12C6 9.54028 7.48012 7.42626 9.59829 6.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

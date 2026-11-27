@@ -1,0 +1,16 @@
+{
+  "name": "folder-search",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "folder-search",
+    "folder",
+    "search",
+    "find",
+    "cari",
+    "telusuri",
+    "pencarian",
+    "berkas"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11.8 5.4L10.6 3.8C10.2223 3.29639 9.62951 3 9 3H6C3.79086 3 2 4.79086 2 7V17C2 19.2091 3.79086 21 6 21H18C20.2091 21 22 19.2091 22 17V9C22 7.89543 21.1046 7 20 7H15C13.741 7 12.5554 6.40722 11.8 5.4Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13.8838 16.0364L14.8474 17M14.6468 13.7471C14.6468 15.2643 13.4169 16.4942 11.8997 16.4942C10.3825 16.4942 9.15259 15.2643 9.15259 13.7471C9.15259 12.2299 10.3825 11 11.8997 11C13.4169 11 14.6468 12.2299 14.6468 13.7471Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "disc",
+  "category": "Media & Audio",
+  "tags": [
+    "iconix",
+    "disc",
+    "cd",
+    "dvd",
+    "compact-disc",
+    "audio",
+    "music",
+    "musik",
+    "piringan",
+    "media"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<circle cx=\"12\" cy=\"12\" r=\"10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<circle cx=\"12\" cy=\"12\" r=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

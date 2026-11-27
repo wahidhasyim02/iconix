@@ -1,5 +1,5 @@
 <template>
-  <div class="sticky top-14 z-20 bg-white/95 dark:bg-[#090B0E]/95 backdrop-blur-md border-b border-slate-200 dark:border-[#1D222B] px-4 lg:px-6 py-3.5 space-y-3 transition-colors">
+  <div class="sticky top-14 z-20 bg-white/95 dark:bg-[#090B0E]/95 backdrop-blur-sm sm:backdrop-blur-md border-b border-slate-200 dark:border-[#1D222B] px-4 lg:px-6 py-3.5 space-y-3 transition-colors will-change-[transform,opacity]">
     <!-- Row 1: Search Bar + Style Variant Segmented Control -->
     <div class="flex flex-col xl:flex-row xl:items-center gap-3">
       <div class="flex items-center gap-2 flex-1 min-w-0">
@@ -47,7 +47,7 @@
       <div
         role="tablist"
         aria-label="Icon style variant"
-        class="flex items-center gap-1 p-1 rounded-lg bg-slate-100 dark:bg-[#101319] border border-slate-200 dark:border-[#1D222B] overflow-x-auto shrink-0"
+        class="flex items-center gap-1 p-1 rounded-lg bg-slate-100 dark:bg-[#101319] border border-slate-200 dark:border-[#1D222B] overflow-x-auto shrink-0 overscroll-x-contain [-webkit-overflow-scrolling:touch]"
       >
         <button
           v-for="opt in STYLE_OPTIONS"
@@ -90,7 +90,8 @@
             max="64"
             step="2"
             :value="settings.size"
-            @input="$emit('update-settings', { size: Number(($event.target as HTMLInputElement).value) })"
+            @input="onSettingInput({ size: Number(($event.target as HTMLInputElement).value) })"
+            @change="onSettingCommit({ size: Number(($event.target as HTMLInputElement).value) })"
             class="studio-slider w-20 sm:w-22"
           />
           <span class="font-mono tabular-nums text-slate-800 dark:text-[#E2E8F0] w-9 text-right">
@@ -111,7 +112,8 @@
             max="3"
             step="0.25"
             :value="settings.strokeWidth"
-            @input="$emit('update-settings', { strokeWidth: Number(($event.target as HTMLInputElement).value) })"
+            @input="onSettingInput({ strokeWidth: Number(($event.target as HTMLInputElement).value) })"
+            @change="onSettingCommit({ strokeWidth: Number(($event.target as HTMLInputElement).value) })"
             class="studio-slider w-20 sm:w-22"
           />
           <span class="font-mono tabular-nums text-slate-800 dark:text-[#E2E8F0] w-9 text-right">
@@ -132,7 +134,8 @@
             max="1"
             step="0.05"
             :value="settings.duotoneOpacity"
-            @input="$emit('update-settings', { duotoneOpacity: Number(($event.target as HTMLInputElement).value) })"
+            @input="onSettingInput({ duotoneOpacity: Number(($event.target as HTMLInputElement).value) })"
+            @change="onSettingCommit({ duotoneOpacity: Number(($event.target as HTMLInputElement).value) })"
             class="studio-slider w-20 sm:w-22"
           />
           <span class="font-mono tabular-nums text-slate-800 dark:text-[#E2E8F0] w-9 text-right">
@@ -151,7 +154,8 @@
               <input
                 type="color"
                 :value="settings.primaryColor"
-                @input="$emit('update-settings', { primaryColor: ($event.target as HTMLInputElement).value })"
+                @input="onSettingInput({ primaryColor: ($event.target as HTMLInputElement).value })"
+                @change="onSettingCommit({ primaryColor: ($event.target as HTMLInputElement).value })"
                 aria-label="Primary icon color"
                 class="opacity-0 absolute inset-0 w-full h-full cursor-pointer"
               />
@@ -171,7 +175,8 @@
               <input
                 type="color"
                 :value="settings.secondaryColor"
-                @input="$emit('update-settings', { secondaryColor: ($event.target as HTMLInputElement).value })"
+                @input="onSettingInput({ secondaryColor: ($event.target as HTMLInputElement).value })"
+                @change="onSettingCommit({ secondaryColor: ($event.target as HTMLInputElement).value })"
                 aria-label="Secondary dualtone color"
                 class="opacity-0 absolute inset-0 w-full h-full cursor-pointer"
               />
@@ -345,7 +350,7 @@ interface Props {
 
 const props = defineProps<Props>();
 
-defineEmits<{
+const emit = defineEmits<{
   'toggle-theme': [];
   'search-change': [query: string];
   'style-change': [variant: IconStyleVariant];
@@ -357,6 +362,33 @@ defineEmits<{
   'view-mode-change': [grouped: boolean];
   'toggle-labels': [];
 }>();
+
+let updateRaf: number | null = null;
+let pendingPatch: Partial<IconSettings> = {};
+
+function onSettingInput(patch: Partial<IconSettings>) {
+  Object.assign(pendingPatch, patch);
+  if (updateRaf !== null) return;
+  if (typeof window !== 'undefined') {
+    updateRaf = window.requestAnimationFrame(() => {
+      emit('update-settings', { ...pendingPatch });
+      pendingPatch = {};
+      updateRaf = null;
+    });
+  } else {
+    emit('update-settings', patch);
+  }
+}
+
+function onSettingCommit(patch: Partial<IconSettings>) {
+  if (updateRaf !== null && typeof window !== 'undefined') {
+    window.cancelAnimationFrame(updateRaf);
+    updateRaf = null;
+  }
+  Object.assign(pendingPatch, patch);
+  emit('update-settings', { ...pendingPatch });
+  pendingPatch = {};
+}
 
 const searchInputRef = ref<HTMLInputElement | null>(null);
 

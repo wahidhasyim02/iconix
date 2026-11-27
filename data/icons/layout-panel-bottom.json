@@ -1,11 +1,13 @@
 {
-  "name": "layout-panel-down",
+  "name": "layout-panel-bottom",
   "category": "General UI",
   "tags": [
     "iconix",
+    "layout-panel-bottom",
     "layout-panel-down",
     "layout",
     "panel",
+    "bottom",
     "down",
     "dashboard",
     "template",
@@ -20,10 +22,7 @@
     "desain",
     "widget",
     "modul",
-    "download",
-    "arrow",
-    "inbound",
-    "receive",
+    "dock",
     "bawah",
     "turun"
   ],
