@@ -1,0 +1,12 @@
+{
+  "name": "git-merge-conflict-1",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "git-merge-conflict-1",
+    "git",
+    "merge",
+    "conflict"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18 15C16.3431 15 15 16.3431 15 18C15 19.6569 16.3431 21 18 21C19.6569 21 21 19.6569 21 18C21 16.3431 19.6569 15 18 15ZM18 15V8C18 6.34315 16.6569 5 15 5H12\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M5 21V11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M2.8787 7.12133L5.00002 5.00001M5.00002 5.00001L7.12134 2.87869M5.00002 5.00001L7.12134 7.12133M5.00002 5.00001L2.8787 2.87869\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

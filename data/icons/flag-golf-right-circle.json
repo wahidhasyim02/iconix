@@ -17,5 +17,5 @@
     "country",
     "bendera"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<ellipse cx=\"12\" cy=\"18\" rx=\"8\" ry=\"4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.0662 5.94244L13.0146 3.18252C12.3588 2.92583 11.6501 3.40945 11.6501 4.11374V9.86524C11.6501 10.5816 12.3812 11.0656 13.0407 10.7858L20.0923 7.79424C20.9174 7.4442 20.9008 6.26911 20.0662 5.94244Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M11.6501 2L11.6501 16.9697\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<ellipse cx=\"12\" cy=\"18\" rx=\"8\" ry=\"4\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.066 5.94245L13.0144 3.18252C12.3586 2.92583 11.65 3.40945 11.65 4.11374V9.86524C11.65 10.5816 12.3811 11.0656 13.0405 10.7858L20.0921 7.79424C20.9172 7.44421 20.9006 6.26911 20.066 5.94245Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M11.65 2L11.65 16.9697\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

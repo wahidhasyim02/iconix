@@ -1,0 +1,11 @@
+{
+  "name": "git-branch",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "git-branch",
+    "git",
+    "branch"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18 3C16.3431 3 15 4.34315 15 6C15 7.65685 16.3431 9 18 9C19.6569 9 21 7.65685 21 6C21 4.34315 19.6569 3 18 3Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M6 15C7.65685 15 9 16.3431 9 18C9 19.6569 7.65685 21 6 21C4.34315 21 3 19.6569 3 18C3 16.3431 4.34315 15 6 15ZM6 15V3M6 15L7.19321 11.2215C8.26877 7.81555 11.4283 5.5 15 5.5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

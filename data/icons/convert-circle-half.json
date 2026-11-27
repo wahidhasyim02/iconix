@@ -1,0 +1,15 @@
+{
+  "name": "convert-circle-half",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "convert-circle-half",
+    "convert",
+    "circle",
+    "half",
+    "split",
+    "partial",
+    "separuh"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M22 6C22 8.20914 20.2091 10 18 10C15.7909 10 14 8.20914 14 6C14 3.79086 15.7909 2 18 2C20.2091 2 22 3.79086 22 6Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 20V16C10 14.8954 9.10457 14 8 14H4C2.89543 14 2 14.8954 2 16L2 20C2 21.1046 2.89543 22 4 22H8C9.10457 22 10 21.1046 10 20Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M3 10.054V6.4054C3 4.52465 4.51104 3 6.375 3H10L6.375 5.83786\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21 13.946V17.5946C21 19.4753 19.489 21 17.625 21H14L17.625 18.1621\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

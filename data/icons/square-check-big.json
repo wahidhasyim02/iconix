@@ -1,0 +1,25 @@
+{
+  "name": "square-check-big",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "square-check-big",
+    "square",
+    "check",
+    "big",
+    "tick",
+    "done",
+    "success",
+    "verified",
+    "approved",
+    "ok",
+    "completed",
+    "confirm",
+    "centang",
+    "selesai",
+    "benar",
+    "sukses",
+    "setuju"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M16 2H6C3.79086 2 2 3.79086 2 6V18C2 20.2091 3.79086 22 6 22H18C20.2091 22 22 20.2091 22 18V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M22 2.5L11.6471 13.5L8.82356 10.5L8.11768 9.75\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

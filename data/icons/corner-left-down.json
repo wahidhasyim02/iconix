@@ -14,5 +14,5 @@
     "bawah",
     "turun"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.1426 14.8575L9.00002 20L3.85742 14.8575M9.00002 20L9.00002 12.0001C9.00002 7.58178 12.5817 4.00006 17 4.00006H19.9782\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.1425 14.8575L8.99995 20L3.85736 14.8575M8.99995 20L8.99996 12.0001C8.99996 7.58178 12.5817 4.00006 17 4.00006H19.9781\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -1,0 +1,17 @@
+{
+  "name": "square-search-dashed",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "square-search-dashed",
+    "square",
+    "search",
+    "dashed",
+    "dotted",
+    "placeholder",
+    "border",
+    "garis-putus",
+    "putus-putus"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M2 10V8M8 2H10M10 22H8M22 8V10M2 16V14M14 2H16M2 19C2 20.6569 3.34315 22 5 22M19 2C20.6569 2 22 3.34315 22 5M2 5C2 3.34315 3.34315 2 5 2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M20.6464 20.7152L22 22M21.7182 17.6628C21.7182 19.6857 19.9905 21.3256 17.8591 21.3256C15.7278 21.3256 14 19.6857 14 17.6628C14 15.6399 15.7278 14 17.8591 14C19.9905 14 21.7182 15.6399 21.7182 17.6628Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

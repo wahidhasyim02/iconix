@@ -104,19 +104,19 @@
 
               <!-- 4-Corner Selection / Transform Dots (Figma / Vuesax style) -->
               <span
-                class="pointer-events-none absolute -top-1 -left-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                class="pointer-events-none absolute -top-1 -left-1 w-2 h-2 rounded-[2px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
                 :class="{ '!opacity-100': selectedIconName === icon.name }"
               />
               <span
-                class="pointer-events-none absolute -top-1 -right-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                class="pointer-events-none absolute -top-1 -right-1 w-2 h-2 rounded-[2px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
                 :class="{ '!opacity-100': selectedIconName === icon.name }"
               />
               <span
-                class="pointer-events-none absolute -bottom-1 -left-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                class="pointer-events-none absolute -bottom-1 -left-1 w-2 h-2 rounded-[2px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
                 :class="{ '!opacity-100': selectedIconName === icon.name }"
               />
               <span
-                class="pointer-events-none absolute -bottom-1 -right-1 w-2 h-2 rounded-[1px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
+                class="pointer-events-none absolute -bottom-1 -right-1 w-2 h-2 rounded-[2px] bg-slate-900 dark:bg-white ring-1 ring-teal-500/40 dark:ring-[#2DD4BF]/50 opacity-0 group-hover:opacity-100 transition-opacity duration-100 z-20"
                 :class="{ '!opacity-100': selectedIconName === icon.name }"
               />
 

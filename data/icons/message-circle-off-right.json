@@ -31,5 +31,5 @@
     "garis-miring",
     "strip"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19.5 5.5L19.5484 5.44063C21.0754 7.19647 22 9.49026 22 12C22 13.9342 21.4509 15.7401 20.5 17.2704L22 22L15.6527 21.3119C14.5212 21.7561 13.2891 22 12 22C9.49307 22 7.2016 21.0775 5.44652 19.5535M3.18955 16.7344C2.43064 15.3251 2 13.7128 2 12C2 6.47715 6.47715 2 12 2C13.7128 2 15.3251 2.43064 16.7344 3.18955\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M3.32227 21L21.707 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M19.5 5.5L19.5484 5.44063C21.0754 7.19647 22 9.49026 22 12C22 13.9342 21.4509 15.7401 20.5 17.2704L22 22L15.6527 21.3119C14.5212 21.7561 13.2891 22 12 22C9.49307 22 7.2016 21.0775 5.44652 19.5535M3.18955 16.7344C2.43064 15.3251 2 13.7128 2 12C2 6.47715 6.47715 2 12 2C13.7128 2 15.3251 2.43064 16.7344 3.18955\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M3.3222 21L21.707 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

@@ -3,8 +3,8 @@
 <path d="M21 9H3" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
 <path d="M8 5V2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
 <path d="M16 5V2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
-<path d="M10 13H17.8284" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
-<path d="M6 13H6.82843" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
+<path d="M9.99994 13H17.8284" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
+<path d="M5.99994 13H6.82837" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
 <path d="M13.8284 17H6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
 <path d="M17.8284 17H17" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke="black"/>
 </svg>

@@ -14,5 +14,5 @@
     "atas",
     "naik"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.1426 9.14259L9.00002 4L3.85742 9.14259M9.00002 4L9.00002 12C9.00002 16.4183 12.5817 20 17 20H19.9782\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.1425 9.14259L8.99995 4L3.85736 9.14259M8.99995 4L8.99996 12C8.99996 16.4183 12.5817 20 17 20H19.9781\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }
