@@ -1,0 +1,26 @@
+{
+  "name": "layout-arrow-right-1",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "layout-arrow-right-1",
+    "layout",
+    "arrow",
+    "right",
+    "dashboard",
+    "template",
+    "view",
+    "workspace",
+    "interface",
+    "structure",
+    "tata-letak",
+    "kerangka",
+    "struktur",
+    "wireframe",
+    "desain",
+    "panel",
+    "widget",
+    "modul"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14.5641 6.14305L17.7782 2.92893L20.9923 6.14305M17.7782 2.92893V21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eighth-note",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "eighth-note",
+    "eighth",
+    "note"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 17.5C14 19.9853 11.9853 22 9.5 22C7.01472 22 5 19.9853 5 17.5C5 15.0147 7.01472 13 9.5 13C11.9853 13 14 15.0147 14 17.5ZM14 17.5V2L19 5\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

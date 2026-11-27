@@ -1,0 +1,20 @@
+{
+  "name": "volume-off",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "volume-off",
+    "volume",
+    "off",
+    "slash",
+    "disabled",
+    "turn-off",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.64588 6.99999H4.6C3.16406 6.99999 2 8.11928 2 9.49999V14.5C2 15.8807 3.16406 17 4.6 17H5.64588C6.61548 17 7.55208 17.3522 8.28145 17.991L10.6822 20.0939C11.9752 21.2264 14 20.3082 14 18.5894V15M10.6822 3.90608C11.9752 2.77357 14 3.69175 14 5.41056V7.81225M21.9315 12.2629C21.9315 13.5865 21.6658 14.848 21.1848 15.9971M21.9315 12.2373C21.9315 9.86097 21.0751 7.68463 19.6541 6.00011M18.4657 12.2287C18.4657 12.5556 18.4333 12.875 18.3715 13.1838M18.4657 12.2159C18.4657 11.0277 18.0375 9.93953 17.327 9.09727\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.29296 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

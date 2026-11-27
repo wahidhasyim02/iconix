@@ -1,0 +1,30 @@
+{
+  "name": "file-left-down-key",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "file-left-down-key",
+    "file",
+    "left",
+    "down",
+    "key",
+    "document",
+    "page",
+    "doc",
+    "paper",
+    "berkas",
+    "dokumen",
+    "sheet",
+    "draft",
+    "access",
+    "secret",
+    "password",
+    "passkey",
+    "credential",
+    "auth",
+    "token",
+    "kunci",
+    "sandi"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M12 22H17C19.2091 22 21 20.2091 21 18V13.5V10.8151C21 9.66162 20.5021 8.56432 19.634 7.80477L14.1311 2.98969C13.4019 2.35167 12.466 2 11.4971 2H7C4.79086 2 3 3.79086 3 6V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M7.5611 11.7317H6.244C5.9881 11.7317 5.7806 11.9392 5.7806 12.1951M5.7806 12.1951V12.6585M5.7806 12.1951V10.5M5.7806 12.6585C5.7806 12.9145 5.9881 13.122 6.244 13.122H7.0611M5.7806 12.6585V16.439M5.7806 16.439C4.245 16.439 3 17.6839 3 19.2195C3 20.7551 4.2449 22 5.7805 22C7.3161 22 8.561 20.7551 8.561 19.2195C8.561 17.6839 7.3162 16.439 5.7806 16.439Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

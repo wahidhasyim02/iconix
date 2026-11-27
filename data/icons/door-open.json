@@ -1,0 +1,14 @@
+{
+  "name": "door-open",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "door-open",
+    "door",
+    "open",
+    "unlocked",
+    "access",
+    "terbuka"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 21V7C5 4.79086 6.79086 3 9 3H11M2 21H11M22 21H20\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 21V5.64835C19 4.13538 17.8734 2.85917 16.3721 2.67151L12.124 2.1405C11.5272 2.0659 11 2.53128 11 3.13278V20.905C11 21.493 11.5049 21.9541 12.0905 21.9009L22 21\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M14.3 12H14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

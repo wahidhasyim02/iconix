@@ -1,0 +1,12 @@
+{
+  "name": "door-closed-locked",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "door-closed-locked",
+    "door",
+    "closed",
+    "locked"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5 21V7C5 4.79086 6.79086 3 9 3H15C17.2091 3 19 4.79086 19 7V9M2 21H11\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.25 16.5556V14.7778C20.25 13.7959 19.4665 13 18.5 13C17.5335 13 16.75 13.7959 16.75 14.7778V16.5556M15.875 16.5556H21.125C21.6082 16.5556 22 16.9535 22 17.4444V20.1111C22 20.602 21.6082 21 21.125 21H15.875C15.3918 21 15 20.602 15 20.1111V17.4444C15 16.9535 15.3918 16.5556 15.875 16.5556Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10 12H9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

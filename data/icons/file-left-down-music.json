@@ -1,0 +1,21 @@
+{
+  "name": "file-left-down-music",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "file-left-down-music",
+    "file",
+    "left",
+    "down",
+    "music",
+    "document",
+    "page",
+    "doc",
+    "paper",
+    "berkas",
+    "dokumen",
+    "sheet",
+    "draft"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M11 22H17C19.2091 22 21 20.2091 21 18V13.5V10.8151C21 9.66162 20.5021 8.56432 19.634 7.80477L14.1311 2.98969C13.4019 2.35167 12.466 2 11.4971 2H7C4.79086 2 3 3.79086 3 6V14\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M6.85714 19.975C6.85714 21.0934 5.99369 22 4.92857 22C3.86345 22 3 21.0934 3 19.975C3 18.8566 3.86345 17.95 4.92857 17.95C5.99369 17.95 6.85714 18.8566 6.85714 19.975ZM6.85714 19.975V13L9 14.35\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

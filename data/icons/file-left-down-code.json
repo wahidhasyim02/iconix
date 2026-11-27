@@ -1,0 +1,30 @@
+{
+  "name": "file-left-down-code",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "file-left-down-code",
+    "file",
+    "left",
+    "down",
+    "code",
+    "document",
+    "page",
+    "doc",
+    "paper",
+    "berkas",
+    "dokumen",
+    "sheet",
+    "draft",
+    "developer",
+    "coding",
+    "html",
+    "bracket",
+    "syntax",
+    "programming",
+    "dev",
+    "script",
+    "source"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M14 22H17C19.2091 22 21 20.2091 21 18V13.5V10.8151C21 9.66162 20.5021 8.56432 19.634 7.80477L14.1311 2.98969C13.4019 2.35167 12.466 2 11.4971 2H7C4.79086 2 3 3.79086 3 6V10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M5.5 21L2.5 18L5.5 15M9.5 21L12.5 18L9.5 15\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

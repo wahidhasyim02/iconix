@@ -1,0 +1,21 @@
+{
+  "name": "file-left-down-volume",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "file-left-down-volume",
+    "file",
+    "left",
+    "down",
+    "volume",
+    "document",
+    "page",
+    "doc",
+    "paper",
+    "berkas",
+    "dokumen",
+    "sheet",
+    "draft"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M15 22H17C19.2091 22 21 20.2091 21 18V13.5V10.8151C21 9.66162 20.5021 8.56432 19.634 7.80477L14.1311 2.98969C13.4019 2.35167 12.466 2 11.4971 2H7C4.79086 2 3 3.79086 3 6V8\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M13 16.1597C13 16.9893 12.7139 17.749 12.2393 18.3371M13 16.1507C13 15.3211 12.7139 14.5613 12.2393 13.9733M2 14.2545V17.7455C2 18.7096 2.77765 19.4911 3.73694 19.4911H4.43565C5.08339 19.4911 5.70909 19.737 6.19635 20.183L7.80019 21.6513C8.66395 22.442 10.0166 21.8009 10.0166 20.6008V11.3992C10.0166 10.1991 8.66395 9.55797 7.80019 10.3487L6.19635 11.817C5.70909 12.263 5.08339 12.5089 4.43565 12.5089H3.73694C2.77765 12.5089 2 13.2904 2 14.2545Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

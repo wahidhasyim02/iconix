@@ -189,7 +189,7 @@ const is404 = computed(() => {
 });
 
 const isDark = ref(true);
-const totalIcons = ref(900);
+const totalIcons = ref(1002);
 
 onMounted(async () => {
   if (typeof document !== 'undefined') {

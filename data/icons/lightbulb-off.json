@@ -1,0 +1,20 @@
+{
+  "name": "lightbulb-off",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "lightbulb-off",
+    "lightbulb",
+    "off",
+    "slash",
+    "disabled",
+    "turn-off",
+    "inactive",
+    "mute",
+    "mati",
+    "nonaktif",
+    "garis-miring",
+    "strip"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M5.18903 6.5C5.06563 6.97943 5 7.48205 5 8V8.5C5 10.0738 5.74097 11.5557 7 12.5L7.79024 13.0927C8.5518 13.6639 9 14.5602 9 15.5122C9 15.7816 9.2184 16 9.4878 16H14.5122C14.5655 16 14.6167 15.9915 14.6647 15.9757M8.04871 2.77482C8.92013 2.28156 9.92718 2 11 2H13C16.3137 2 19 4.68629 19 8V8.5C19 9.88946 18.4224 11.2073 17.4207 12.1468M15 19H9M14 22H10\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M20.6777 21L2.29296 2.61522\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

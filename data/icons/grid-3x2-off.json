@@ -30,5 +30,5 @@
     "6-cells",
     "enam-kotak"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 3H15M9 3H8M9 3V3.5M15 3H19C20.1046 3 21 3.89543 21 5V12M15 3V9M9 12H3M9 12V21M9 12V11M3 12V5M3 12V19C3 20.1046 3.89543 21 5 21H9M21 12V15.5M21 12H17.5M15 21H9M15 21H19C19.2983 21 19.5814 20.9347 19.8357 20.8176M15 21V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21.293 21.6152L2.29297 2.61523\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M9 3H15M9 3H8M9 3V3.5M15 3H19C20.1046 3 21 3.89543 21 5V12M15 3V9M9 12H3M9 12V21M9 12V11M3 12V5M3 12V19C3 20.1046 3.89543 21 5 21H9M21 12V15.5M21 12H17.5M15 21H9M15 21H19C19.2983 21 19.5814 20.9347 19.8357 20.8176M15 21V16\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M21.2928 21.6152L2.29285 2.61523\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }

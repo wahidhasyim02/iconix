@@ -1,0 +1,24 @@
+{
+  "name": "file-left-down-camera",
+  "category": "Files & Folders",
+  "tags": [
+    "iconix",
+    "file-left-down-camera",
+    "file",
+    "left",
+    "down",
+    "camera",
+    "document",
+    "page",
+    "doc",
+    "paper",
+    "berkas",
+    "dokumen",
+    "sheet",
+    "draft",
+    "webcam",
+    "video",
+    "optic"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M18 22C19.6569 22 21 20.6569 21 19V13.5V10.8151C21 9.66162 20.5021 8.56432 19.634 7.80477L14.1311 2.98969C13.4019 2.35167 12.466 2 11.4971 2H7C4.79086 2 3 3.79086 3 6V9\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M13 4V7C13 8.10457 13.8954 9 15 9H19\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<path d=\"M10.2941 12.5997L10.9559 13.7532C11.1685 14.1237 11.5683 14.3529 12.0018 14.3529H12.2C13.1941 14.3529 14 15.143 14 16.1176V20.2353C14 21.2099 13.1941 22 12.2 22H3.8C2.80589 22 2 21.2099 2 20.2353V16.1176C2 15.143 2.80589 14.3529 3.8 14.3529H3.99818C4.43171 14.3529 4.83153 14.1237 5.04407 13.7532L5.70593 12.5997C5.91847 12.2292 6.31829 12 6.75182 12H9.24818C9.68171 12 10.0815 12.2292 10.2941 12.5997ZM10.4 17.8824C10.4 19.1818 9.32548 20.2353 8 20.2353C6.67452 20.2353 5.6 19.1818 5.6 17.8824C5.6 16.5829 6.67452 15.5294 8 15.5294C9.32548 15.5294 10.4 16.5829 10.4 17.8824Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n</svg>"
+}

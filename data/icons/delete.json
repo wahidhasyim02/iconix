@@ -1,0 +1,9 @@
+{
+  "name": "delete",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "delete"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M4.04464 9.63194L8.91667 5.84259C9.6188 5.29649 10.4829 5 11.3724 5L18 5C20.2091 5 22 6.79086 22 9V15C22 17.2091 20.2091 19 18 19H11.3724C10.4829 19 9.6188 18.7035 8.91667 18.1574L4.04464 14.3681C2.50041 13.167 2.5004 10.833 4.04464 9.63194Z\" stroke-width=\"2\" stroke=\"black\"/>\n<path d=\"M17.1213 14.1213L15 12M15 12L12.8786 9.87868M15 12L12.8786 14.1213M15 12L17.1213 9.87868\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "layout-panel-right",
+  "category": "General UI",
+  "tags": [
+    "iconix",
+    "layout-panel-right",
+    "layout",
+    "panel",
+    "right",
+    "dashboard",
+    "template",
+    "view",
+    "workspace",
+    "interface",
+    "structure",
+    "tata-letak",
+    "kerangka",
+    "struktur",
+    "wireframe",
+    "desain",
+    "widget",
+    "modul",
+    "outgoing",
+    "send",
+    "kanan",
+    "keluar"
+  ],
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect x=\"14\" y=\"3\" width=\"7\" height=\"18\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n<rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"2\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+}

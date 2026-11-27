@@ -27,5 +27,5 @@
     "premium",
     "bintang"
   ],
-  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 14H9C5.68629 14 3 16.6863 3 20V22\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M7 7C7 9.20914 8.79086 11 11 11C13.2091 11 15 9.20914 15 7C15 4.79086 13.2091 3 11 3C8.79086 3 7 4.79086 7 7Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 14L20.4107 16.0584L22.8042 16.7639L21.2825 18.7416L21.3511 21.2361L19 20.4L16.6489 21.2361L16.7175 18.7416L15.1958 16.7639L17.5893 16.0584L19 14Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
+  "svg": "<svg width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<path d=\"M13 14H9C5.68629 14 3 16.6863 3 20V22M7 7C7 9.20914 8.79086 11 11 11C13.2091 11 15 9.20914 15 7C15 4.79086 13.2091 3 11 3C8.79086 3 7 4.79086 7 7Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke=\"black\"/>\n<path d=\"M19 14L20.4107 16.0584L22.8042 16.7639L21.2825 18.7416L21.3511 21.2361L19 20.4L16.6489 21.2361L16.7175 18.7416L15.1958 16.7639L17.5893 16.0584L19 14Z\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke=\"black\"/>\n</svg>"
 }
